@@ -2,6 +2,5 @@
 
 ![Podcast](images/podcast.gif)
 
-QB64 is a modern BASIC+OpenGL language that compiles native binaries for Windows, macOS and Linux. We'll be talking all things QB64 and then more.
-
+- [The Lunduke Journal Podcast - The QB64 Saga](https://youtu.be/qOh5uvKHXXo)
 - [Buzzsprout](https://qb64.buzzsprout.com/)
