@@ -1,7 +1,5 @@
 [Home](https://qb64.com) • [News](news.md) • [GitHub](github.md) • [Discord](discord.md) • [Forum](forum.md) • [Wiki](wiki.md) • [Podcast](podcast.md) • [YouTube](youtube.md) • [More...](more.md)
 
-![News](images/news.jpg)
-
 ### 2022-04-25
 
 Bryan Lunduke follows up his article more details and commentary via his most recent [The Lunduke Journal Podcast episode](https://youtu.be/qOh5uvKHXXo).
