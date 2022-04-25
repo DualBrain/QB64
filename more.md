@@ -8,6 +8,10 @@
 
 - [QB64 Game Programming](http://qb64sourcecode.com/)
 
+### Projects
+
+- [QBSH](https://github.com/vwbusguy/qbsh): Quick BASIC Shell
+
 ### Hobbyist
 
 - [Basic Forever](https://felix.plesoianu.ro/languages/basic/index.html)
