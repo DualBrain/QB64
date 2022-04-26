@@ -1,4 +1,4 @@
-[Home](https://qb64.com) • [News](news.md) • [GitHub](github.md) • [Discord](discord.md) • [Forum](forum.md) • [Wiki](wiki.md) • [Podcast](podcast.md) • [YouTube](youtube.md) • [More...](more.md)
+[Home](https://qb64.com) • [News](news.md) • [GitHub](github.md) • [Discord](discord.md) • [Forum](forum.md) • [Wiki](wiki.md) • [Podcast](podcast.md) • [YouTube](youtube.md) • [Rolodex](rolodex.md) • [More...](more.md)
 
 <img src="images/qb64.png" alt="TUI Interface" title="This is a test" style="display:block;margin-left:auto;margin-right:auto">
 
