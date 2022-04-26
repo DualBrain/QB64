@@ -14,6 +14,7 @@
 
 ### Hobbyist
 
+- [William F. Barnes](https://barnes.x10host.com/home/index.php)
 - [Basic Forever](https://felix.plesoianu.ro/languages/basic/index.html)
 - [Domain Coloring](https://www.shadertoy.com/view/7sK3zz)
 - [MasterGuy @ YouTube](https://www.youtube.com/channel/UCH_5AsiZgq1X8QwbW0Muzqg)
