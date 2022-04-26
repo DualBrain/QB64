@@ -21,3 +21,7 @@ In addition to forums (in the classic sense), you can find several communities h
 
 - [I love QB64 (Facebook)](https://www.facebook.com/groups/114484741910416)
 - [Scott Williams (Mastadon)](https://mastodon.online/@vwbusguy)
+- [Reddit](https://www.reddit.com/r/qb64)
+- [Instagram](https://www.instagram.com/QB64Team)
+- [Twitter](https://twitter.com/QB64Team)
+- [Facebook](https://www.facebook.com/QB64Team)

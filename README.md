@@ -23,8 +23,3 @@ Unlike traditional BASIC and QBasic code, QB64 gets compiled automatically into 
 QB64 is available for all recent Windows, Linux, and macOS versions.
 
 Interested in playing with QBasic/QB64 in the browser?  Check out [QBJS](qbjs.md)!
-
-- [Reddit](https://www.reddit.com/r/qb64)
-- [Instagram](https://www.instagram.com/QB64Team)
-- [Twitter](https://twitter.com/QB64Team)
-- [Facebook](https://www.facebook.com/QB64Team)
