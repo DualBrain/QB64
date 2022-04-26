@@ -25,4 +25,4 @@
 - [S01E04 – Networking in QB64](https://www.amazon.com/arya/webplayer?marketplaceId=AF2M0KC94RCEA&initialCPLaunch=true&useRelativeUrl=true&asin=B09NZ94SGF&language=en_US&fetchNewPlayQueue=true&contentDeliveryType=PodcastEpisode)
 - [S01E03 – A QB64 game on Steam?](https://www.amazon.com/arya/webplayer?marketplaceId=AF2M0KC94RCEA&initialCPLaunch=true&useRelativeUrl=true&asin=B09L8QQ5MR&language=en_US&fetchNewPlayQueue=true&contentDeliveryType=PodcastEpisode)
 - [S01E02 – SCREEN modes](https://www.amazon.com/arya/webplayer?marketplaceId=AF2M0KC94RCEA&initialCPLaunch=true&useRelativeUrl=true&asin=B09KYG33PY&language=en_US&fetchNewPlayQueue=true&contentDeliveryType=PodcastEpisode)
-- [S01E01 – Option _Explicit]https://www.amazon.com/arya/webplayer?marketplaceId=AF2M0KC94RCEA&initialCPLaunch=true&useRelativeUrl=true&asin=B09NV2GNFG&language=en_US&fetchNewPlayQueue=true&contentDeliveryType=PodcastEpisode)
+- [S01E01 – Option _Explicit](https://www.amazon.com/arya/webplayer?marketplaceId=AF2M0KC94RCEA&initialCPLaunch=true&useRelativeUrl=true&asin=B09NV2GNFG&language=en_US&fetchNewPlayQueue=true&contentDeliveryType=PodcastEpisode)
