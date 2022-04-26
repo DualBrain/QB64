@@ -19,5 +19,3 @@
 - [MasterGuy @ YouTube](https://www.youtube.com/channel/UCH_5AsiZgq1X8QwbW0Muzqg)
 - [Paul Nylander](http://www.bugman123.com/index.html)
 - [The Retro Dev](https://www.theretrodev.com/)
-
-### Archived
