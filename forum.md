@@ -2,9 +2,11 @@
 
 ![Forum](images/mybb.png)
 
-The official forum can be found at:
+The current "official" forum can currently be found at:
 
-- [Forum](https://forum.qb64phoenix.com)
+- [Current "Official"](https://forum.qb64phoenix.com)
+
+From purely historical point of view, check out were Rob Galleon used to hang out over at [THE QBASIC FORUM](https://www.tapatalk.com/groups/qbasic/qb64-project-f585676/) when he was discussing the "QB64 Project".
 
 With that said, there are many forums that welcome conversation about QB64:
 
