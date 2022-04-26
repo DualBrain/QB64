@@ -10,7 +10,7 @@
 
 **How BASIC made its way into the 21st century**
 
-<img src="images/colorwin10.png" alt="TUI Interface" title="This is a test" style="float:right;width:214px;height:144px;padding:6px">
+<img src="images/colorwin10.png" alt="TUI Interface" title="Settings" style="float:right;width:214px;height:144px;padding:6px">
 
 The BASIC language has been the gateway into programming for countless people. Popular as a beginner programming language in the 80’s and evolving into a powerful professional tool in 90’s, BASIC (and its successor QBasic), helped many people develop a love for programming. These languages provided the foundational learning platform for most of today’s professional developers.
 
