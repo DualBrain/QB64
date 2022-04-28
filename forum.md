@@ -6,6 +6,10 @@ The current "official" forum can currently be found at:
 
 - [Current "Official"](https://forum.qb64phoenix.com)
 
+The restored (before April/2022 meltdown) forum can be found at: 
+
+- [QB64.org Forum (Read-Only)](https://qb64forum.alephc.xyz/index.php)
+
 From purely historical point of view, check out were Rob Galleon used to hang out over at [THE QBASIC FORUM](https://www.tapatalk.com/groups/qbasic/qb64-project-f585676/) when he was discussing the "QB64 Project".
 
 With that said, there are many forums that welcome conversation about QB64:
