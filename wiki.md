@@ -2,10 +2,10 @@
 
 ## Wiki
 
-You can find several copies of the QB64 wiki on the internet; the official one is located at:
+You can find several copies of the QB64 wiki on the internet; the current official one is located at:
 
 - [Wiki](https://wiki.qb64phoenix.com)
 
-While several backup copies exist, located at:
+Alternates:
 
-- []()
+- [Studio Pond](http://www.studiopond.uk/qb64wiki/index.html)
