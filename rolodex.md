@@ -33,3 +33,37 @@ This page is dedicated to those individuals who have contributed to the QB64 com
 - "memreflect": [GitHub](https://github.com/memreflect)
 - "Pirachy": [GitHub](https://github.com/pirachy)
 - "QB64Cobalt": [GitHub](https://github.com/qb64cobalt)
+
+### Samples/Tutorials
+
+- [Paul Ramnora](https://github.com/pramnora/qb64)
+
+### Past Patreon Supporters
+
+We'd like to take a moment to thanks the following individuals for thier willingness to contribute financially to the project.
+
+- Garry Chike
+- Jessee G. Donat
+- J Homes
+- Dave Mackey
+- George McGinn
+- Rafal Michno
+- Paul Milham
+- Richard Notley
+- James T O'Shea
+- Terry Ritchie
+- Amar Sahinovic
+- Caglar Toklu
+- John Paul Wohlscheid
+- Stanislav Zamakhayev
+- Maarten Zinkstok
+- Uncultured Games
+- "8bitworkshop"
+- "CapitanKeen"
+- "Herminator 3"
+- "RCcola1987"
+- "Sergey"
+- "visionmercer"
+- and two more (anonymous)
+
+Patreon and other donations are currently paused until further notice.  Until such time that a dedicated "treasurer" is determined and, more importantly, specific uses for such funds are determined - no money is being asked for. If and when the opportunity for sponsorship is reinstated, it will be the responsibility of the "treasurer" to distribute funds and publish these distributions for the general public to see (complete transparency).

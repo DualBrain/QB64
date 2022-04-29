@@ -4,7 +4,7 @@
 
 You can find the source code behind QB64 on our GitHub repo:
 
-- [GitHub](https://github.com/QB64Team/qb64)
+- [GitHub](https://github.com/QB64Official/qb64)
 
 Additionally, there are several "unofficial" *official* forks:
 
