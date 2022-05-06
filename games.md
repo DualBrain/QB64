@@ -8,11 +8,25 @@ The following games are still in development by their original author(s)/team(s)
 
 **TerraQuest**
 
-[TerraQuest (GitHub)](https://github.com/MaxineHelsel/CDF-Quest)
+TerraQuest is a game in active development. • [GitHub](https://github.com/MaxineHelsel/CDF-Quest)
 
 ### Completed
 
-*coming soon*
+Although nothing is truly ever *completed*, these are games that can be considered done enough to be very playable/enjoyable.
+
+**Chess**
+
+![Chess](images/chessqbt.png)
+
+For Windows, Linux, and maybe Mac (last untested). Slices, dices, and makes Julienne fries!  No Ginsu knives. • [download](downloads/chess.7z) •  [more...](https://qb64phoenix.com/forum/showthread.php?tid=3)
+
+---
+
+**Moon Lander**
+
+![MoonLander](images/lander_003.png)
+
+Objective is to land softly on level ground.  Cancel the horizontal velocity with left and right arrow, land by controlling the main thrust with up and down arrow. Has 10 surface features, including a McDonalds.  Several flying features, like a Death Star, Borg spacecraft, and black holes. Most of the files, in the directories stars1-3, are optional, only called upon if one turns on the stars with 1-4. Originally written in QB4.5.  Translated to QB64 it's much faster, which allows all features to be active at once - stuff like fancy ground, stars, a rotating Death Star, etc. Take a trip down memory lane with /, which changes the display to green screen, amber, or black & white. • [download](downloads/L64.7z) •  [more...](https://qb64phoenix.com/forum/showthread.php?tid=223)
 
 ### Proof-of-Concepts
 
@@ -20,14 +34,15 @@ The following games are designed as visible examples demonstrating techniques, i
 
 **Sleighless**
 
-Oh no! Santa has fallen out of the sleigh!  Rudolph is gone and now Santa must save Christmas alone and... Sleighless!  This is a [demonstration](https://boxgm.itch.io/sleighless) of the GX game engine's ability to export games built in QB64 to the web. [download](downloads/santa.zip) [more...](https://qb64forum.alephc.xyz/index.php?topic=4454.msg139230#msg139230)
+Oh no! Santa has fallen out of the sleigh!  Rudolph is gone and now Santa must save Christmas alone and... Sleighless!  This is a [demonstration](https://boxgm.itch.io/sleighless) of the GX game engine's ability to export games built in QB64 to the web.  • [download](downloads/santa.zip) • [more...](https://qb64forum.alephc.xyz/index.php?topic=4454.msg139230#msg139230)
 
 ---
 
-Zelda - The Legend of GX
+**Zelda - The Legend of GX**
+
 ![ZeldaGX](https://qb64forum.alephc.xyz/index.php?action=dlattach;topic=4528.0;attach=18051;image)
 
-Since there are a number of zelda projects currently in-progress, I thought I'd put together a little version as a shameless plug for GX.  One of my current game projects is actually a NES mashup that will have crossover from a number of titles.  So I already had the map built using the GX map editor.  This version will let you walk the entire overworld map.  As an example I've also implemented the lost woods maze.  There are triggers on the map for all of the cave and dungeon entrances.  At the moment this will take you to an empty cave map.  (I haven't built any dungeon maps.)  If you exit the cave it reloads the overworld map and puts you back in the right spot. [download](downloads/legend-of-gx.zip) [more...](https://qb64forum.alephc.xyz/index.php?topic=4528.0)
+Since there are a number of zelda projects currently in-progress, I thought I'd put together a little version as a shameless plug for GX.  One of my current game projects is actually a NES mashup that will have crossover from a number of titles.  So I already had the map built using the GX map editor.  This version will let you walk the entire overworld map.  As an example I've also implemented the lost woods maze.  There are triggers on the map for all of the cave and dungeon entrances.  At the moment this will take you to an empty cave map.  (I haven't built any dungeon maps.)  If you exit the cave it reloads the overworld map and puts you back in the right spot. • [download](downloads/legend-of-gx.zip) • [more...](https://qb64forum.alephc.xyz/index.php?topic=4528.0)
 
 Resources:
 
@@ -42,7 +57,7 @@ The following entries are designed (hopefully) to make it easier for a QB64 game
 
 **GX Game Engine**
 
-[GX](https://github.com/boxgaming/gx) is a basic game engine... literally. This is a Game(G) Engine(X) built with and for QB64. GX supports basic 2D gaming: platformer, top-down, etc.... you know, classic NES/SNES type games.
+GX is a basic game engine... literally. This is a Game(G) Engine(X) built with and for QB64. GX supports basic 2D gaming: platformer, top-down, etc.... you know, classic NES/SNES type games. • [GitHub](https://github.com/boxgaming/gx)
 
 ### Incomplete/Abandoned?
 
