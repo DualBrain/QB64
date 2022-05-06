@@ -24,7 +24,7 @@ InForm is a Rapid Application Development tool for QB64. It consists of a librar
 
 ### Wiki
 
-You can find the InForm wiki on [FillippeHeitor's GitHub repo](https://github.com/FellippeHeitor/InForm/wiki).
+You can find the InForm wiki on [Fellippe Heitor's GitHub repo](https://github.com/FellippeHeitor/InForm/wiki).
 
 ### Blog
 
