@@ -1,4 +1,4 @@
-[Home](https://qb64.com) • [News](news.md) • [GitHub](github.md) • [Discord](discord.md) • [Forum](forum.md) • [Wiki](wiki.md) • [Podcast](podcast.md) • [YouTube](youtube.md) • [Rolodex](rolodex.md) • [More...](more.md)
+[Home](https://qb64.com) • [News](news.md) • [GitHub](github.md) • [Wiki](wiki.md) • [Games](games.md) • [Media](media.md) • [Community](community.md) • [Rolodex](rolodex.md) • [More...](more.md)
 
 <img src="images/qb64.png" alt="TUI Interface" title="This is a test" style="display:block;margin-left:auto;margin-right:auto">
 
@@ -23,5 +23,7 @@ The QB64 project has evolved over the last decade to bring the magic and educati
 Unlike traditional BASIC and QBasic code, QB64 gets compiled automatically into machine code – allowing exceptional performance, easy distribution, and the ability to link with external C and C++ programming libaries. Compatible with most QBasic 4.5 code, QB64 adds a number of extensions, such as OpenGL and other modern features, providing the perfect blend of classic and modern program development.
 
 QB64 is available for all recent Windows, Linux, and macOS versions.
+
+For some of the early history of QB64, check out [these interviews](galleon.md).
 
 Interested in playing with QBasic/QB64 in the browser?  Check out [QBJS](qbjs.md)!

@@ -1,4 +1,4 @@
-[Home](https://qb64.com) • [News](news.md) • [GitHub](github.md) • [Discord](discord.md) • [Forum](forum.md) • [Wiki](wiki.md) • [Podcast](podcast.md) • [YouTube](youtube.md) • [Rolodex](rolodex.md) • [More...](more.md)
+[Home](https://qb64.com) • [News](news.md) • [GitHub](github.md) • [Wiki](wiki.md) • [Games](games.md) • [Media](media.md) • [Community](community.md) • [Rolodex](rolodex.md) • [More...](more.md)
 
 ## ROLODEX
 
@@ -9,7 +9,7 @@ This page is dedicated to those individuals who have contributed to the QB64 com
 - [William "Bill" F. Barnes (STxAxTIC/Sprezzo)](https://barnes.x10host.com/home/index.php): [Projects](https://barnes.x10host.com/pages/QB64-Projects/QB64-Projects.php) • [GitHub](https://github.com/wfbarnes) • [Discord](https://discord.com/channels/917123975816052817/917123976336138312)
 - Emmanuel Bourg: [GitHub](https://github.com/ebourg)
 - Luke Ceddia: [GitHub](https://github.com/flukiluke)
-- Rob Galleon (Galleondragon): [GitHub](https://github.com/Galleondragon) • [QB64 v1.3 (GitHub)](https://github.com/Galleondragon/qb64) • [Interview](galleon.md)
+- Rob Galleon (Galleondragon): [GitHub](https://github.com/Galleondragon) • [QB64 v1.3 (GitHub)](https://github.com/Galleondragon/qb64) • [Interviews](galleon.md)
 - Jussi Hagman: [GitHub](https://github.com/juhagman)
 - Roland Heyder: [GitHub](https://github.com/RhoSigma-QB64)
 - Fellippe Heitor: [GitHub](https://github.com/FellippeHeitor) • [InForm (GitHub)](https://github.com/FellippeHeitor/InForm)

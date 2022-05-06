@@ -1,4 +1,4 @@
-[Home](https://qb64.com) • [News](news.md) • [GitHub](github.md) • [Discord](discord.md) • [Forum](forum.md) • [Wiki](wiki.md) • [Podcast](podcast.md) • [YouTube](youtube.md) • [Rolodex](rolodex.md) • [More...](more.md)
+[Home](https://qb64.com) • [News](news.md) • [GitHub](github.md) • [Wiki](wiki.md) • [Games](games.md) • [Media](media.md) • [Community](community.md) • [Rolodex](rolodex.md) • [More...](more.md)
 
 ## Interview with Rob Galleon (May 26th 2008)
 -- *by E.K.Virtanen*
@@ -72,3 +72,57 @@ I'd like to thank everyone who has helped in the development of QB64 so far. To 
 > It was nice to interview you Galleon, thank you.
 
 (Rescued via [WaybackMachine](http://www.petesqbsite.com/sections/zines/pcopy/pcopy70.html).)
+
+## Interview with Galleon, developer of QB64 (March 18th 2012)
+-- *from [BASIC Gaming Issue #5](https://games.freebasic.net/BASICGaming/Issue5/)*
+
+Galleon was kind enough to give an interview for BASIC Gaming and share some information about himself, the development of QB64 and his thoughts on the future of the compiler.
+
+> Can you tell us a bit about your programming starts, your growth as a programmer and the path that led you to where you are today, as a programmer?
+
+I began with Micro-Bee BASIC and GW-BASIC in primary/elementary school before progressing to QBASIC. Whilst studying a one unit TAFE college course on IT during high school I was lucky enough to meet a fellow programmer with skills in assembly language. From his examples I then expanded on my knowledge using x86 assembly language texts. QBASIC became too limited for my needs (speed and graphics were a problem) and assembly language was too much of a chore for exploring new programming ideas. So I invented a simple programming language called 'Lylat' which was a limited form of BASIC using TASM (turbo assembler) for compilation. Lylat was much faster than QBASIC/QB4.5 and featured texture mapping and other graphical tools. It used 'flat real mode' to access all of the computer's memory. I submitted Lylat as my 'major work' for the TAFE course. Lylat was flawed though, it had no order of operations or concepts of scope or functions. So I began to explore other languages like VB and Visual C/C++. VB at that stage felt 'clunky', the GUI elements were fine, but speed-wise I remember being disappointed, so I chose Visual C/C++ (my knowledge of assembly language came in handy). I developed many small games/programs, notably a 3D game which used Newtonian physics to model galaxies which you could explore in space ships (it was supposed to become a MMORPG/shooter, but I couldn't find an effective way to manage the stellar distances ships would travel with combat interceptions). Deciding to aim for something simpler I created a 2D MMORPG called 'Ultima 6 Online', I learned a lot about programming from its development and implementation, including the ever growing need for cross-platform compatibility. Then I stumbled upon the qb45.com forums (soon became the network54 forum). Inspired (for my love of QBASIC had never really been lost) I attempted to make a decent gaming library for QB4.5 called DQBSVGA (Direct QB existed but it was only 320x200x256). QB4.5 on the other hand, seemed to defy my attempts to improve it and I found that (after adding safe support for sound, MIDI, decent device input and graphics) the amount of remaining conventional memory (when the QB4.5 interpreter was running) was next to nothing. But Microsoft was the real DQBSVGA killer, because it announced Vista would relegate it (and QBASIC) to a tool only usable in DOSBOX. The programming language QBASIC was about to die. FreeBASIC was the only viable alternative, but I and others at the QBASIC forum felt it wasn't BASIC or QBASIC enough. So, I began work on QB64, a programming language which would strive for the highest possible level of QBASIC compatibility and would seamlessly integrate 16-bit and 32/64/etc-bit code.
+
+> How would you describe QB64 to someone not familiar with it? What is its structure? How it is compiled/built?
+
+QB64 can be summed up as QBASIC with improvements. It is possibly, in my opinion, the most beginner-friendly multiplatform programming language in existence. It is a procedural-style language and not, at this stage, object orientated. The QB64 code you write into the QB64 IDE is automatically converted to C++ code, compiled and then run as a native executable program.
+
+> What were your goals back then and what are you current goals/plans with QB64?
+
+Not much. There has been a notable drop in demand for the emulation of more 286 opcodes and DEF FN, so their implementation has become less of a priority. QB64 development is prioritized in response to the needs of the QB64 community. The need for integrated 3D, GUI widgets, capture (sound/video) and playback of video is high atm. In terms of the language itself, management of memory blocks will be implemented soon as well as support for proper precompiled modules and being able to specify a custom syntax for SUB/FUNCTION calls. Static & dynamic arrays within TYPEs are not far away as well as the beginnings of object orientated programming style support for TYPEs by allowing the definition of (automatically called) construction and deconstruction SUBs.
+
+> How do you rate the current state of QB64 and what do you think needs to be done to improve it?
+
+QB64 should probably not be used as the control program to launch nuclear warheads or to run a bank just yet. There are bugs which need to be fixed, and given the breadth of utilization QB64's commands cover, the development of this language with one primary developer will continue to take time. The base executable size and memory footprint are too high, but this can be improved. QB64 also needs to use alternative methods to make installation easier, particularly on Linux & MacOSX. The IDE continuously improves and the recent addition of the help system makes it easy for newcomers to load/paste-in a program and press F1 to instantly see what the commands are doing. As for the underscores before some commands, I have plans to make that easier too within the IDE. Overall, the language is reliable and the cross-platform compatibility of QB64 is excellent (such as the way it automatically changes directory separation slashes to Linux/Windows appropriate forms automatically at runtime).
+
+> How do you rate the QB64 community at the moment and what would you like to see in it? More developers? More utilities or games being developed?
+
+The QB64 community is fantastic at providing feedback and many willingly help new programmers with problems. We probably need more active developers at a C++ or QB64 compiler level which is why I created the google-code project to verify the open-source nature of QB64 and allow/encourage outside development. QB64's community appears to be growing. We also have a lot of 'lurkers' who use QB64 as a product/tool, but do not post about it unless they have a problem, which is fine because at the end of the day that's what QB64 is.
+
+> Beside developing this compiler, what other sort of things do you like to program?
+
+Programs to test concepts (eg. my 3D raycasters, AI simulations), educational software and games using innovative ideas. I also develop software tools to assist with my professional obligations (and for colleagues in my team) as an educator.
+
+> What is your opinion of FreeBASIC and FreeBASIC community? Do you consider it a rival community/compiler or a phenomenon you can co-exist with in a potentially positive manner?
+
+I think it's important to consider the sources of our userbases. Neither FB nor QB64 can expand by sourcing its userbase from the other or similar BASICs. There is a much greater untapped userbase within the broader community they need to appeal to in order to build their communities. It's my opinion that the way they will succeed or fail is primarily in how user-friendly they can make their tools. I strongly disagree with the premise behind many of FB's major development decisions (except for its C emitter) and see a disconnect between the language it set out to be and the one it ended up being. Apart from their original common tie to QBASIC I don't really see how future versions of FB or QB64 will be able to benefit each other much, the changes being made to them are just too different. I think they can co-exist happily, but I think the general public will have final say on how long they exist for.
+
+> Would you be interested in sharing some personal details with the community? Like your age, where you live and what do you do professionally.
+
+**Name:** Rob(ert)
+**Public Aliases:** Galleon, GalleonDragon
+**Age:** It's a secret! (Consider it a puzzle…)
+**Location:** Sydney, Australia
+**Profession:** School Teacher
+**Email:** d***@gmail.com
+
+> Any message for the community?
+
+Creative programming ideas can be forged using a variety of programming mediums, but I think the straightforwardness of BASIC allows the coder to quickly prototype and explore more ideas. For me, in that lies the real fun of BASIC. I encourage everyone to support Lachie by developing content for this BASIC Gaming E-zine.
+
+> If you want to download QB64 and join the QB64 community, start by visiting the official compiler website: [qb64.com](https://qb64.com)
+
+## Forum Links
+
+- [The QB64 (previously QB32) Demo #2 (September 08, 2007)](https://www.tapatalk.com/groups/qbasic/viewtopic.php?p=157971#p157971)
+- [DOWNLOAD QB64 DEMO #5 (January 28th, 2008)](https://comp.lang.basic.misc.narkive.com/CnGTVTIa/download-qb64-demo-5)
+- [DOWNLOAD QB64 DEMO #5 NOW! (January 28th, 2008)](https://www.tapatalk.com/groups/qbasic/download-qb64-demo-5-now-t36498-s40.html)
