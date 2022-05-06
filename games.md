@@ -44,13 +44,6 @@ Oh no! Santa has fallen out of the sleigh!  Rudolph is gone and now Santa must s
 
 Since there are a number of zelda projects currently in-progress, I thought I'd put together a little version as a shameless plug for GX.  One of my current game projects is actually a NES mashup that will have crossover from a number of titles.  So I already had the map built using the GX map editor.  This version will let you walk the entire overworld map.  As an example I've also implemented the lost woods maze.  There are triggers on the map for all of the cave and dungeon entrances.  At the moment this will take you to an empty cave map.  (I haven't built any dungeon maps.)  If you exit the cave it reloads the overworld map and puts you back in the right spot. • [download](downloads/legend-of-gx.zip) • [more...](https://qb64forum.alephc.xyz/index.php?topic=4528.0)
 
-Resources:
-
-- [Mister C!](https://jobit91.itch.io/mister-c): Animated 24x24 2d character Sprite Sheet of "Santa".
-- [Winter Platformer Game Tileset](https://opengameart.org/content/winter-platformer-game-tileset): Free platformer game tileset with snow, winter, ice, and christmas theme.
-- [Holiday Expansion Set](https://opengameart.org/content/holiday-expansion-set)
-- [NES Shooter Music (5 tracks, 3 jingles)](https://opengameart.org/content/nes-shooter-music-5-tracks-3-jingles): This is a collection of chiptune tracks that I created for an abandoned NES-styled Shoot 'em Up. It covers a variety of moods, and could probably fit with all sorts of actiony genres.
-
 ### Game Engine
 
 The following entries are designed (hopefully) to make it easier for a QB64 game developer to get started actually building what they imagine without having to start at completely ground zero.
