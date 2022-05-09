@@ -123,6 +123,7 @@ Creative programming ideas can be forged using a variety of programming mediums,
 
 ## Forum Links
 
+- [THE QBASIC FORUM](https://www.tapatalk.com/groups/qbasic/qb64-project-f585676/)
 - [The QB64 (previously QB32) Demo #2 (September 08, 2007)](https://www.tapatalk.com/groups/qbasic/viewtopic.php?p=157971#p157971)
 - [DOWNLOAD QB64 DEMO #5 (January 28th, 2008)](https://comp.lang.basic.misc.narkive.com/CnGTVTIa/download-qb64-demo-5)
 - [DOWNLOAD QB64 DEMO #5 NOW! (January 28th, 2008)](https://www.tapatalk.com/groups/qbasic/download-qb64-demo-5-now-t36498-s40.html)
