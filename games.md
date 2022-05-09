@@ -34,7 +34,7 @@ Objective is to land softly on level ground.  Cancel the horizontal velocity wit
 
 ![RogLite2](images/roglite2.jpg)
 
-"I've converted my ROGLITE game from Extended Color BASIC to QB64.  Didn't take much; most of the trouble came from changing my 1-based arrays to 0.  I guess I could have just used OPTION BASE 1.  Oh well." -- [Trey Tomes](https://github.com/treytomes) via Facebook • [download](https://gist.github.com/treytomes/907e688642ade470df12b9188a01cf98?fbclid=IwAR04NSUHVsRqoFXmp8EnB8Sqgrgad3rUmEBqrmLLHotE3vfitus_nSZ-N6M) • [more...]()
+"I've converted my ROGLITE game from Extended Color BASIC to QB64.  Didn't take much; most of the trouble came from changing my 1-based arrays to 0.  I guess I could have just used OPTION BASE 1.  Oh well." -- [Trey Tomes](https://github.com/treytomes) via Facebook • [download (original)](https://gist.github.com/treytomes/907e688642ade470df12b9188a01cf98?fbclid=IwAR04NSUHVsRqoFXmp8EnB8Sqgrgad3rUmEBqrmLLHotE3vfitus_nSZ-N6M) • [download (revised)](https://gist.github.com/treytomes/eb74540f16a31cedeba5bbb86de2b5b3?fbclid=IwAR0J5ZPAQk8HtWqQgaalf-EZCfziBYwxu0ZzpvUk8y3hKsaNq18T2HDZyLA)
 
 ### Proof-of-Concepts
 
@@ -69,3 +69,8 @@ GX is a basic game engine... literally. This is a Game(G) Engine(X) built with a
 - [OpenGameArt.org](https://opengameart.org)
 
 > Written a game in QB64? Get it added to this list! Please provide a screen shot, summary, download url, github url, discussion/forum url, etc.
+
+### Additional
+
+- [Jam for All BASIC Dialects #1 (2021)](https://itch.io/jam/jam-for-all-basic-dialects)
+- [Jam for All BASIC Dialects #2 (2022)](https://itch.io/jam/jam-for-all-basic-dialects-2)
