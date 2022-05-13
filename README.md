@@ -6,9 +6,9 @@
 
 - [Download QB64](https://github.com/QB64Team/qb64/releases/tag/v2.0.2)
 - [Development build(s)](dev.md) 
-- [Source Code](https://github.com/QB64Official/qb64)
+- [Source Code](github.md)
 
-> A brief note regarding the current released version (v2.0.2, November 2021); it is still available via the now "disbanded" QB64Team repo; a new release is still the in the process awaiting for the dust to settle after the April 2022 "incident".  The 2.0.2 version is currently working except for the built in help system as that was being pulled from the now MIA qb64.org. Discussions as to how future releases will be handled is still taking place and more details will follow. The QB64Official repo is picking up where QB64Team left off. Additionally, other individuals are working on new versions; so please be sure to take a moment to take a look at the [Development build(s)](dev.md) page for links to these forks.
+> A brief note regarding the current released version (v2.0.2, November 2021); it is still available via the now "disbanded" QB64Team repo; a new release is still the in the process awaiting for the dust to settle after the April 2022 "incident".  The 2.0.2 version is currently working except for the built in help system as that was being pulled from the now MIA qb64.org. 
 
 **How BASIC made its way into the 21st century**
 

@@ -4,7 +4,7 @@
 
 ## Official
 
-*coming soon*
+Unfortunately all of the official videos produced by the QB64 Team have been deleted.
 
 ## Others
 
