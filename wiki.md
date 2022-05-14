@@ -4,7 +4,7 @@
 
 You can find several copies of the QB64 wiki on the internet; the current official one is located at:
 
-- [Wiki](https://wiki.qb64phoenix.com)
+- [Wiki](https://wiki.qb64.dev)
 
 Alternates:
 
