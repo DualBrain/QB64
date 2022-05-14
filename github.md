@@ -2,8 +2,10 @@
 
 ![GitHub](images/github.png)
 
-Unfortunately there is currently no official source for where to get QB64 (due to the events of early 2022). With that said, you can find the latest "official" versions at:
+The official project sources, including QB64 source and and this website, are available at [git.qb64.dev](https://git.qb64.dev).
 
+Source code for previous iterations of the project, provided for historical reference, are still available at these locations:
+ 
 - [QB64 v1.3 (GitHub)](https://github.com/Galleondragon/qb64): GitHub clone of GalleonDragon's Google Code repo (automatically generated via Google Code).  This is the SDL version.
 - [QB64 v2.0.2 (GitHub)](https://github.com/QB64Team/qb64): GitHub repo of the QB64 Team.
 
