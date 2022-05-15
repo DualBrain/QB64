@@ -12,7 +12,7 @@ At this point, none of these Discord servers are to be considered *official*. Ad
 
 The following have a clearly defined *Code of Conduct*:
 
-- [QB64 (GotBASIC.com)](https://discord.gg/DQSt8QAM): Official Discord for [GotBASIC.com](https://gotbasic.com) which follows the same *Code of Coduct* as the [.NET Foundation Contributor Covenant Code of Conduct](https://dotnetfoundation.org/about/code-of-conduct).
+- [QB64 (GotBASIC.com)](https://discord.gg/DQSt8QAM): Official Discord for [GotBASIC.com](https://gotbasic.com) which has a "room" dedicated to QB64 and follows the same *Code of Coduct* as the [.NET Foundation Contributor Covenant Code of Conduct](https://dotnetfoundation.org/about/code-of-conduct).
 
 The following have **NO** clearly defined *Code of Conduct* - so experience varies widely and subject to individual tastes.
 
