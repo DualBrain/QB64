@@ -8,6 +8,8 @@
 
 ## Amazon/Audible (Free)
 
+The following podcasts were created during the "QB64 Team" timeframe and are included here for historical purposes.
+
 - [S03E06 – Interview with Ryan Carter, from Florida](https://www.amazon.com/arya/webplayer?marketplaceId=AF2M0KC94RCEA&initialCPLaunch=true&useRelativeUrl=true&asin=B09K3MTHLJ&language=en_US&fetchNewPlayQueue=true&contentDeliveryType=PodcastEpisode)
 - [S03E05 – Interview with Scott Williams, from California](https://www.amazon.com/arya/webplayer?marketplaceId=AF2M0KC94RCEA&initialCPLaunch=true&useRelativeUrl=true&asin=B09KFYSWQN&language=en_US&fetchNewPlayQueue=true&contentDeliveryType=PodcastEpisode)
 - [S03E04 – Interview with Loudar, from Germany](https://www.amazon.com/arya/webplayer?marketplaceId=AF2M0KC94RCEA&initialCPLaunch=true&useRelativeUrl=true&asin=B09Q37TXQ5&language=en_US&fetchNewPlayQueue=true&contentDeliveryType=PodcastEpisode)

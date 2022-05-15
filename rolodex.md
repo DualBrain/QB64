@@ -2,7 +2,7 @@
 
 ## ROLODEX
 
-This page is dedicated to those individuals who have contributed to the QB64 community either by contribs to the project, sharing information / tutorials / etc. and/or simply have a lot of QB64 content / samples / tips and tricks.
+This page is dedicated to those individuals who have contributed in the past to the QB64 community either by contribs to the project, sharing information / tutorials / etc. and/or simply have a lot of QB64 content / samples / tips and tricks.
 
 ### Contributors
 
@@ -33,6 +33,8 @@ This page is dedicated to those individuals who have contributed to the QB64 com
 - "memreflect": [GitHub](https://github.com/memreflect)
 - "Pirachy": [GitHub](https://github.com/pirachy)
 - "QB64Cobalt": [GitHub](https://github.com/qb64cobalt)
+
+Names are in alphabetical / real-name order.
 
 ### Samples/Tutorials
 
@@ -67,3 +69,5 @@ We'd like to take a moment to thanks the following individuals for thier willing
 - and two more (anonymous)
 
 Patreon and other donations are currently paused until further notice.  Until such time that a dedicated "treasurer" is determined and, more importantly, specific uses for such funds are determined - no money is being asked for. If and when the opportunity for sponsorship is reinstated, it will be the responsibility of the "treasurer" to distribute funds and publish these distributions for the general public to see (complete transparency).
+
+In other words, if you are being asked to pay for anything related to the development of QB64 you are being ripped off.
