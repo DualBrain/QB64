@@ -10,9 +10,11 @@ A note regarding the below entries labeled as "QB64 Team"; the events of early 2
 
 At this point, none of these Discord servers are to be considered *official*. Additionally, many Discord servers are spun up without thought to how the community (which is mostly anonymous) will be managed; meaning no defined *Code of Conduct*.  Due to this, if you don't "fit in" (*click*) with the existing manager(s) of the server; you could easily be *mistreated* and/or *banned*.
 
+The following have a clearly defined *Code of Conduct*:
+
 - [QB64 (GotBASIC.com)](https://discord.gg/DQSt8QAM): Official Discord for [GotBASIC.com](https://gotbasic.com) which follows the same *Code of Coduct* as the [.NET Foundation Contributor Covenant Code of Conduct](https://dotnetfoundation.org/about/code-of-conduct).
 
-Please be aware that the following Discord servers don't appear to have any sort of specific *Code of Conduct* defined...
+The following have **NO** clearly defined *Code of Conduct* - so experience varies widely and subject to individual tastes.
 
 - [QB64 Team](https://discord.gg/S5CdJXQKAd)
 - [Dark Theme Logic (QB64 and QBjs)](https://discord.com/channels/917123975816052817/917123976336138312)
