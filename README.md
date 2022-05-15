@@ -7,6 +7,7 @@
 - [Download QB64](https://github.com/QB64Team/qb64/releases/tag/v2.0.2)
 - [Development build(s)](dev.md) 
 - [Source Code](github.md)
+- Follow us on <a rel="me" href="https://oldbytes.space/@qb64">Mastodon</a>
 
 > A brief note regarding the current released version (v2.0.2, November 2021); it is still available via the now "disbanded" QB64Team repo; a new release is still the in the process awaiting for the dust to settle after the April 2022 "incident".  The 2.0.2 version is currently working except for the built in help system as that was being pulled from the now MIA qb64.org. 
 
