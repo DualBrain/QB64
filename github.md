@@ -15,6 +15,6 @@ To be clear, the *QB64 Official* organization is currently at ground zero.  A lo
 
 ---
 
-Although not official, it might be of interest to take a look at a QB64 fork that is buy a guy that "wants to do his own thing, on his own time, in his own way, for himself".  This fork might just be exactly what you are looking for - but, then again, it might not be... and the developer behind it is perfectly OK with that.
+Although not official, it might be of interest to take a look at a QB64 fork that is by a guy that "wants to do his own thing, on his own time, in his own way, for himself".  This fork might just be exactly what you are looking for - but, then again, it might not be... and the developer behind it is perfectly OK with that.
 
 - ["Phoenix Edition"](https://github.com/QB64-Phoenix-Edition/QB64pe/)
