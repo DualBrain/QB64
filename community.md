@@ -8,17 +8,19 @@ A note regarding the below entries labeled as "QB64 Team"; the events of early 2
 
 > Discord is a VoIP and instant messaging platform.  Users have the ability to commuicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers".  A server is a collection of persistent chat rooms and voice chat channels which can be accessed via invite links.  
 
-At this point, none of these Discord servers are to be considered *official*. Additionally, many Discord servers are spun up without thought to how the community (which is mostly anonymous) will be managed; meaning no defined *Code of Conduct*.  Due to this, if you don't "fit in" (*click*) with the existing manager(s) of the server; you could easily be *mistreated* and/or *banned*.
+To fill the void considering the loss of the "QB64 Team", a new Discord server has been launched. This new server will initially adopt the same *Code of Conduct* as that utilized by the [.NET Foundation Contributor Covenant Code of Conduct](https://dotnetfoundation.org/about/code-of-conduct).
 
-The following have a clearly defined *Code of Conduct*:
+- [QB64 Official](https://discord.gg/sTGEFFVD)
 
-- [QB64 (GotBASIC.com)](https://discord.gg/DQSt8QAM): Official Discord for [GotBASIC.com](https://gotbasic.com) which has a "room" dedicated to QB64 and follows the same *Code of Coduct* as the [.NET Foundation Contributor Covenant Code of Conduct](https://dotnetfoundation.org/about/code-of-conduct).
-
-The following have **NO** clearly defined *Code of Conduct* - so experience varies widely and subject to individual tastes.
+The following Discord servers are spun up without thought to how the community (which is mostly anonymous) will be managed; meaning no defined *Code of Conduct*.  Due to this, if you don't "fit in" (*click*) with the existing manager(s) of the server; you could easily be *mistreated* and/or *banned*.  To say this another way, the following have **NO** clearly defined *Code of Conduct* - so experience varies widely and subject to individual tastes.
 
 - [QB64 Team](https://discord.gg/S5CdJXQKAd)
 - [Dark Theme Logic (QB64 and QBjs)](https://discord.com/channels/917123975816052817/917123976336138312)
 - [QB64FR](https://discord.com/channels/953279107699994624/953279107699994627)
+
+The following Discord server isn't specific to QB64, but does have a room/channel dedicated to QB64:
+
+- [QB64 (GotBASIC.com)](https://discord.gg/DQSt8QAM)
 
 ### Facebook
 
