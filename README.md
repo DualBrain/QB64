@@ -7,7 +7,6 @@
 - [Download QB64](https://github.com/QB64Team/qb64/releases/tag/v2.0.2)
 - [Development build(s)](dev.md) 
 - [Source Code](github.md)
-- Follow us on <a rel="me" href="https://oldbytes.space/@qb64">Mastodon</a>
 
 > A brief note regarding the current released version (v2.0.2, November 2021); it is still available via the now "disbanded" QB64Team repo; a new release is still the in the process awaiting for the dust to settle after the April 2022 "incident".  The 2.0.2 version is currently working except for the built in help system as that was being pulled from the now MIA qb64.org. 
 
@@ -40,3 +39,5 @@ Interested in playing with QBasic/QB64 in the browser?  Check out [QBJS](qbjs.md
 ## What about the qb64.net website/domain?
 
 Please make note that the .net domain for QB64 is highly suspect. Apparently the story goes that someone forgot to renew the domain name and it was snipped by a questionable party that subsequently mirrored the previous websites information and spammed it with dubious advertising. At this point it has nothing to do with QB64 and, ultimately, should be completely avoided given that the content could contain suspect binaries potentially containing malware. Additionally, it's been stated in the community has potentially having malware as part of the site - potentially infecting your machine by simply browsing to it. So, in the end, if you do venture there be sure to excercise caution.
+
+- Follow us on <a rel="me" href="https://oldbytes.space/@qb64">Mastodon</a>

@@ -10,7 +10,7 @@ The QBasic you love, now on the web.
 
 The project is in active development as of 30 March 2022. It can be tried [online](https://qbjs.org); documentation and releases are hosted on [GitHub](https://github.com/boxgaming/qbjs).
 
-Support for browser APIs is built-in as of version 0.3.0-beta; a game engine is included separately.
+Support for browser APIs is built-in as of version 0.4.0-beta; a game engine is included separately.
 
 - [QBJS Sandbox](https://boxgm.itch.io/qbjs)
 - [QBJS GitHub](https://github.com/boxgaming/qbjs)
