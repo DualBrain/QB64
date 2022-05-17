@@ -121,6 +121,47 @@ Creative programming ideas can be forged using a variety of programming mediums,
 
 > If you want to download QB64 and join the QB64 community, start by visiting the official compiler website: [qb64.com](https://qb64.com)
 
+## Philosophy Regarding Contributions To QB64
+
+> Please note that I have no idea when this was originally written; and it should also be made clear that at some point Rob was apparently feeling a bit of burnout regarding the project - so without knowing when this was written, it's hard to have a full understanding what kind of mindset Rob was in at the time he replied with this. With that out of the way, it is at least something that reflects at least some point in time regarding Rob's stance regarding contributions to QB64. (The following was found as part of a [forum post](https://qb64forum.alephc.xyz/index.php?topic=2738.msg119618#msg119618) reponding to a question.)
+
+I was recently asked for guidelines about the process for contributing to QB64's source code/core functionality.
+
+I am supportive of ANY change to QB64 which:
+
+1. Will not break existing functionality in any way
+2. Is multi-platform compatible
+3. Does not grossly/negatively interfere with the QB64 programming experience
+4. Does not contain any known bugs
+5. Is/Will be clearly documented so others can use it (either on the forum or in the WIKI)
+6. Does not allow mixed language/CPU specific command integration (such as inline C++ code, assembly, etc)
+7. Is not malicious in any way
+
+Does your idea meet all of the above criteria? If so your next steps are...
+
+1. Code it! (make sure you note any files you change and where for your own reference)
+2. Submit it.
+  - If you are a QB64 repository contributor, grab the latest version of the repository, make your changes and push them (I and the community will test the next dirty build [which is automatically created from the repository] and as long as it works, job done!) or...
+  - Become a repository contributor by asking me on the Q&A forum
+
+Everybody has a different opinion about what QB64 can/should be. But unless we make it what the individuals in our community want it to be then we all lose. So even if we personally don't want/need things like...
+
+- Path finding
+- Sorting
+- A suite of string commands
+- University-degree level math operations
+- A circle fill command
+- ODBC functionality
+- OOP
+- Name spaces
+- Option explicit
+- Web server interoperability
+- Nullable/Reference types
+
+...someone does.
+
+My new philosophy is to let QB64 be what the community want it to be. Even if we end up with 1000s of commands that barely get used by the majority, it is better than QB64 not being used at all. And if someone implements something incredibly stupid/unnecessary (such as a _HELLOWORLD command) the beauty of a repository is that it can always be rolled back later. Because of this philosophy, you won't see me standing in the way of any changes.
+
 ## Forum Links
 
 - [THE QBASIC FORUM](https://www.tapatalk.com/groups/qbasic/qb64-project-f585676/)
