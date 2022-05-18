@@ -27,6 +27,10 @@ There are several great videos that Fellippe created that are online:
 
 You can find the InForm wiki on [Fellippe Heitor's GitHub repo](https://github.com/FellippeHeitor/InForm/wiki).
 
+### Forum
+
+[QB64.org Forum - InForm (read-only)](https://qb64forum.alephc.xyz/index.php?board=11.0)
+
 ### Contact
 
 Please utilize the [GitHub repo](https://github.com/FellippeHeitor).
