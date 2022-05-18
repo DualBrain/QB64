@@ -123,7 +123,7 @@ Creative programming ideas can be forged using a variety of programming mediums,
 
 ## Philosophy Regarding Contributions To QB64
 
-> Please note that I have no idea when this was originally written; and it should also be made clear that at some point Rob was apparently feeling a bit of burnout regarding the project - so without knowing when this was written, it's hard to have a full understanding what kind of mindset Rob was in at the time he replied with this. With that out of the way, it is at least something that reflects at least some point in time regarding Rob's stance regarding contributions to QB64. (The following was found as part of a [forum post](https://qb64forum.alephc.xyz/index.php?topic=2738.msg119618#msg119618) reponding to a question.)
+> Please note that this was [written June 19th, 2014 - via WayBackMachine](https://web.archive.org/web/20171214225821/http://www.qb64.net/forum/index.php?topic=11920.0); and it should also be made clear that at some point Rob was apparently feeling a bit of burnout regarding the project, it's hard to have a full understanding what kind of mindset Rob was in at the time he submitted this as his "new philosophy". With that out of the way, it is at least something that reflects, as of June 2014, what Rob's stance regarding contributions to QB64 were.
 
 I was recently asked for guidelines about the process for contributing to QB64's source code/core functionality.
 
@@ -161,6 +161,10 @@ Everybody has a different opinion about what QB64 can/should be. But unless we m
 ...someone does.
 
 My new philosophy is to let QB64 be what the community want it to be. Even if we end up with 1000s of commands that barely get used by the majority, it is better than QB64 not being used at all. And if someone implements something incredibly stupid/unnecessary (such as a _HELLOWORLD command) the beauty of a repository is that it can always be rolled back later. Because of this philosophy, you won't see me standing in the way of any changes.
+
+## Departure
+
+I'm still in the process of discovering some of the circumstances related to Rob's departure (as well as a specific date or dates); but digging through the GitHub repo, it looks like this occured somewhere around March 20th, 2016 or maybe September 10, 2016 (updated version to 1.1?)? The v1.1 release in this repo shows to be March 2, 2018; v1.2 February 23, 2018 and v1.3 April 7, 2019. Of interest, the v1.3 release under the QB64 Team repo was January 18, 2020. Unfortunately it is difficult to use the repo to try to decern this information as the majority of entries that exist for the Galleondragon account are "(Automated)". If you are reading this and have any details to add, please reach out so this can be updated. I'm assuming that, at some point, Rob made some sort of announcement; but I haven't been able to find that as yet.
 
 ## An interesting comment...
 

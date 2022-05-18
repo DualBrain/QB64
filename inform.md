@@ -14,6 +14,10 @@ InForm is a Rapid Application Development tool for QB64. It consists of a librar
 
 Please visit the [GitHub repo](https://github.com/FellippeHeitor).
 
+### Wiki
+
+You can find the InForm wiki on [Fellippe Heitor's GitHub repo](https://github.com/FellippeHeitor/InForm/wiki).
+
 ### Videos
 
 There are several great videos that Fellippe created that are online:
@@ -22,10 +26,13 @@ There are several great videos that Fellippe created that are online:
 - [Workflow](https://www.youtube.com/watch?v=wqKBKr9h1Kw)
 - [Writing a small project](https://www.youtube.com/watch?v=437GhtLsND4)
 - [Tutorial - Creating a Simple App with InForm (Tic Tac Toe)](https://www.youtube.com/watch?v=a9pNGBaIr94)
+- [How to create a label that spans multiple lines](https://youtu.be/NSCfVRTPvso)
 
-### Wiki
+### Samples
 
-You can find the InForm wiki on [Fellippe Heitor's GitHub repo](https://github.com/FellippeHeitor/InForm/wiki).
+[InForm Calculator by Terry Ritchie](downloads/calculator.zip)
+
+[![Calculator](images/calculator.jpg)](downloads/calculator.zip)
 
 ### Forum
 
