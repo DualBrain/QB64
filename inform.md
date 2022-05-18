@@ -10,26 +10,23 @@ A GUI engine and WYSIWYG interface designer for QB64.
 
 InForm is a Rapid Application Development tool for QB64. It consists of a library of graphical routines and a WYSIWYG editor that allows you to design forms and export the resulting code to generate an event-driven QB64 program.
 
-### Overview
-
-😢 **MISSING**
-
 ### Download
 
-😢 **MISSING**
+Please visit the [GitHub repo](https://github.com/FellippeHeitor).
 
-### Demos
+### Videos
 
-😢 **MISSING**
+There are several great videos that Fellippe created that are online:
+
+- [Overview](https://www.youtube.com/watch?v=OTEtftKlgsA)
+- [Workflow](https://www.youtube.com/watch?v=wqKBKr9h1Kw)
+- [Writing a small project](https://www.youtube.com/watch?v=437GhtLsND4)
+- [Tutorial - Creating a Simple App with InForm (Tic Tac Toe)](https://www.youtube.com/watch?v=a9pNGBaIr94)
 
 ### Wiki
 
 You can find the InForm wiki on [Fellippe Heitor's GitHub repo](https://github.com/FellippeHeitor/InForm/wiki).
 
-### Blog
-
-😢 **MISSING**
-
 ### Contact
 
-😢 **MISSING**
+Please utilize the [GitHub repo](https://github.com/FellippeHeitor).
