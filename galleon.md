@@ -162,6 +162,14 @@ Everybody has a different opinion about what QB64 can/should be. But unless we m
 
 My new philosophy is to let QB64 be what the community want it to be. Even if we end up with 1000s of commands that barely get used by the majority, it is better than QB64 not being used at all. And if someone implements something incredibly stupid/unnecessary (such as a _HELLOWORLD command) the beauty of a repository is that it can always be rolled back later. Because of this philosophy, you won't see me standing in the way of any changes.
 
+## An interesting comment...
+
+> I found this more recent comment by Galleon in response to the announcement of [QBjs](qbjs.md)...
+
+While I don't have the time or inclination to work on QB64 anymore, and while the prioritisation of features added has been... interesting, I have to say I'm super impressed with the team managing QB64. If I ever return, it would be to work on a fully browser-based version of QB64 (compiler, IDE, and programs), something that is possible thanks to recent advances in web browsers. But I have many priorities in life so there is a good chance I will be dead by the time that happens.
+
+> Very interesting...
+
 ## Forum Links
 
 - [THE QBASIC FORUM](https://www.tapatalk.com/groups/qbasic/qb64-project-f585676/)
