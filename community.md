@@ -17,6 +17,7 @@ The following Discord servers are spun up without thought to how the community (
 - [Dark Theme Logic (QB64 and QBjs)](https://discord.com/channels/917123975816052817/917123976336138312)
 - [QB64FR](https://discord.com/channels/953279107699994624/953279107699994627)
 - [~~QB64 Team~~](https://discord.gg/S5CdJXQKAd)
+- [Phoenix Edition](https://discord.com/invite/YA5Uphnq)
 
 The following Discord server isn't specific to QB64, but does have a room/channel dedicated to QB64:
 
