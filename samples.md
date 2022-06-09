@@ -2,84 +2,84 @@
 
 ## SAMPLES
 
-- **[Julia Rings](samples/3D-Cube/index.md)** <sup>🐝 [Relsoft](samples/relsoft.md) 🔗 [3d](samples/3d.md), [cube](samples/cube.md)</sup>
-- **[Abacus](samples/Abacus/index.md)** <sup>🐝 [Bob Seguin](samples/bob-seguin.md) 🔗 [abacus](samples/abacus.md), [arithmetic](samples/arithmetic.md)</sup>
-- **[Amongst](samples/Amongst/index.md)** <sup>🐝 [Fellippe Heitor](samples/fellippe-heitor.md) 🔗 [game](samples/game.md), [multiplayer](samples/multiplayer.md)</sup>
-- **[Animax](samples/Animax/index.md)** <sup>🐝 [Bob Seguin](samples/bob-seguin.md) 🔗 [art](samples/art.md), [drawing](samples/drawing.md)</sup>
-- **[ArcDemo](samples/Arc-Demo/index.md)** <sup>🐝 [Tsiplacov Sergey](samples/tsiplacov-sergey.md) 🔗 [game](samples/game.md), [platformer](samples/platformer.md)</sup>
-- **[Assault](samples/Assault/index.md)** <sup>🐝 [Glenn Powell](samples/glenn-powell.md) 🔗 [game](samples/game.md)</sup>
-- **[Bezier](samples/Bezier/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
-- **[Binary Clock](samples/Binary-Clock/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
-- **[Blockout](samples/Blockout/index.md)** <sup>🐝 [Fellippe Heitor](samples/fellippe-heitor.md) 🔗 [game](samples/game.md), [breakout](samples/breakout.md)</sup>
-- **[Can't Contain Me](samples/Cant-Contain-Me/index.md)** <sup>🐝 [Fellippe Heitor](samples/fellippe-heitor.md) 🔗 [game](samples/game.md)</sup>
-- **[Castle](samples/Castle/index.md)** <sup>🐝 [Microsoft](samples/microsoft.md) 🔗 [game](samples/game.md), [2 player](samples/2-player.md)</sup>
-- **[Chaotic Scattering - Gaspard-Rice system](samples/Chaotic-Scattering/index.md)** <sup>🐝 [vince](samples/vince.md) 🔗 [ray tracing](samples/ray-tracing.md), [reflections](samples/reflections.md)</sup>
-- **[Circle Intersecting Circle](samples/Circle-Intersecting-Circle/index.md)** <sup>🐝 [bplus](samples/bplus.md) 🐝 [STxAxTIC](samples/stxaxtic.md) 🔗 [geometry](samples/geometry.md), [intersections](samples/intersections.md)</sup>
-- **[Circle Intersecting Line](samples/Circle-Intersecting-Line/index.md)** <sup>🐝 [bplus](samples/bplus.md) 🔗 [geometry](samples/geometry.md), [intersections](samples/intersections.md)</sup>
-- **[Colliding Ball Simulation](samples/Colliding-Ball-Simulation/index.md)** <sup>🐝 [Timothy Baxendale](samples/timothy-baxendale.md) 🔗 [physics](samples/physics.md), [collisions](samples/collisions.md)</sup>
-- **[Connect Circles](samples/Connect-Circles/index.md)** <sup>🐝 [bplus](samples/bplus.md) 🔗 [screensaver](samples/screensaver.md), [mosaic](samples/mosaic.md)</sup>
-- **[Convert BMP to Dominoes](samples/Convert-BMP-to-Dominoes/index.md)** <sup>🐝 [Richard Frost](samples/richard-frost.md) 🔗 [image processing](samples/image-processing.md)</sup>
-- **[Darokin](samples/Darokin/index.md)** <sup>🐝 [darokin](samples/darokin.md) 🔗 [screensaver](samples/screensaver.md), [starfield](samples/starfield.md)</sup>
-- **[Dragon Warrior 64](samples/Dragon-Warrior/index.md)** <sup>🐝 [Cobalt](samples/cobalt.md) 🔗 [game](samples/game.md), [rpg](samples/rpg.md)</sup>
-- **[Dropping Balls](samples/Dropping-Balls/index.md)** <sup>🐝 [bplus](samples/bplus.md) 🔗 [gravity](samples/gravity.md), [collisions](samples/collisions.md)</sup>
-- **[Ellipse Intersecting Line](samples/Ellipse-Intersecting-Line/index.md)** <sup>🐝 [STxAxTIC](samples/stxaxtic.md) 🔗 [geometry](samples/geometry.md), [intersections](samples/intersections.md)</sup>
-- **[Fibonacci Variations](samples/Fibonacci-Variations/index.md)** <sup>🐝 [STxAxTIC](samples/stxaxtic.md) 🔗 [fibonacci](samples/fibonacci.md)</sup>
-- **[Filled Circles and Ellipses](samples/Filled-Circles-and-Ellipses/index.md)** <sup>🐝 [QB64 Team 2018](samples/qb64-team-2018.md) 🔗 [filled circle](samples/filled-circle.md), [ellipse](samples/ellipse.md)</sup>
-- **[Fire](samples/Fire/index.md)** <sup>🐝 [*missing*](samples/author-missing.md) 🔗 [fire](samples/fire.md), [graphics](samples/graphics.md)</sup>
-- **[Floormaper](samples/Floormaper/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [graphics](samples/graphics.md), [floorscape](samples/floorscape.md)</sup>
-- **[4 Player Pong](samples/Four-Player-Pong/index.md)** <sup>🐝 [Matthew](samples/matthew.md) 🔗 [game](samples/game.md), [pong](samples/pong.md)</sup>
-- **[Bezier](samples/Fractal/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
-- **[Fractal Art](samples/Fractal-Art/index.md)** <sup>🐝 [Zom-B](samples/zom-b.md) 🔗 [fractal](samples/fractal.md), [art](samples/art.md)</sup>
-- **[Fractal Fern](samples/Fractal-Fern/index.md)** <sup>🐝 [*missing*](samples/author-missing.md) 🔗 [fractal](samples/fractal.md), [fern](samples/fern.md)</sup>
-- **[Globe](samples/Globe/index.md)** <sup>🐝 [Glen Jeh](samples/glen-jeh.md) 🐝 [8/12/1994](samples/8/12/1994.md) 🐝 [William Yu (05-28-96)](samples/william-yu-(05-28-96).md) 🔗 [3d](samples/3d.md), [sphere](samples/sphere.md)</sup>
-- **[GUJERO2](samples/Gujero2/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [screensaver](samples/screensaver.md), [tunnel](samples/tunnel.md)</sup>
-- **[Helicopter Rescue](samples/Helicopter-Rescue/index.md)** <sup>🐝 [TrialAndTerror](samples/trialandterror.md) 🔗 [game](samples/game.md), [3d](samples/3d.md), [flight](samples/flight.md)</sup>
-- **[Inverse Julia Fractal Explorer](samples/Inverse-Julia-Fractal-Explorer/index.md)** <sup>🐝 [Zom-B](samples/zom-b.md) 🔗 [fractal](samples/fractal.md), [julia set](samples/julia-set.md)</sup>
-- **[Julia Rings](samples/Julia-Rings/index.md)** <sup>🐝 [Relsoft](samples/relsoft.md) 🔗 [fractal](samples/fractal.md), [julia set](samples/julia-set.md)</sup>
-- **[Bezier](samples/Kaleidoscope/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
-- **[Bezier](samples/Kaleidoscope-Mill/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
-- **[Bezier](samples/Lightning-One/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
-- **[Bezier](samples/Lightning-Two/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
-- **[Lissajous Curve Table](samples/Lissajous-Curve-Table/index.md)** <sup>🐝 [FellippeHeitor](samples/fellippeheitor.md) 🔗 [graphics](samples/graphics.md), [trigonometry](samples/trigonometry.md)</sup>
-- **[Lissajous Screensaver](samples/Lissajous-Screensaver/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [screensaver](samples/screensaver.md), [9 lines](samples/9-lines.md)</sup>
-- **[Rotating Lorenz Attractor](samples/Lorenz-Attractor/index.md)** <sup>🐝 [Vince](samples/vince.md) 🔗 [lorenz](samples/lorenz.md), [rotations](samples/rotations.md)</sup>
-- **[Mandala 9 Line](samples/Manadla/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [screensaver](samples/screensaver.md), [9 lines](samples/9-lines.md)</sup>
-- **[Mandelbrot Animator](samples/Mandelbrot-Animator/index.md)** <sup>🐝 [*missing*](samples/author-missing.md) 🔗 [fractal](samples/fractal.md), [mandelbrot](samples/mandelbrot.md)</sup>
-- **[Mandelbrot](samples/Mandelbrot-Set-2003/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [fractal](samples/fractal.md), [mandelbrot](samples/mandelbrot.md), [9 lines](samples/9-lines.md)</sup>
-- **[Mandelbrot Set](samples/Mandelbrot-Set-2008/index.md)** <sup>🐝 [qbguy](samples/qbguy.md) 🔗 [fractal](samples/fractal.md), [mandelbrot](samples/mandelbrot.md)</sup>
-- **[Tor Myklebust](samples/Mandelbrot-Zoomer/index.md)** <sup>🐝 [*missing*](samples/author-missing.md) 🔗 [fractal](samples/fractal.md), [mandelbrot](samples/mandelbrot.md)</sup>
-- **[Maptriangle in 3D](samples/Maptriangle-in-3D/index.md)** <sup>🐝 [Petr](samples/petr.md) 🔗 [3d](samples/3d.md), [maptriangle](samples/maptriangle.md)</sup>
-- **[Matrix Effect](samples/Matrix-Effect/index.md)** <sup>🐝 [TylerDarko](samples/tylerdarko.md) 🔗 [ascii](samples/ascii.md), [matrix](samples/matrix.md)</sup>
-- **[Mini Clock](samples/Mini-Clock/index.md)** <sup>🐝 [Folker Fritz](samples/folker-fritz.md) 🔗 [clock](samples/clock.md), [desktop](samples/desktop.md)</sup>
-- **[Bezier](samples/Multi-Mill/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
-- **[Bezier](samples/Mystify/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
-- **[Particle Fountain](samples/Particle-Fountain/index.md)** <sup>🐝 [bplus](samples/bplus.md) 🔗 [particles](samples/particles.md)</sup>
-- **[Mandala 9 Line](samples/Pattern/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [screensaver](samples/screensaver.md), [9 lines](samples/9-lines.md)</sup>
-- **[Pendulum Game](samples/Pendulum-Game/index.md)** <sup>🐝 [Fellippe Heitor](samples/fellippe-heitor.md) 🔗 [game](samples/game.md), [pendulum](samples/pendulum.md)</sup>
-- **[Pipes Puzzle (Maze Connect)](samples/Pipes-Puzzle/index.md)** <sup>🐝 [Dav](samples/dav.md) 🔗 [game](samples/game.md), [puzzle](samples/puzzle.md)</sup>
-- **[Non-Palette Rotated Plasma](samples/Plasma-Non-Pal/index.md)** <sup>🐝 [Relsoft](samples/relsoft.md) 🔗 [screensaver](samples/screensaver.md), [plasma](samples/plasma.md)</sup>
-- **[Ray Tracer Demo](samples/Ray-Tracer-Demo/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [ray tracer](samples/ray-tracer.md)</sup>
-- **[Ripples](samples/Ripples/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [image processing](samples/image-processing.md), [ripple](samples/ripple.md)</sup>
-- **[Rotozoomer](samples/Rotozoomer/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [screensaver](samples/screensaver.md), [9 lines](samples/9-lines.md)</sup>
-- **[Set Fire to Rain](samples/Set-Fire-to-Rain/index.md)** <sup>🐝 [Fellippe Heitor](samples/fellippe-heitor.md) 🔗 [game](samples/game.md), [zen](samples/zen.md)</sup>
-- **[Shooter](samples/Shooter/index.md)** <sup>🐝 [*missing*](samples/author-missing.md) 🔗 [game](samples/game.md), [shooter](samples/shooter.md)</sup>
-- **[Sine Wave Explorer](samples/Sine-Wave-Explorer/index.md)** <sup>🐝 [*missing*](samples/author-missing.md) 🔗 [trigonometry](samples/trigonometry.md)</sup>
-- **[SineCube](samples/SineCube/index.md)** <sup>🐝 [Mennonite](samples/mennonite.md) 🔗 [graphics](samples/graphics.md)</sup>
-- **[Snake Basic](samples/Snake-Basic/index.md)** <sup>🐝 [pcluddite](samples/pcluddite.md) 🔗 [game](samples/game.md), [snake](samples/snake.md)</sup>
-- **[Sokoban](samples/Sokoban/index.md)** <sup>🐝 [David Joffe](samples/david-joffe.md) 🔗 [game](samples/game.md), [puzzle](samples/puzzle.md)</sup>
-- **[Sort demo](samples/Sort-Demo/index.md)** <sup>🐝 [Microsoft](samples/microsoft.md) 🔗 [sort](samples/sort.md)</sup>
-- **[Space64](samples/Space64/index.md)** <sup>🐝 [Cyperium](samples/cyperium.md) 🔗 [game](samples/game.md), [space shooter](samples/space-shooter.md)</sup>
-- **[Spaceship](samples/Spaceship/index.md)** <sup>🐝 [Fellippe Heitor](samples/fellippe-heitor.md) 🔗 [game](samples/game.md), [space shooter](samples/space-shooter.md)</sup>
-- **[Bezier](samples/Splines/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
-- **[Starfield 9 Line](samples/Starfield/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [starfield](samples/starfield.md), [9 lines](samples/9-lines.md)</sup>
-- **[Starfield Torus](samples/Starfield-Torus/index.md)** <sup>🐝 [JKC](samples/jkc.md) 🔗 [starfield](samples/starfield.md)</sup>
-- **[Texel Raytracer](samples/Texel-Raytracer/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [3d](samples/3d.md), [ray tracing](samples/ray-tracing.md)</sup>
-- **[Tic Tac Toe](samples/Tic-Tac-Toe/index.md)** <sup>🐝 [Paul Meyer](samples/paul-meyer.md) 🔗 [game](samples/game.md), [tic tac toe](samples/tic-tac-toe.md)</sup>
-- **[Tic Tac Toe Rings](samples/Tic-Tac-Toe-Rings/index.md)** <sup>🐝 [Fellippe Heitor](samples/fellippe-heitor.md) 🔗 [game](samples/game.md), [tic tac toe rings](samples/tic-tac-toe-rings.md)</sup>
-- **[Torus Demo](samples/Torus-Demo/index.md)** <sup>🐝 [Microsoft](samples/microsoft.md) 🔗 [geometry](samples/geometry.md), [torus](samples/torus.md)</sup>
-- **[Tower of Hanoi](samples/Tower-of-Hanoi/index.md)** <sup>🐝 [*missing*](samples/author-missing.md) 🔗 [game](samples/game.md), [tower](samples/tower.md)</sup>
-- **[Turtle Graphics](samples/Turtle-Graphics/index.md)** <sup>🐝 [triggered](samples/triggered.md) 🔗 [fractal](samples/fractal.md), [turtle graphics](samples/turtle-graphics.md)</sup>
-- **[Twirl](samples/Twirl/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [screensaver](samples/screensaver.md), [9 lines](samples/9-lines.md)</sup>
-- **[Vortex](samples/Vortex/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [screensaver](samples/screensaver.md), [9 lines](samples/9-lines.md)</sup>
-- **[Water](samples/Water/index.md)** <sup>🐝 [*missing*](samples/author-missing.md) 🔗 [wave motion](samples/wave-motion.md)</sup>
-- **[Bezier](samples/Worms/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
+- **[Julia Rings](samples/3d-cube/index.md)** <sup>🐝 [Relsoft](samples/relsoft.md) 🔗 [3d](samples/3d.md), [cube](samples/cube.md)</sup>
+- **[Abacus](samples/abacus/index.md)** <sup>🐝 [Bob Seguin](samples/bob-seguin.md) 🔗 [abacus](samples/abacus.md), [arithmetic](samples/arithmetic.md)</sup>
+- **[Amongst](samples/amongst/index.md)** <sup>🐝 [Fellippe Heitor](samples/fellippe-heitor.md) 🔗 [game](samples/game.md), [multiplayer](samples/multiplayer.md)</sup>
+- **[Animax](samples/animax/index.md)** <sup>🐝 [Bob Seguin](samples/bob-seguin.md) 🔗 [art](samples/art.md), [drawing](samples/drawing.md)</sup>
+- **[ArcDemo](samples/arc-demo/index.md)** <sup>🐝 [Tsiplacov Sergey](samples/tsiplacov-sergey.md) 🔗 [game](samples/game.md), [platformer](samples/platformer.md)</sup>
+- **[Assault](samples/assault/index.md)** <sup>🐝 [Glenn Powell](samples/glenn-powell.md) 🔗 [game](samples/game.md)</sup>
+- **[Bezier](samples/bezier/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
+- **[Binary Clock](samples/binary-clock/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
+- **[Blockout](samples/blockout/index.md)** <sup>🐝 [Fellippe Heitor](samples/fellippe-heitor.md) 🔗 [game](samples/game.md), [breakout](samples/breakout.md)</sup>
+- **[Can't Contain Me](samples/cant-contain-me/index.md)** <sup>🐝 [Fellippe Heitor](samples/fellippe-heitor.md) 🔗 [game](samples/game.md)</sup>
+- **[Castle](samples/castle/index.md)** <sup>🐝 [Microsoft](samples/microsoft.md) 🔗 [game](samples/game.md), [2 player](samples/2-player.md)</sup>
+- **[Chaotic Scattering - Gaspard-Rice system](samples/chaotic-scattering/index.md)** <sup>🐝 [vince](samples/vince.md) 🔗 [ray tracing](samples/ray-tracing.md), [reflections](samples/reflections.md)</sup>
+- **[Circle Intersecting Circle](samples/circle-intersecting-circle/index.md)** <sup>🐝 [bplus](samples/bplus.md) 🐝 [STxAxTIC](samples/stxaxtic.md) 🔗 [geometry](samples/geometry.md), [intersections](samples/intersections.md)</sup>
+- **[Circle Intersecting Line](samples/circle-intersecting-line/index.md)** <sup>🐝 [bplus](samples/bplus.md) 🔗 [geometry](samples/geometry.md), [intersections](samples/intersections.md)</sup>
+- **[Colliding Ball Simulation](samples/colliding-ball-simulation/index.md)** <sup>🐝 [Timothy Baxendale](samples/timothy-baxendale.md) 🔗 [physics](samples/physics.md), [collisions](samples/collisions.md)</sup>
+- **[Connect Circles](samples/connect-circles/index.md)** <sup>🐝 [bplus](samples/bplus.md) 🔗 [screensaver](samples/screensaver.md), [mosaic](samples/mosaic.md)</sup>
+- **[Convert BMP to Dominoes](samples/convert-bmp-to-dominoes/index.md)** <sup>🐝 [Richard Frost](samples/richard-frost.md) 🔗 [image processing](samples/image-processing.md)</sup>
+- **[Darokin](samples/darokin/index.md)** <sup>🐝 [darokin](samples/darokin.md) 🔗 [screensaver](samples/screensaver.md), [starfield](samples/starfield.md)</sup>
+- **[Dragon Warrior 64](samples/dragon-warrior/index.md)** <sup>🐝 [Cobalt](samples/cobalt.md) 🔗 [game](samples/game.md), [rpg](samples/rpg.md)</sup>
+- **[Dropping Balls](samples/dropping-balls/index.md)** <sup>🐝 [bplus](samples/bplus.md) 🔗 [gravity](samples/gravity.md), [collisions](samples/collisions.md)</sup>
+- **[Ellipse Intersecting Line](samples/ellipse-intersecting-line/index.md)** <sup>🐝 [STxAxTIC](samples/stxaxtic.md) 🔗 [geometry](samples/geometry.md), [intersections](samples/intersections.md)</sup>
+- **[Fibonacci Variations](samples/fibonacci-variations/index.md)** <sup>🐝 [STxAxTIC](samples/stxaxtic.md) 🔗 [fibonacci](samples/fibonacci.md)</sup>
+- **[Filled Circles and Ellipses](samples/filled-circles-and-ellipses/index.md)** <sup>🐝 [QB64 Team 2018](samples/qb64-team-2018.md) 🔗 [filled circle](samples/filled-circle.md), [ellipse](samples/ellipse.md)</sup>
+- **[Fire](samples/fire/index.md)** <sup>🐝 [*missing*](samples/author-missing.md) 🔗 [fire](samples/fire.md), [graphics](samples/graphics.md)</sup>
+- **[Floormaper](samples/floormaper/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [graphics](samples/graphics.md), [floorscape](samples/floorscape.md)</sup>
+- **[4 Player Pong](samples/four-player-pong/index.md)** <sup>🐝 [Matthew](samples/matthew.md) 🔗 [game](samples/game.md), [pong](samples/pong.md)</sup>
+- **[Bezier](samples/fractal/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
+- **[Fractal Art](samples/fractal-art/index.md)** <sup>🐝 [Zom-B](samples/zom-b.md) 🔗 [fractal](samples/fractal.md), [art](samples/art.md)</sup>
+- **[Fractal Fern](samples/fractal-fern/index.md)** <sup>🐝 [*missing*](samples/author-missing.md) 🔗 [fractal](samples/fractal.md), [fern](samples/fern.md)</sup>
+- **[Globe](samples/globe/index.md)** <sup>🐝 [Glen Jeh](samples/glen-jeh.md) 🐝 [8/12/1994](samples/8/12/1994.md) 🐝 [William Yu (05-28-96)](samples/william-yu-(05-28-96).md) 🔗 [3d](samples/3d.md), [sphere](samples/sphere.md)</sup>
+- **[GUJERO2](samples/gujero2/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [screensaver](samples/screensaver.md), [tunnel](samples/tunnel.md)</sup>
+- **[Helicopter Rescue](samples/helicopter-rescue/index.md)** <sup>🐝 [TrialAndTerror](samples/trialandterror.md) 🔗 [game](samples/game.md), [3d](samples/3d.md), [flight](samples/flight.md)</sup>
+- **[Inverse Julia Fractal Explorer](samples/inverse-julia-fractal-explorer/index.md)** <sup>🐝 [Zom-B](samples/zom-b.md) 🔗 [fractal](samples/fractal.md), [julia set](samples/julia-set.md)</sup>
+- **[Julia Rings](samples/julia-rings/index.md)** <sup>🐝 [Relsoft](samples/relsoft.md) 🔗 [fractal](samples/fractal.md), [julia set](samples/julia-set.md)</sup>
+- **[Bezier](samples/kaleidoscope/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
+- **[Bezier](samples/kaleidoscope-mill/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
+- **[Bezier](samples/lightning-one/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
+- **[Bezier](samples/lightning-two/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
+- **[Lissajous Curve Table](samples/lissajous-curve-table/index.md)** <sup>🐝 [FellippeHeitor](samples/fellippeheitor.md) 🔗 [graphics](samples/graphics.md), [trigonometry](samples/trigonometry.md)</sup>
+- **[Lissajous Screensaver](samples/lissajous-screensaver/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [screensaver](samples/screensaver.md), [9 lines](samples/9-lines.md)</sup>
+- **[Rotating Lorenz Attractor](samples/lorenz-attractor/index.md)** <sup>🐝 [Vince](samples/vince.md) 🔗 [lorenz](samples/lorenz.md), [rotations](samples/rotations.md)</sup>
+- **[Mandala 9 Line](samples/manadla/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [screensaver](samples/screensaver.md), [9 lines](samples/9-lines.md)</sup>
+- **[Mandelbrot Animator](samples/mandelbrot-animator/index.md)** <sup>🐝 [*missing*](samples/author-missing.md) 🔗 [fractal](samples/fractal.md), [mandelbrot](samples/mandelbrot.md)</sup>
+- **[Mandelbrot](samples/mandelbrot-set-2003/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [fractal](samples/fractal.md), [mandelbrot](samples/mandelbrot.md), [9 lines](samples/9-lines.md)</sup>
+- **[Mandelbrot Set](samples/mandelbrot-set-2008/index.md)** <sup>🐝 [qbguy](samples/qbguy.md) 🔗 [fractal](samples/fractal.md), [mandelbrot](samples/mandelbrot.md)</sup>
+- **[Tor Myklebust](samples/mandelbrot-zoomer/index.md)** <sup>🐝 [*missing*](samples/author-missing.md) 🔗 [fractal](samples/fractal.md), [mandelbrot](samples/mandelbrot.md)</sup>
+- **[Maptriangle in 3D](samples/maptriangle-in-3d/index.md)** <sup>🐝 [Petr](samples/petr.md) 🔗 [3d](samples/3d.md), [maptriangle](samples/maptriangle.md)</sup>
+- **[Matrix Effect](samples/matrix-effect/index.md)** <sup>🐝 [TylerDarko](samples/tylerdarko.md) 🔗 [ascii](samples/ascii.md), [matrix](samples/matrix.md)</sup>
+- **[Mini Clock](samples/mini-clock/index.md)** <sup>🐝 [Folker Fritz](samples/folker-fritz.md) 🔗 [clock](samples/clock.md), [desktop](samples/desktop.md)</sup>
+- **[Bezier](samples/multi-mill/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
+- **[Bezier](samples/mystify/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
+- **[Particle Fountain](samples/particle-fountain/index.md)** <sup>🐝 [bplus](samples/bplus.md) 🔗 [particles](samples/particles.md)</sup>
+- **[Mandala 9 Line](samples/pattern/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [screensaver](samples/screensaver.md), [9 lines](samples/9-lines.md)</sup>
+- **[Pendulum Game](samples/pendulum-game/index.md)** <sup>🐝 [Fellippe Heitor](samples/fellippe-heitor.md) 🔗 [game](samples/game.md), [pendulum](samples/pendulum.md)</sup>
+- **[Pipes Puzzle (Maze Connect)](samples/pipes-puzzle/index.md)** <sup>🐝 [Dav](samples/dav.md) 🔗 [game](samples/game.md), [puzzle](samples/puzzle.md)</sup>
+- **[Non-Palette Rotated Plasma](samples/plasma-non-pal/index.md)** <sup>🐝 [Relsoft](samples/relsoft.md) 🔗 [screensaver](samples/screensaver.md), [plasma](samples/plasma.md)</sup>
+- **[Ray Tracer Demo](samples/ray-tracer-demo/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [ray tracer](samples/ray-tracer.md)</sup>
+- **[Ripples](samples/ripples/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [image processing](samples/image-processing.md), [ripple](samples/ripple.md)</sup>
+- **[Rotozoomer](samples/rotozoomer/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [screensaver](samples/screensaver.md), [9 lines](samples/9-lines.md)</sup>
+- **[Set Fire to Rain](samples/set-fire-to-rain/index.md)** <sup>🐝 [Fellippe Heitor](samples/fellippe-heitor.md) 🔗 [game](samples/game.md), [zen](samples/zen.md)</sup>
+- **[Shooter](samples/shooter/index.md)** <sup>🐝 [*missing*](samples/author-missing.md) 🔗 [game](samples/game.md), [shooter](samples/shooter.md)</sup>
+- **[Sine Wave Explorer](samples/sine-wave-explorer/index.md)** <sup>🐝 [*missing*](samples/author-missing.md) 🔗 [trigonometry](samples/trigonometry.md)</sup>
+- **[SineCube](samples/sinecube/index.md)** <sup>🐝 [Mennonite](samples/mennonite.md) 🔗 [graphics](samples/graphics.md)</sup>
+- **[Snake Basic](samples/snake-basic/index.md)** <sup>🐝 [pcluddite](samples/pcluddite.md) 🔗 [game](samples/game.md), [snake](samples/snake.md)</sup>
+- **[Sokoban](samples/sokoban/index.md)** <sup>🐝 [David Joffe](samples/david-joffe.md) 🔗 [game](samples/game.md), [puzzle](samples/puzzle.md)</sup>
+- **[Sort demo](samples/sort-demo/index.md)** <sup>🐝 [Microsoft](samples/microsoft.md) 🔗 [sort](samples/sort.md)</sup>
+- **[Space64](samples/space64/index.md)** <sup>🐝 [Cyperium](samples/cyperium.md) 🔗 [game](samples/game.md), [space shooter](samples/space-shooter.md)</sup>
+- **[Spaceship](samples/spaceship/index.md)** <sup>🐝 [Fellippe Heitor](samples/fellippe-heitor.md) 🔗 [game](samples/game.md), [space shooter](samples/space-shooter.md)</sup>
+- **[Bezier](samples/splines/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
+- **[Starfield 9 Line](samples/starfield/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [starfield](samples/starfield.md), [9 lines](samples/9-lines.md)</sup>
+- **[Starfield Torus](samples/starfield-torus/index.md)** <sup>🐝 [JKC](samples/jkc.md) 🔗 [starfield](samples/starfield.md)</sup>
+- **[Texel Raytracer](samples/texel-raytracer/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [3d](samples/3d.md), [ray tracing](samples/ray-tracing.md)</sup>
+- **[Tic Tac Toe](samples/tic-tac-toe/index.md)** <sup>🐝 [Paul Meyer](samples/paul-meyer.md) 🔗 [game](samples/game.md), [tic tac toe](samples/tic-tac-toe.md)</sup>
+- **[Tic Tac Toe Rings](samples/tic-tac-toe-rings/index.md)** <sup>🐝 [Fellippe Heitor](samples/fellippe-heitor.md) 🔗 [game](samples/game.md), [tic tac toe rings](samples/tic-tac-toe-rings.md)</sup>
+- **[Torus Demo](samples/torus-demo/index.md)** <sup>🐝 [Microsoft](samples/microsoft.md) 🔗 [geometry](samples/geometry.md), [torus](samples/torus.md)</sup>
+- **[Tower of Hanoi](samples/tower-of-hanoi/index.md)** <sup>🐝 [*missing*](samples/author-missing.md) 🔗 [game](samples/game.md), [tower](samples/tower.md)</sup>
+- **[Turtle Graphics](samples/turtle-graphics/index.md)** <sup>🐝 [triggered](samples/triggered.md) 🔗 [fractal](samples/fractal.md), [turtle graphics](samples/turtle-graphics.md)</sup>
+- **[Twirl](samples/twirl/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [screensaver](samples/screensaver.md), [9 lines](samples/9-lines.md)</sup>
+- **[Vortex](samples/vortex/index.md)** <sup>🐝 [Antoni Gual](samples/antoni-gual.md) 🔗 [screensaver](samples/screensaver.md), [9 lines](samples/9-lines.md)</sup>
+- **[Water](samples/water/index.md)** <sup>🐝 [*missing*](samples/author-missing.md) 🔗 [wave motion](samples/wave-motion.md)</sup>
+- **[Bezier](samples/worms/index.md)** <sup>🐝 [Rho Sigma](samples/rho-sigma.md) 🔗 [screenblanker](samples/screenblanker.md)</sup>
