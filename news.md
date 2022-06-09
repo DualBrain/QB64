@@ -37,6 +37,12 @@ Thanks to the efforts of William Barnes and other community members, many of the
 
 -- Cory Smith
 
+### 2022-05-01
+
+An [Official QB64 Repo](https://github.com/QB64Official/qb64) has been established that forks directly from the [GalleonDragon Repo](https://github.com/Galleondragon/qb64) and incorporates all of the changes, additions, etc. that were done as part of the "QB64 Team".  This work is in preparation for future work on QB64 once a lot of the *administration* issues are worked through.
+
+-- Cory Smith
+
 ### 2022-04-25
 
 Bryan Lunduke follows up his article more details and commentary via his most recent [The Lunduke Journal Podcast episode](https://youtu.be/qOh5uvKHXXo).
