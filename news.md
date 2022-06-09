@@ -1,5 +1,31 @@
 [Home](https://qb64.com) • [News](news.md) • [GitHub](github.md) • [Wiki](wiki.md) • [Games](games.md) • [Media](media.md) • [Community](community.md) • [Rolodex](rolodex.md) • [More...](more.md)
 
+### 2022-06-09
+
+The [Jam For All Basic Dialects #3](https://itch.io/jam/jam-for-all-basic-dialects-3) contest has been announced!
+
+> It is easier to learn than many other programming languages as BASIC's commands are similar to English and it has a simple set of rules. Nowadays there are many BASIC dialects which are suitable for game development. Many of them are free of charge. I list some BASIC dialects which are suitable for game development here: (But you can use any other BASIC dialects which are not on the following list for this game jam.)
+
+> The jam will be suitable for any kind of game developer and you will have so much fun in this jam.  Furthermore,  all entrants can share their experiences of using BASIC dialects in the jam. Before the jam starts, three themes will be selected from the following six themes by me.(1. War  2. Random  3. Escape  4. Powerful  5. One Way Trip  6. Circles, Squares & Triangles)
+
+The contest will take during the month of August, so be sure to check it out!
+
+See Also: [Jam For All Basic Dialects #1](https://itch.io/jam/jam-for-all-basic-dialects), [Jam For All Basic Dialects #2](https://itch.io/jam/jam-for-all-basic-dialects-2)
+
+-- Cory Smith
+
+### 2022-06-04
+
+Some planning has taken place and we can announce that work has begun on first fixing the issues surrounding the content behind the wiki and how this will be made available, maintained and ensure stability. Work has begun but it will take some time complete the full transition; with that said, the effort should worth it in the end as it helps to better future proof the content.
+
+-- Cory Smith
+
+### 2022-05-03
+
+Thanks to the efforts of William Barnes and other community members, many of the videos that were "lost" have now been restored and made available via [QB64 Official](https://www.youtube.com/channel/UCAisEw_O6wJU7phm3ZTCy7g).
+
+-- Cory Smith
+
 ### 2022-04-25
 
 Bryan Lunduke follows up his article more details and commentary via his most recent [The Lunduke Journal Podcast episode](https://youtu.be/qOh5uvKHXXo).
