@@ -4,8 +4,8 @@
 
 You can find several copies of the QB64 wiki on the internet; the current official one is located at:
 
-- [Wiki](https://wiki.qb64.dev)
+- [Wiki](https://github.com/QB64Official/qb64/wiki)
 
-Alternates:
+Archive / Backup:
 
 - [Studio Pond](http://www.studiopond.uk/qb64wiki/index.html)

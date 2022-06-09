@@ -4,13 +4,13 @@
 
 Unfortunately **there is currently no official location** for where to get QB64 (due to the events of early 2022). Currently you can find the latest "official" versions at:
 
-- [QB64 v2.0.2 (GitHub)](https://github.com/QB64Team/qb64): Abandoned GitHub repo of the now disbanded QB64 Team.
+- [QB64 v2.0.2 (GitHub)](https://github.com/QB64Team/qb64): Abandoned GitHub repo of the now disbanded "QB64 Team". (NOTE: The "QB64 Team" shouldn't be confused with *QB64 Official*.)
 
-With that said, there is an attempt to "reboot" the team with new blood and this effort can be found at:
+With that said, a combination of old and new community members are in the process of "rebooting" the team with new focus on more foundational items and this effort can be found at:
 
 - [QB64 Official](https://github.com/QB64Official/qb64)
 
-To be clear, the *QB64 Official* organization is currently at ground zero in the (hopeful) process of rebooting.  A lot of work needs to be done to get a new team formed and work progressing forward - this, of course, is assuming this is will even be possible.  So, for now, consider it a placeholder and let's all collectively hope that something will progress forward.  If this is something you might be interested in participating in, please connect with the organization through the repo or via [discord](community.md).
+To be clear, the *QB64 Official* organization is currently at ground zero in the process of rebooting.  A lot of work needs to be done to get a new team formed and work progressing forward. If this is something you might be interested in participating in, please connect with the organization through the repo or via [discord](community.md).
 
 First and foremost...
 
@@ -26,4 +26,4 @@ In order to prevent (or a the very least minimize) past circumstances from being
 - Will review Rob Galleons philosophy for contributions as part of defining the MVG.
 - There will be no [Benevolent Dictator for Life](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life) role; the only person that could claim that role has seperated himself from the project... as such, the need for a MVG structure is needed for QB64.
 - Any donations, fundraisers, financial contributions, etc. will not be considered in any manner unless/until a solid foundation exists and a real treasurer is in place.  This may never actually happen, but until it does... no one, period, should be asking for any money in any way as related to QB64.
-- Once the dust completely settles and we can truly look to the future, I believe the attention should be more about making QB64 available in more places across popular platforms beyond Windows, Linux and macOS.
+- Once the dust completely settles and we can truly look to the future.

@@ -4,8 +4,6 @@
 
 ## Official
 
-Unfortunately all of the official videos produced by the "QB64 Team" have been deleted.
+The [QB64 Official](https://www.youtube.com/channel/UCAisEw_O6wJU7phm3ZTCy7g/) channel contains all sorts of videos on QB64, tutorials, InForm, interviews (podcasts), team chats and community highlights. 
 
-## Others
-
-- ["???? in qb64" - Gyula Tóth](https://youtu.be/aCMKTqdTZJE)
+- [QB64 Official](https://www.youtube.com/channel/UCAisEw_O6wJU7phm3ZTCy7g/)

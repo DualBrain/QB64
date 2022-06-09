@@ -18,7 +18,7 @@ Although nothing is truly ever *completed*, these are games that can be consider
 
 ![Chess](images/chessqbt.png)
 
-For Windows, Linux, and maybe Mac (last untested). Slices, dices, and makes Julienne fries!  No Ginsu knives. • [download](downloads/chess.7z) •  [more...](https://qb64phoenix.com/forum/showthread.php?tid=3)
+From member *ChiaPet*.  For Windows, Linux, and maybe Mac (last untested). Slices, dices, and makes Julienne fries!  No Ginsu knives. • [download](downloads/chess.7z)
 
 ---
 
@@ -26,7 +26,7 @@ For Windows, Linux, and maybe Mac (last untested). Slices, dices, and makes Juli
 
 ![MoonLander](images/lander_003.png)
 
-Objective is to land softly on level ground.  Cancel the horizontal velocity with left and right arrow, land by controlling the main thrust with up and down arrow. Has 10 surface features, including a McDonalds.  Several flying features, like a Death Star, Borg spacecraft, and black holes. Most of the files, in the directories stars1-3, are optional, only called upon if one turns on the stars with 1-4. Originally written in QB4.5.  Translated to QB64 it's much faster, which allows all features to be active at once - stuff like fancy ground, stars, a rotating Death Star, etc. Take a trip down memory lane with /, which changes the display to green screen, amber, or black & white. • [download](downloads/L64.7z) •  [more...](https://qb64phoenix.com/forum/showthread.php?tid=223)
+From member *ChiaPet*.  Objective is to land softly on level ground.  Cancel the horizontal velocity with left and right arrow, land by controlling the main thrust with up and down arrow. Has 10 surface features, including a McDonalds.  Several flying features, like a Death Star, Borg spacecraft, and black holes. Most of the files, in the directories stars1-3, are optional, only called upon if one turns on the stars with 1-4. Originally written in QB4.5.  Translated to QB64 it's much faster, which allows all features to be active at once - stuff like fancy ground, stars, a rotating Death Star, etc. Take a trip down memory lane with /, which changes the display to green screen, amber, or black & white. • [download](downloads/L64.7z)
 
 ---
 
@@ -74,3 +74,4 @@ GX is a basic game engine... literally. This is a Game(G) Engine(X) built with a
 
 - [Jam for All BASIC Dialects #1 (2021)](https://itch.io/jam/jam-for-all-basic-dialects)
 - [Jam for All BASIC Dialects #2 (2022)](https://itch.io/jam/jam-for-all-basic-dialects-2)
+- [Jam for All BASIC Dialects #3 (2022)](https://itch.io/jam/jam-for-all-basic-dialects-3)

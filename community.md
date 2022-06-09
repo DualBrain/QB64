@@ -42,15 +42,10 @@ Pages...
 
 Unfortunately there aren't any *official* forums for QB64; but with that said there are several forums available that may be of interest.
 
-The following are specific to particular development "branches" of QB64...
+Although following sites host forums that cater to many dialects of BASIC, each of them have an area dedicated specifically for QB64.
 
-- [QB64 Team / QB64.org Forum (Read-Only)](https://qb64forum.alephc.xyz/index.php)
-- [QB64 Phoenix Edition](https://forum.qb64phoenix.com)
-
-The following are more general forums that cater to many dialects of BASIC, but have an area dedicated specifically for QB64.
-
-- [Friends of Basic](https://friends-of-basic.freeforums.net/board/6/qb64)
 - [The QBasic (and QB64) Forum](https://www.tapatalk.com/groups/qbasic/)
+- [Friends of Basic](https://friends-of-basic.freeforums.net/board/6/qb64)
 - [The Retro Dev](https://www.theretrodev.com/forum/forumdisplay.php?fid=48)
 
 The following forums aren't specific to QB64, but may be of interest...
@@ -58,10 +53,15 @@ The following forums aren't specific to QB64, but may be of interest...
 - [Basic 4 All](http://basic4all.epizy.com/)
 - [SyntaxBomb](https://www.syntaxbomb.com/)
 
+At one time there was a very active forum dedicated to QB64, but it was shutdown by it's owner (re: "events of early 2022"); thankfully a community member has managed to restore an backup copy and made it available in readonly/archival format.
+
+- [QB64 Team / QB64.org Forum (Archive/Read-Only)](https://qb64forum.alephc.xyz/index.php)
+
 ### Mastadon
 
+- [@qb64@oldbytes.space]("https://oldbytes.space/@qb64")
 - [Scott Williams](https://mastodon.online/@vwbusguy)
 
 ### Reddit
 
-- [QB64 Team](https://www.reddit.com/r/qb64): A subreddit to discuss all things QB64. QB64 uses the simplicity of QBasic, but with a slew of newer commands, not to mention massively expanded capabilities. It's designed to be 100% backwards compatible with your old QBasic programs Too!
+- [~~QB64 Team~~](https://www.reddit.com/r/qb64): A subreddit to discuss all things QB64. QB64 uses the simplicity of QBasic, but with a slew of newer commands, not to mention massively expanded capabilities. It's designed to be 100% backwards compatible with your old QBasic programs Too!

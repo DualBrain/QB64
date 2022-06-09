@@ -17,7 +17,7 @@ This page is dedicated to those individuals who have contributed in the past to 
 - Doug Kearns: [GitHub](https://github.com/dkearns)
 - Matt Kilgore: [GitHub](https://github.com/mkilgore)
 - Ashish Kushwaha: [GitHub](https://github.com/ashishkingdom)
-- Steve McNeill: [GitHub](https://github.com/SteveMcNeill) • [QB64 Phoenix](https://www.qb64phoenix.com)
+- Steve McNeill: [GitHub](https://github.com/SteveMcNeill)
 - Alex Myczko: [GitHub](https://github.com/alexmyczko)  
 - Zachary Spriggs (SpriggsySpriggs): [GitHub](https://github.com/SpriggsySpriggs)
 - Lynn Stricklan: [GitHub](https://github.com/lstricklan)
