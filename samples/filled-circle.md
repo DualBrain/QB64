@@ -1,9 +1,9 @@
-[Home](https://qb64.com) • [News](/news.html) • [GitHub](/github.html) • [Wiki](/wiki.html) • [Samples](/samples.html) • [Media](/media.html) • [Community](/community.html) • [Rolodex](/rolodex.html) • [More...](/more.html)
+[Home](https://qb64.com) • [News](/news.md) • [GitHub](/github.md) • [Wiki](/wiki.md) • [Samples](/samples.md) • [Media](/media.md) • [Community](/community.md) • [Rolodex](/rolodex.md) • [More...](/more.md)
 
 ## FILLED CIRCLE
 
-**[Filled Circles and Ellipses](filled-circles-and-ellipses/index)**
+**[Filled Circles and Ellipses](filled-circles-and-ellipses/index.md)**
 
-[🐝 QB64 Team 2018](qb64-team-2018) 🔗 [filled circle](filled-circle), [ellipse](ellipse)
+[🐝 QB64 Team 2018](qb64-team-2018.md) 🔗 [filled circle](filled-circle.md), [ellipse](ellipse.md)
 
 We develop four variations on the CIRCLE command in the form of four SUBs: (i) CircleFill = Fille...

@@ -1,9 +1,9 @@
-[Home](https://qb64.com) • [News](/news.html) • [GitHub](/github.html) • [Wiki](/wiki.html) • [Samples](/samples.html) • [Media](/media.html) • [Community](/community.html) • [Rolodex](/rolodex.html) • [More...](/more.html)
+[Home](https://qb64.com) • [News](/news.md) • [GitHub](/github.md) • [Wiki](/wiki.md) • [Samples](/samples.md) • [Media](/media.md) • [Community](/community.md) • [Rolodex](/rolodex.md) • [More...](/more.md)
 
 ## TUNNEL
 
-**[GUJERO2](gujero2/index)** <sup>v2004</sup>
+**[GUJERO2](gujero2/index.md)** <sup>v2004</sup>
 
-[🐝 Antoni Gual](antoni-gual) 🔗 [screensaver](screensaver), [tunnel](tunnel)
+[🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [tunnel](tunnel.md)
 
 '----------------------------------------------------------------------- 'GUJERO2.BAS by Antoni G...

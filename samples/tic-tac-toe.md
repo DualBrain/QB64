@@ -1,9 +1,9 @@
-[Home](https://qb64.com) • [News](/news.html) • [GitHub](/github.html) • [Wiki](/wiki.html) • [Samples](/samples.html) • [Media](/media.html) • [Community](/community.html) • [Rolodex](/rolodex.html) • [More...](/more.html)
+[Home](https://qb64.com) • [News](/news.md) • [GitHub](/github.md) • [Wiki](/wiki.md) • [Samples](/samples.md) • [Media](/media.md) • [Community](/community.md) • [Rolodex](/rolodex.md) • [More...](/more.md)
 
 ## TIC TAC TOE
 
-**[Tic Tac Toe](tic-tac-toe/index)**
+**[Tic Tac Toe](tic-tac-toe/index.md)**
 
-[🐝 Paul Meyer](paul-meyer) 🔗 [game](game), [tic tac toe](tic-tac-toe)
+[🐝 Paul Meyer](paul-meyer.md) 🔗 [game](game.md), [tic tac toe](tic-tac-toe.md)
 
 Tic tac toe game by Paul Meyer.

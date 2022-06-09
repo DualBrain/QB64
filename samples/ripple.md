@@ -1,9 +1,9 @@
-[Home](https://qb64.com) • [News](/news.html) • [GitHub](/github.html) • [Wiki](/wiki.html) • [Samples](/samples.html) • [Media](/media.html) • [Community](/community.html) • [Rolodex](/rolodex.html) • [More...](/more.html)
+[Home](https://qb64.com) • [News](/news.md) • [GitHub](/github.md) • [Wiki](/wiki.md) • [Samples](/samples.md) • [Media](/media.md) • [Community](/community.md) • [Rolodex](/rolodex.md) • [More...](/more.md)
 
 ## RIPPLE
 
-**[Ripples](ripples/index)** <sup>v2001</sup>
+**[Ripples](ripples/index.md)** <sup>v2001</sup>
 
-[🐝 Antoni Gual](antoni-gual) 🔗 [image processing](image-processing), [ripple](ripple)
+[🐝 Antoni Gual](antoni-gual.md) 🔗 [image processing](image-processing.md), [ripple](ripple.md)
 
 '---------------------------------------------------------------------------- 'RIPPLES, by Antoni...

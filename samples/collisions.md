@@ -1,15 +1,15 @@
-[Home](https://qb64.com) • [News](/news.html) • [GitHub](/github.html) • [Wiki](/wiki.html) • [Samples](/samples.html) • [Media](/media.html) • [Community](/community.html) • [Rolodex](/rolodex.html) • [More...](/more.html)
+[Home](https://qb64.com) • [News](/news.md) • [GitHub](/github.md) • [Wiki](/wiki.md) • [Samples](/samples.md) • [Media](/media.md) • [Community](/community.md) • [Rolodex](/rolodex.md) • [More...](/more.md)
 
 ## COLLISIONS
 
-**[Colliding Ball Simulation](colliding-ball-simulation/index)** <sup>v2013</sup>
+**[Colliding Ball Simulation](colliding-ball-simulation/index.md)** <sup>v2013</sup>
 
-[🐝 Timothy Baxendale](timothy-baxendale) 🔗 [physics](physics), [collisions](collisions)
+[🐝 Timothy Baxendale](timothy-baxendale.md) 🔗 [physics](physics.md), [collisions](collisions.md)
 
 Realistic collisions between sphreres in two dimensions.
 
-**[Dropping Balls](dropping-balls/index)** <sup>v2020</sup>
+**[Dropping Balls](dropping-balls/index.md)** <sup>v2020</sup>
 
-[🐝 bplus](bplus) 🔗 [gravity](gravity), [collisions](collisions)
+[🐝 bplus](bplus.md) 🔗 [gravity](gravity.md), [collisions](collisions.md)
 
 Dropping Balls an attempt to build a pile by adjusting drop rate, elasticity, and gravity.

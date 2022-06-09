@@ -1,15 +1,15 @@
-[Home](https://qb64.com) • [News](/news.html) • [GitHub](/github.html) • [Wiki](/wiki.html) • [Samples](/samples.html) • [Media](/media.html) • [Community](/community.html) • [Rolodex](/rolodex.html) • [More...](/more.html)
+[Home](https://qb64.com) • [News](/news.md) • [GitHub](/github.md) • [Wiki](/wiki.md) • [Samples](/samples.md) • [Media](/media.md) • [Community](/community.md) • [Rolodex](/rolodex.md) • [More...](/more.md)
 
 ## PUZZLE
 
-**[Pipes Puzzle (Maze Connect)](pipes-puzzle/index)** <sup>v1</sup>
+**[Pipes Puzzle (Maze Connect)](pipes-puzzle/index.md)** <sup>v1</sup>
 
-[🐝 Dav](dav) 🔗 [game](game), [puzzle](puzzle)
+[🐝 Dav](dav.md) 🔗 [game](game.md), [puzzle](puzzle.md)
 
  '================  'PIPES.BAS v1.0  '================  'Connect the pipes puzzle game  'Coded by...
 
-**[Sokoban](sokoban/index)** <sup>v1997</sup>
+**[Sokoban](sokoban/index.md)** <sup>v1997</sup>
 
-[🐝 David Joffe](david-joffe) 🔗 [game](game), [puzzle](puzzle)
+[🐝 David Joffe](david-joffe.md) 🔗 [game](game.md), [puzzle](puzzle.md)
 
 '/=================================================================\ '  (C) David Joffe 1997 '  D...

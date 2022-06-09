@@ -1,9 +1,9 @@
-[Home](https://qb64.com) • [News](/news.html) • [GitHub](/github.html) • [Wiki](/wiki.html) • [Samples](/samples.html) • [Media](/media.html) • [Community](/community.html) • [Rolodex](/rolodex.html) • [More...](/more.html)
+[Home](https://qb64.com) • [News](/news.md) • [GitHub](/github.md) • [Wiki](/wiki.md) • [Samples](/samples.md) • [Media](/media.md) • [Community](/community.md) • [Rolodex](/rolodex.md) • [More...](/more.md)
 
 ## ABACUS
 
-**[Abacus](abacus/index)**
+**[Abacus](abacus/index.md)**
 
-[🐝 Bob Seguin](bob-seguin) 🔗 [abacus](abacus), [arithmetic](arithmetic)
+[🐝 Bob Seguin](bob-seguin.md) 🔗 [abacus](abacus.md), [arithmetic](arithmetic.md)
 
 Abacus app by Bob Seguin.  NOTE: This game requires graphics files created by any accompanying .b...

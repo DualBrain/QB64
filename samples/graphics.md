@@ -1,27 +1,27 @@
-[Home](https://qb64.com) • [News](/news.html) • [GitHub](/github.html) • [Wiki](/wiki.html) • [Samples](/samples.html) • [Media](/media.html) • [Community](/community.html) • [Rolodex](/rolodex.html) • [More...](/more.html)
+[Home](https://qb64.com) • [News](/news.md) • [GitHub](/github.md) • [Wiki](/wiki.md) • [Samples](/samples.md) • [Media](/media.md) • [Community](/community.md) • [Rolodex](/rolodex.md) • [More...](/more.md)
 
 ## GRAPHICS
 
-**[Fire](fire/index)**
+**[Fire](fire/index.md)**
 
-[🐝 *missing*](author_missing) 🔗 [fire](fire), [graphics](graphics)
+[🐝 *missing*](author-missing.md) 🔗 [fire](fire.md), [graphics](graphics.md)
 
 Fire dominates the lower screen.
 
-**[Floormaper](floormaper/index)** <sup>v1/2003</sup>
+**[Floormaper](floormaper/index.md)** <sup>v1/2003</sup>
 
-[🐝 Antoni Gual](antoni-gual) 🔗 [graphics](graphics), [floorscape](floorscape)
+[🐝 Antoni Gual](antoni-gual.md) 🔗 [graphics](graphics.md), [floorscape](floorscape.md)
 
 Floormaper by Antoni Gual  for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003
 
-**[Lissajous Curve Table](lissajous-curve-table/index)** <sup>v2018</sup>
+**[Lissajous Curve Table](lissajous-curve-table/index.md)** <sup>v2018</sup>
 
-[🐝 FellippeHeitor](fellippeheitor) 🔗 [graphics](graphics), [trigonometry](trigonometry)
+[🐝 FellippeHeitor](fellippeheitor.md) 🔗 [graphics](graphics.md), [trigonometry](trigonometry.md)
 
 Graphical Lissajou's Figures.  For added eye-candy-ness, I've changed the plot line to paint usin...
 
-**[SineCube](sinecube/index)** <sup>v2006</sup>
+**[SineCube](sinecube/index.md)** <sup>v2006</sup>
 
-[🐝 Mennonite](mennonite) 🔗 [graphics](graphics)
+[🐝 Mennonite](mennonite.md) 🔗 [graphics](graphics.md)
 
 'sinecube 2006 mennonite 'public domain

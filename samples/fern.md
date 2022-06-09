@@ -1,9 +1,9 @@
-[Home](https://qb64.com) • [News](/news.html) • [GitHub](/github.html) • [Wiki](/wiki.html) • [Samples](/samples.html) • [Media](/media.html) • [Community](/community.html) • [Rolodex](/rolodex.html) • [More...](/more.html)
+[Home](https://qb64.com) • [News](/news.md) • [GitHub](/github.md) • [Wiki](/wiki.md) • [Samples](/samples.md) • [Media](/media.md) • [Community](/community.md) • [Rolodex](/rolodex.md) • [More...](/more.md)
 
 ## FERN
 
-**[Fractal Fern](fractal-fern/index)**
+**[Fractal Fern](fractal-fern/index.md)**
 
-[🐝 *missing*](author_missing) 🔗 [fractal](fractal), [fern](fern)
+[🐝 *missing*](author-missing.md) 🔗 [fractal](fractal.md), [fern](fern.md)
 
 The legendary fractal fern.

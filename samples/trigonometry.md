@@ -1,15 +1,15 @@
-[Home](https://qb64.com) • [News](/news.html) • [GitHub](/github.html) • [Wiki](/wiki.html) • [Samples](/samples.html) • [Media](/media.html) • [Community](/community.html) • [Rolodex](/rolodex.html) • [More...](/more.html)
+[Home](https://qb64.com) • [News](/news.md) • [GitHub](/github.md) • [Wiki](/wiki.md) • [Samples](/samples.md) • [Media](/media.md) • [Community](/community.md) • [Rolodex](/rolodex.md) • [More...](/more.md)
 
 ## TRIGONOMETRY
 
-**[Lissajous Curve Table](lissajous-curve-table/index)** <sup>v2018</sup>
+**[Lissajous Curve Table](lissajous-curve-table/index.md)** <sup>v2018</sup>
 
-[🐝 FellippeHeitor](fellippeheitor) 🔗 [graphics](graphics), [trigonometry](trigonometry)
+[🐝 FellippeHeitor](fellippeheitor.md) 🔗 [graphics](graphics.md), [trigonometry](trigonometry.md)
 
 Graphical Lissajou's Figures.  For added eye-candy-ness, I've changed the plot line to paint usin...
 
-**[Sine Wave Explorer](sine-wave-explorer/index)**
+**[Sine Wave Explorer](sine-wave-explorer/index.md)**
 
-[🐝 *missing*](author_missing) 🔗 [trigonometry](trigonometry)
+[🐝 *missing*](author-missing.md) 🔗 [trigonometry](trigonometry.md)
 
 Sine Wave Explorer

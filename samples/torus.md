@@ -1,9 +1,9 @@
-[Home](https://qb64.com) • [News](/news.html) • [GitHub](/github.html) • [Wiki](/wiki.html) • [Samples](/samples.html) • [Media](/media.html) • [Community](/community.html) • [Rolodex](/rolodex.html) • [More...](/more.html)
+[Home](https://qb64.com) • [News](/news.md) • [GitHub](/github.md) • [Wiki](/wiki.md) • [Samples](/samples.md) • [Media](/media.md) • [Community](/community.md) • [Rolodex](/rolodex.md) • [More...](/more.md)
 
 ## TORUS
 
-**[Torus Demo](torus-demo/index)**
+**[Torus Demo](torus-demo/index.md)**
 
-[🐝 Microsoft](microsoft) 🔗 [geometry](geometry), [torus](torus)
+[🐝 Microsoft](microsoft.md) 🔗 [geometry](geometry.md), [torus](torus.md)
 
 '------------------------------------------------------------------------------------------------...
