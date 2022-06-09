@@ -1,6 +1,6 @@
 [Home](https://qb64.com) • [News](/news.md) • [GitHub](/github.md) • [Wiki](/wiki.md) • [Samples](/samples.md) • [Media](/media.md) • [Community](/community.md) • [Rolodex](/rolodex.md) • [More...](/more.md)
 
-## ANTONI GUAL
+## SAMPLES BY ANTONI GUAL
 
 **[Floormaper](floormaper/index.md)** <sup>v1/2003</sup>
 

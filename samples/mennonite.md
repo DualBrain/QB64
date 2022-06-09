@@ -1,6 +1,6 @@
 [Home](https://qb64.com) • [News](/news.md) • [GitHub](/github.md) • [Wiki](/wiki.md) • [Samples](/samples.md) • [Media](/media.md) • [Community](/community.md) • [Rolodex](/rolodex.md) • [More...](/more.md)
 
-## MENNONITE
+## SAMPLES BY MENNONITE
 
 **[SineCube](sinecube/index.md)** <sup>v2006</sup>
 

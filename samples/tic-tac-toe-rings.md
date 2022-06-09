@@ -1,6 +1,6 @@
 [Home](https://qb64.com) • [News](/news.md) • [GitHub](/github.md) • [Wiki](/wiki.md) • [Samples](/samples.md) • [Media](/media.md) • [Community](/community.md) • [Rolodex](/rolodex.md) • [More...](/more.md)
 
-## TIC TAC TOE RINGS
+## SAMPLES: TIC TAC TOE RINGS
 
 **[Tic Tac Toe Rings](tic-tac-toe-rings/index.md)**
 

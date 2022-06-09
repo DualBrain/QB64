@@ -1,6 +1,6 @@
 [Home](https://qb64.com) • [News](/news.md) • [GitHub](/github.md) • [Wiki](/wiki.md) • [Samples](/samples.md) • [Media](/media.md) • [Community](/community.md) • [Rolodex](/rolodex.md) • [More...](/more.md)
 
-## RPG
+## SAMPLES: RPG
 
 **[Dragon Warrior 64](dragon-warrior/index.md)** <sup>v2021-08-26</sup>
 

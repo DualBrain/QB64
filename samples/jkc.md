@@ -1,6 +1,6 @@
 [Home](https://qb64.com) • [News](/news.md) • [GitHub](/github.md) • [Wiki](/wiki.md) • [Samples](/samples.md) • [Media](/media.md) • [Community](/community.md) • [Rolodex](/rolodex.md) • [More...](/more.md)
 
-## JKC
+## SAMPLES BY JKC
 
 **[Starfield Torus](starfield-torus/index.md)** <sup>v2003</sup>
 
