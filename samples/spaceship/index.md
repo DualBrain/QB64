@@ -10,7 +10,11 @@
 
 ### Description
 
+```text
 Fly across the universe on a quest for survival against alien enemy forces. Made with QB64.
+```
+
+### Code
 
 ### File(s)
 
