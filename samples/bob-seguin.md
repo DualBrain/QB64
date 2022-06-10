@@ -13,3 +13,9 @@ Abacus app by Bob Seguin.  NOTE: This game requires graphics files created by an
 [🐝 Bob Seguin](bob-seguin.md) 🔗 [art](art.md), [drawing](drawing.md)
 
 A Graphics/Animation utility by Bob Seguin.  NOTE: This game requires graphics files created by a...
+
+**[Rattler](rattler/index.md)**
+
+[🐝 Bob Seguin](bob-seguin.md) 🔗 [game](game.md), [snake](snake.md)
+
+Snake clone by Bob Seguin.

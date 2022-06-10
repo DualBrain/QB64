@@ -8,7 +8,7 @@
 
 Floormaper by Antoni Gual  for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003
 
-**[GUJERO2](gujero2/index.md)**
+**[Gujero2](gujero2/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [tunnel](tunnel.md)
 
@@ -20,23 +20,29 @@ Floormaper by Antoni Gual  for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003
 
 'Lissajous by Antoni Gual 'for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003 '-----------------...
 
-**[Mandala 9 Line](manadla/index.md)**
+**[Manadla](manadla/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [9 lines](9-lines.md)
 
 'Mandala by Antoni gual 'for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003 '-------------------...
 
-**[Mandelbrot](mandelbrot-set-2003/index.md)**
+**[Mandelbrot Set 2003](mandelbrot-set-2003/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [fractal](fractal.md), [mandelbrot](mandelbrot.md), [9 lines](9-lines.md)
 
 'MANDELBROT by Antoni Gual 2003 'for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003 '-----------...
 
-**[Mandala 9 Line](pattern/index.md)**
+**[Pattern](pattern/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [9 lines](9-lines.md)
 
 'patterns 'for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003 '---------------------------------...
+
+**[RayCaster](raycaster/index.md)**
+
+[🐝 Antoni Gual](antoni-gual.md) 🔗 [3d](3d.md), [raycaster](raycaster.md)
+
+'Antoni Gual raycaster 'Modified from Entropy's an 36-lines entry for the Biskbart's '40-lines QB...
 
 **[Ripples](ripples/index.md)**
 
@@ -50,7 +56,7 @@ Floormaper by Antoni Gual  for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003
 
 ' OPTIMIZED  :) rotozoomer in 9 lines by Antoni Gual 'for Rel's 9 LINER contest at QBASICNEWS.COM...
 
-**[Starfield 9 Line](starfield/index.md)**
+**[Starfield](starfield/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [starfield](starfield.md), [9 lines](9-lines.md)
 

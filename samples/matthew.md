@@ -2,7 +2,7 @@
 
 ## SAMPLES BY MATTHEW
 
-**[4 Player Pong](four-player-pong/index.md)**
+**[Four Player Pong](four-player-pong/index.md)**
 
 [🐝 Matthew](matthew.md) 🔗 [game](game.md), [pong](pong.md)
 

@@ -2,7 +2,7 @@
 
 ## SAMPLES: RAY TRACING
 
-**[Chaotic Scattering - Gaspard-Rice system](chaotic-scattering/index.md)**
+**[Chaotic Scattering](chaotic-scattering/index.md)**
 
 [🐝 vince](vince.md) 🔗 [ray tracing](ray-tracing.md), [reflections](reflections.md)
 

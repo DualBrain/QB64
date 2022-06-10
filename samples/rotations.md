@@ -2,7 +2,7 @@
 
 ## SAMPLES: ROTATIONS
 
-**[Rotating Lorenz Attractor](lorenz-attractor/index.md)**
+**[Lorenz Attractor](lorenz-attractor/index.md)**
 
 [🐝 Vince](vince.md) 🔗 [lorenz](lorenz.md), [rotations](rotations.md)
 

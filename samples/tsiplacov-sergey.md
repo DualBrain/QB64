@@ -2,7 +2,7 @@
 
 ## SAMPLES BY TSIPLACOV SERGEY
 
-**[ArcDemo](arc-demo/index.md)**
+**[Arc Demo](arc-demo/index.md)**
 
 [🐝 Tsiplacov Sergey](tsiplacov-sergey.md) 🔗 [game](game.md), [platformer](platformer.md)
 

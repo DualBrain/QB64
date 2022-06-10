@@ -6,7 +6,7 @@
 
 ### Author
 
-[🐝 FellippeHeitor](../fellippeheitor.md) 
+[🐝 Fellippe Heitor](../fellippe-heitor.md) 
 
 ### Description
 

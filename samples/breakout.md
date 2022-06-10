@@ -7,3 +7,9 @@
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [breakout](breakout.md)
 
 A Breakout clone with DXBall aspirations.
+
+**[QBricks](qbricks/index.md)**
+
+[🐝 Microsoft](microsoft.md) 🔗 [game](game.md), [breakout](breakout.md)
+
+Breakout clone by Microsoft.

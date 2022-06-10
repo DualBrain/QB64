@@ -2,7 +2,7 @@
 
 ## SAMPLES: TUNNEL
 
-**[GUJERO2](gujero2/index.md)**
+**[Gujero2](gujero2/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [tunnel](tunnel.md)
 

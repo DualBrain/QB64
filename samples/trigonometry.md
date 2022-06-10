@@ -4,7 +4,7 @@
 
 **[Lissajous Curve Table](lissajous-curve-table/index.md)**
 
-[🐝 FellippeHeitor](fellippeheitor.md) 🔗 [graphics](graphics.md), [trigonometry](trigonometry.md)
+[🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [graphics](graphics.md), [trigonometry](trigonometry.md)
 
 Graphical Lissajou's Figures.  For added eye-candy-ness, I've changed the plot line to paint usin...
 

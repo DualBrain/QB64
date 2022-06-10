@@ -8,19 +8,19 @@
 
 'Lissajous by Antoni Gual 'for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003 '-----------------...
 
-**[Mandala 9 Line](manadla/index.md)**
+**[Manadla](manadla/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [9 lines](9-lines.md)
 
 'Mandala by Antoni gual 'for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003 '-------------------...
 
-**[Mandelbrot](mandelbrot-set-2003/index.md)**
+**[Mandelbrot Set 2003](mandelbrot-set-2003/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [fractal](fractal.md), [mandelbrot](mandelbrot.md), [9 lines](9-lines.md)
 
 'MANDELBROT by Antoni Gual 2003 'for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003 '-----------...
 
-**[Mandala 9 Line](pattern/index.md)**
+**[Pattern](pattern/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [9 lines](9-lines.md)
 
@@ -32,7 +32,7 @@
 
 ' OPTIMIZED  :) rotozoomer in 9 lines by Antoni Gual 'for Rel's 9 LINER contest at QBASICNEWS.COM...
 
-**[Starfield 9 Line](starfield/index.md)**
+**[Starfield](starfield/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [starfield](starfield.md), [9 lines](9-lines.md)
 

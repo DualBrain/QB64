@@ -2,7 +2,7 @@
 
 ## SAMPLES BY DAV
 
-**[Pipes Puzzle (Maze Connect)](pipes-puzzle/index.md)**
+**[Pipes Puzzle](pipes-puzzle/index.md)**
 
 [🐝 Dav](dav.md) 🔗 [game](game.md), [puzzle](puzzle.md)
 

@@ -14,7 +14,7 @@ Created by QB64 community member bplus.
 
 Created by QB community member darokin.
 
-**[GUJERO2](gujero2/index.md)**
+**[Gujero2](gujero2/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [tunnel](tunnel.md)
 
@@ -26,19 +26,19 @@ Created by QB community member darokin.
 
 'Lissajous by Antoni Gual 'for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003 '-----------------...
 
-**[Mandala 9 Line](manadla/index.md)**
+**[Manadla](manadla/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [9 lines](9-lines.md)
 
 'Mandala by Antoni gual 'for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003 '-------------------...
 
-**[Mandala 9 Line](pattern/index.md)**
+**[Pattern](pattern/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [9 lines](9-lines.md)
 
 'patterns 'for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003 '---------------------------------...
 
-**[Non-Palette Rotated Plasma](plasma-non-pal/index.md)**
+**[Plasma Non-Pal](plasma-non-pal/index.md)**
 
 [🐝 Relsoft](relsoft.md) 🔗 [screensaver](screensaver.md), [plasma](plasma.md)
 

@@ -8,7 +8,7 @@
 
 Created by QB community member darokin.
 
-**[Starfield 9 Line](starfield/index.md)**
+**[Starfield](starfield/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [starfield](starfield.md), [9 lines](9-lines.md)
 

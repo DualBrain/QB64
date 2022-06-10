@@ -8,7 +8,7 @@
 
 A pretentious clone attempt of Among Us (originally by Inner Sloth)  To test: 1) Compile/run amon...
 
-**[ArcDemo](arc-demo/index.md)**
+**[Arc Demo](arc-demo/index.md)**
 
 [🐝 Tsiplacov Sergey](tsiplacov-sergey.md) 🔗 [game](game.md), [platformer](platformer.md)
 
@@ -26,7 +26,7 @@ This is a game of weapons and destruction that relies upon the properties of phy
 
 A Breakout clone with DXBall aspirations.
 
-**[Can't Contain Me](cant-contain-me/index.md)**
+**[Cant Contain Me](cant-contain-me/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md)
 
@@ -38,13 +38,13 @@ Can't Contain Me is a game developed in QB64.  The pieces are trying to escape y
 
 A turn-based artillery game by Microsoft.
 
-**[Dragon Warrior 64](dragon-warrior/index.md)**
+**[Dragon Warrior](dragon-warrior/index.md)**
 
 [🐝 Cobalt](cobalt.md) 🔗 [game](game.md), [rpg](rpg.md)
 
 QB64 version of Nintendo Dragon Quest (Dragon Warrior).  The time has come to go on your quest to...
 
-**[4 Player Pong](four-player-pong/index.md)**
+**[Four Player Pong](four-player-pong/index.md)**
 
 [🐝 Matthew](matthew.md) 🔗 [game](game.md), [pong](pong.md)
 
@@ -56,17 +56,101 @@ Four-player pong game.
 
 ================================================================================= 		       H E L ...
 
+**[LightsOn](lightson/index.md)**
+
+[🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [lights](lights.md)
+
+'Lights On 'A game by Fellippe Heitor. ' 'Original concept by Avi Olti, Gyora Benedek, Zvi Herman...
+
+**[Mazes of Misery](mazes-of-misery/index.md)**
+
+[🐝 Steve M.](steve-m..md) 🔗 [game](game.md), [maze](maze.md)
+
+'Maze of Misery 'By Steve M. (c),May 5,01 '****************  'Please visit my web page at:  www.a...
+
+**[Moon Lander](moon-lander/index.md)**
+
+[🐝 Richard Frost](richard-frost.md) 🔗 [game](game.md), [lander](lander.md)
+
+Lunar Lander based on a 1974 program running on a DEC PDP/11 with GT40 vector display terminal at...
+
+**[Nibbles](nibbles/index.md)**
+
+[🐝 Microsoft](microsoft.md) 🔗 [game](game.md), [snake](snake.md)
+
+Snake clone by Microsoft.
+
 **[Pendulum Game](pendulum-game/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [pendulum](pendulum.md)
 
 My attempt at creating something drawing inspiration from Fire Rides by Voodoo. Made with QB64.
 
-**[Pipes Puzzle (Maze Connect)](pipes-puzzle/index.md)**
+**[Pipes Puzzle](pipes-puzzle/index.md)**
 
 [🐝 Dav](dav.md) 🔗 [game](game.md), [puzzle](puzzle.md)
 
 '================  'PIPES.BAS v1.0  '================  'Connect the pipes puzzle game  'Coded by ...
+
+**[Platform](platform/index.md)**
+
+[🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [platform](platform.md)
+
+# Platform  What does a 2D platform game take?  Made with QB64.
+
+**[QBlocks](qblocks/index.md)**
+
+[🐝 Microsoft](microsoft.md) 🔗 [game](game.md), [tetris](tetris.md)
+
+Tetris clone by Microsoft.
+
+**[QBricks](qbricks/index.md)**
+
+[🐝 Microsoft](microsoft.md) 🔗 [game](game.md), [breakout](breakout.md)
+
+Breakout clone by Microsoft.
+
+**[QDigger](qdigger/index.md)**
+
+[🐝 RETROQB45](retroqb45.md) 🔗 [game](game.md), [digger](digger.md)
+
+A DIGGER game clone by RETROQB45.
+
+**[QMaze](qmaze/index.md)**
+
+[🐝 Microsoft](microsoft.md) 🔗 [game](game.md), [maze](maze.md)
+
+Maze puzzle game by Microsoft.
+
+**[QShips](qships/index.md)**
+
+[🐝 Microsoft](microsoft.md) 🔗 [game](game.md), [artillery](artillery.md)
+
+Turn-based artillery game by Microsoft.
+
+**[QSpace](qspace/index.md)**
+
+[🐝 Microsoft](microsoft.md) 🔗 [game](game.md), [defense](defense.md)
+
+Space station defense game by Microsoft.
+
+**[QTrek](qtrek/index.md)**
+
+[🐝 Philipp Strathausen](philipp-strathausen.md) 🔗 [game](game.md), [space shooter](space-shooter.md)
+
+Star Trek-like game by Philipp Strathausen.
+
+**[Rattler](rattler/index.md)**
+
+[🐝 Bob Seguin](bob-seguin.md) 🔗 [game](game.md), [snake](snake.md)
+
+Snake clone by Bob Seguin.
+
+**[Reversi](reversi/index.md)**
+
+[🐝 Microsoft](microsoft.md) 🔗 [game](game.md)
+
+Reversi game by Microsoft.
 
 **[Set Fire to Rain](set-fire-to-rain/index.md)**
 

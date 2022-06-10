@@ -4,6 +4,6 @@
 
 **[Globe](globe/index.md)**
 
-[🐝 Glen Jeh](glen-jeh.md) [🐝 8/12/1994](8/12/1994.md) [🐝 William Yu (05-28-96)](william-yu-(05-28-96).md) 🔗 [3d](3d.md), [sphere](sphere.md)
+[🐝 Jeh](jeh.md) [🐝 Yu](yu.md) 🔗 [3d](3d.md), [sphere](sphere.md)
 
-'{A little rotating sphere, by Glen Jeh, 8/12/1994, use freely} '{Try messing with the constants....
+Glen Jeh, 8/12/1994, William Yu (05-28-96)  '{A little rotating sphere, by Glen Jeh, 8/12/1994, u...

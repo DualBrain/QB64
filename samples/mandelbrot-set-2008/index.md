@@ -1,6 +1,6 @@
 [Home](https://qb64.com) • [News](../../news.md) • [GitHub](../../github.md) • [Wiki](../../wiki.md) • [Samples](../../samples.md) • [Media](../../media.md) • [Community](../../community.md) • [Rolodex](../../rolodex.md) • [More...](../../more.md)
 
-## SAMPLE: MANDELBROT SET
+## SAMPLE: MANDELBROT SET 2008
 
 ![qbguymandel.png](img/qbguymandel.png)
 

@@ -2,7 +2,7 @@
 
 ## SAMPLES BY RELSOFT
 
-**[Julia Rings](3d-cube/index.md)**
+**[3D Cube](3d-cube/index.md)**
 
 [🐝 Relsoft](relsoft.md) 🔗 [3d](3d.md), [cube](cube.md)
 
@@ -14,7 +14,7 @@
 
 Automated Julia set explorer.
 
-**[Non-Palette Rotated Plasma](plasma-non-pal/index.md)**
+**[Plasma Non-Pal](plasma-non-pal/index.md)**
 
 [🐝 Relsoft](relsoft.md) 🔗 [screensaver](screensaver.md), [plasma](plasma.md)
 

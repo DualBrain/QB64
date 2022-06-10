@@ -6,11 +6,13 @@
 
 ### Authors
 
-[🐝 Glen Jeh](../glen-jeh.md) [🐝 8/12/1994](../8/12/1994.md) [🐝 William Yu (05-28-96)](../william-yu-(05-28-96).md) 
+[🐝 Jeh](../jeh.md) [🐝 Yu](../yu.md) 
 
 ### Description
 
 ```text
+Glen Jeh, 8/12/1994, William Yu (05-28-96)
+
 '{A little rotating sphere, by Glen Jeh, 8/12/1994, use freely}
 '{Try messing with the constants...code is squished a little}
 ' Converted to BASIC by William Yu (05-28-96)

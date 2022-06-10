@@ -2,13 +2,13 @@
 
 ## SAMPLES BY VINCE
 
-**[Chaotic Scattering - Gaspard-Rice system](chaotic-scattering/index.md)**
+**[Chaotic Scattering](chaotic-scattering/index.md)**
 
 [🐝 vince](vince.md) 🔗 [ray tracing](ray-tracing.md), [reflections](reflections.md)
 
 Demo of the Gaspard-Rice system. Left-click to change location.
 
-**[Rotating Lorenz Attractor](lorenz-attractor/index.md)**
+**[Lorenz Attractor](lorenz-attractor/index.md)**
 
 [🐝 Vince](vince.md) 🔗 [lorenz](lorenz.md), [rotations](rotations.md)
 

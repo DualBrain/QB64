@@ -10,59 +10,59 @@
 
 **[Binary Clock](binary-clock/index.md)**
 
-[🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
+[🐝 RhoSigma](rhosigma.md) 🔗 [screenblanker](screenblanker.md)
 
 '+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
 
-**[Bezier](fractal/index.md)**
+**[Fractal](fractal/index.md)**
 
-[🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
-
-'+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
-
-**[Bezier](kaleidoscope/index.md)**
-
-[🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
+[🐝 RhoSigma](rhosigma.md) 🔗 [screenblanker](screenblanker.md)
 
 '+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
 
-**[Bezier](kaleidoscope-mill/index.md)**
+**[Kaleidoscope](kaleidoscope/index.md)**
 
 [🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
 
 '+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
 
-**[Bezier](lightning-one/index.md)**
+**[Kaleidoscope Mill](kaleidoscope-mill/index.md)**
 
 [🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
 
 '+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
 
-**[Bezier](lightning-two/index.md)**
+**[Lightning One](lightning-one/index.md)**
+
+[🐝 RhoSigma](rhosigma.md) 🔗 [screenblanker](screenblanker.md)
+
+'+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
+
+**[Lightning Two](lightning-two/index.md)**
+
+[🐝 RhoSigma](rhosigma.md) 🔗 [screenblanker](screenblanker.md)
+
+'+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
+
+**[Multi-Mill](multi-mill/index.md)**
+
+[🐝 RhoSigma](rhosigma.md) 🔗 [screenblanker](screenblanker.md)
+
+'+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
+
+**[Mystify](mystify/index.md)**
+
+[🐝 RhoSigma](rhosigma.md) 🔗 [screenblanker](screenblanker.md)
+
+'+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
+
+**[Splines](splines/index.md)**
 
 [🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
 
 '+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
 
-**[Bezier](multi-mill/index.md)**
-
-[🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
-
-'+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
-
-**[Bezier](mystify/index.md)**
-
-[🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
-
-'+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
-
-**[Bezier](splines/index.md)**
-
-[🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
-
-'+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
-
-**[Bezier](worms/index.md)**
+**[Worms](worms/index.md)**
 
 [🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
 

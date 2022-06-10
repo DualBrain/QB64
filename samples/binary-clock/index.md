@@ -6,7 +6,7 @@
 
 ### Author
 
-[🐝 Rho Sigma](../rho-sigma.md) 
+[🐝 RhoSigma](../rhosigma.md) 
 
 ### Description
 

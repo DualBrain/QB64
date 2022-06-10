@@ -2,7 +2,7 @@
 
 ## SAMPLES: SORT
 
-**[Sort demo](sort-demo/index.md)**
+**[Sort Demo](sort-demo/index.md)**
 
 [🐝 Microsoft](microsoft.md) 🔗 [sort](sort.md)
 

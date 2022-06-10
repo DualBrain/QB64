@@ -1,6 +1,6 @@
 [Home](https://qb64.com) • [News](../../news.md) • [GitHub](../../github.md) • [Wiki](../../wiki.md) • [Samples](../../samples.md) • [Media](../../media.md) • [Community](../../community.md) • [Rolodex](../../rolodex.md) • [More...](../../more.md)
 
-## SAMPLE: CHAOTIC SCATTERING - GASPARD-RICE SYSTEM
+## SAMPLE: CHAOTIC SCATTERING
 
 ![chaoticscattering.png](img/chaoticscattering.png)
 
@@ -20,3 +20,6 @@ Demo of the Gaspard-Rice system. Left-click to change location.
 * [scatter2.bas](src/scatter2.bas)
 
 🔗 [ray tracing](../ray-tracing.md), [reflections](../reflections.md)
+
+
+<sub>Reference: [1](ttps://en.wikipedia.org/wiki/Chaotic_scattering) </sub>

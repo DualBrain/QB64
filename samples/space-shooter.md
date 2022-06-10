@@ -2,6 +2,12 @@
 
 ## SAMPLES: SPACE SHOOTER
 
+**[QTrek](qtrek/index.md)**
+
+[🐝 Philipp Strathausen](philipp-strathausen.md) 🔗 [game](game.md), [space shooter](space-shooter.md)
+
+Star Trek-like game by Philipp Strathausen.
+
 **[Space64](space64/index.md)**
 
 [🐝 Cyperium](cyperium.md) 🔗 [game](game.md), [space shooter](space-shooter.md)
