@@ -8,7 +8,7 @@
 
 ' QB64 game by Cyperium.
 
-**[Spaceship](spaceship/index.md)** <sup>v2016</sup>
+**[Spaceship](spaceship/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [space shooter](space-shooter.md)
 

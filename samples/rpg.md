@@ -2,7 +2,7 @@
 
 ## SAMPLES: RPG
 
-**[Dragon Warrior 64](dragon-warrior/index.md)** <sup>v2021-08-26</sup>
+**[Dragon Warrior 64](dragon-warrior/index.md)**
 
 [🐝 Cobalt](cobalt.md) 🔗 [game](game.md), [rpg](rpg.md)
 

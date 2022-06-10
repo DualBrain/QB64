@@ -2,7 +2,7 @@
 
 ## SAMPLES: CUBE
 
-**[Julia Rings](3d-cube/index.md)** <sup>v2003</sup>
+**[Julia Rings](3d-cube/index.md)**
 
 [🐝 Relsoft](relsoft.md) 🔗 [3d](3d.md), [cube](cube.md)
 

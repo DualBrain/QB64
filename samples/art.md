@@ -8,7 +8,7 @@
 
 A Graphics/Animation utility by Bob Seguin.  NOTE: This game requires graphics files created by a...
 
-**[Fractal Art](fractal-art/index.md)** <sup>v2010</sup>
+**[Fractal Art](fractal-art/index.md)**
 
 [🐝 Zom-B](zom-b.md) 🔗 [fractal](fractal.md), [art](art.md)
 

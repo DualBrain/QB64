@@ -2,7 +2,7 @@
 
 ## SAMPLES: PLASMA
 
-**[Non-Palette Rotated Plasma](plasma-non-pal/index.md)** <sup>v2003</sup>
+**[Non-Palette Rotated Plasma](plasma-non-pal/index.md)**
 
 [🐝 Relsoft](relsoft.md) 🔗 [screensaver](screensaver.md), [plasma](plasma.md)
 

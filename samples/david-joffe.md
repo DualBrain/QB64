@@ -2,7 +2,7 @@
 
 ## SAMPLES BY DAVID JOFFE
 
-**[Sokoban](sokoban/index.md)** <sup>v1997</sup>
+**[Sokoban](sokoban/index.md)**
 
 [🐝 David Joffe](david-joffe.md) 🔗 [game](game.md), [puzzle](puzzle.md)
 

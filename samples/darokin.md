@@ -2,7 +2,7 @@
 
 ## SAMPLES BY DAROKIN
 
-**[Darokin](darokin/index.md)** <sup>v1999</sup>
+**[Darokin](darokin/index.md)**
 
 [🐝 darokin](darokin.md) 🔗 [screensaver](screensaver.md), [starfield](starfield.md)
 

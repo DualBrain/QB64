@@ -2,13 +2,13 @@
 
 ## SAMPLES: RAY TRACING
 
-**[Chaotic Scattering - Gaspard-Rice system](chaotic-scattering/index.md)** <sup>v2018</sup>
+**[Chaotic Scattering - Gaspard-Rice system](chaotic-scattering/index.md)**
 
 [🐝 vince](vince.md) 🔗 [ray tracing](ray-tracing.md), [reflections](reflections.md)
 
 Demo of the Gaspard-Rice system. Left-click to change location.
 
-**[Texel Raytracer](texel-raytracer/index.md)** <sup>v2004</sup>
+**[Texel Raytracer](texel-raytracer/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [3d](3d.md), [ray tracing](ray-tracing.md)
 

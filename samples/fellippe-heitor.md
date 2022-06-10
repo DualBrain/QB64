@@ -2,7 +2,7 @@
 
 ## SAMPLES BY FELLIPPE HEITOR
 
-**[Amongst](amongst/index.md)** <sup>v2020</sup>
+**[Amongst](amongst/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [multiplayer](multiplayer.md)
 
@@ -26,13 +26,13 @@ Can't Contain Me is a game developed in QB64.  The pieces are trying to escape y
 
 My attempt at creating something drawing inspiration from Fire Rides by Voodoo. Made with QB64.
 
-**[Set Fire to Rain](set-fire-to-rain/index.md)** <sup>v2018</sup>
+**[Set Fire to Rain](set-fire-to-rain/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [zen](zen.md)
 
 A hot game. Let's make Adele proud.
 
-**[Spaceship](spaceship/index.md)** <sup>v2016</sup>
+**[Spaceship](spaceship/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [space shooter](space-shooter.md)
 

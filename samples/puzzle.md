@@ -2,13 +2,13 @@
 
 ## SAMPLES: PUZZLE
 
-**[Pipes Puzzle (Maze Connect)](pipes-puzzle/index.md)** <sup>v1</sup>
+**[Pipes Puzzle (Maze Connect)](pipes-puzzle/index.md)**
 
 [🐝 Dav](dav.md) 🔗 [game](game.md), [puzzle](puzzle.md)
 
- '================  'PIPES.BAS v1.0  '================  'Connect the pipes puzzle game  'Coded by...
+'================  'PIPES.BAS v1.0  '================  'Connect the pipes puzzle game  'Coded by ...
 
-**[Sokoban](sokoban/index.md)** <sup>v1997</sup>
+**[Sokoban](sokoban/index.md)**
 
 [🐝 David Joffe](david-joffe.md) 🔗 [game](game.md), [puzzle](puzzle.md)
 

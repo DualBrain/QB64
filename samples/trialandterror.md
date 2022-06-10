@@ -2,7 +2,7 @@
 
 ## SAMPLES BY TRIALANDTERROR
 
-**[Helicopter Rescue](helicopter-rescue/index.md)** <sup>v2.23</sup>
+**[Helicopter Rescue](helicopter-rescue/index.md)**
 
 [🐝 TrialAndTerror](trialandterror.md) 🔗 [game](game.md), [3d](3d.md), [flight](flight.md)
 

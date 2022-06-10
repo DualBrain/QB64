@@ -2,7 +2,7 @@
 
 ## SAMPLES: MULTIPLAYER
 
-**[Amongst](amongst/index.md)** <sup>v2020</sup>
+**[Amongst](amongst/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [multiplayer](multiplayer.md)
 

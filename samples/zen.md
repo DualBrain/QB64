@@ -2,7 +2,7 @@
 
 ## SAMPLES: ZEN
 
-**[Set Fire to Rain](set-fire-to-rain/index.md)** <sup>v2018</sup>
+**[Set Fire to Rain](set-fire-to-rain/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [zen](zen.md)
 

@@ -2,7 +2,7 @@
 
 ## SAMPLES: GAME
 
-**[Amongst](amongst/index.md)** <sup>v2020</sup>
+**[Amongst](amongst/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [multiplayer](multiplayer.md)
 
@@ -38,7 +38,7 @@ Can't Contain Me is a game developed in QB64.  The pieces are trying to escape y
 
 A turn-based artillery game by Microsoft.
 
-**[Dragon Warrior 64](dragon-warrior/index.md)** <sup>v2021-08-26</sup>
+**[Dragon Warrior 64](dragon-warrior/index.md)**
 
 [🐝 Cobalt](cobalt.md) 🔗 [game](game.md), [rpg](rpg.md)
 
@@ -50,7 +50,7 @@ QB64 version of Nintendo Dragon Quest (Dragon Warrior).  The time has come to go
 
 Four-player pong game.
 
-**[Helicopter Rescue](helicopter-rescue/index.md)** <sup>v2.23</sup>
+**[Helicopter Rescue](helicopter-rescue/index.md)**
 
 [🐝 TrialAndTerror](trialandterror.md) 🔗 [game](game.md), [3d](3d.md), [flight](flight.md)
 
@@ -62,13 +62,13 @@ Four-player pong game.
 
 My attempt at creating something drawing inspiration from Fire Rides by Voodoo. Made with QB64.
 
-**[Pipes Puzzle (Maze Connect)](pipes-puzzle/index.md)** <sup>v1</sup>
+**[Pipes Puzzle (Maze Connect)](pipes-puzzle/index.md)**
 
 [🐝 Dav](dav.md) 🔗 [game](game.md), [puzzle](puzzle.md)
 
- '================  'PIPES.BAS v1.0  '================  'Connect the pipes puzzle game  'Coded by...
+'================  'PIPES.BAS v1.0  '================  'Connect the pipes puzzle game  'Coded by ...
 
-**[Set Fire to Rain](set-fire-to-rain/index.md)** <sup>v2018</sup>
+**[Set Fire to Rain](set-fire-to-rain/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [zen](zen.md)
 
@@ -86,7 +86,7 @@ A hot game. Let's make Adele proud.
 
 Snake clone by pcluddite.
 
-**[Sokoban](sokoban/index.md)** <sup>v1997</sup>
+**[Sokoban](sokoban/index.md)**
 
 [🐝 David Joffe](david-joffe.md) 🔗 [game](game.md), [puzzle](puzzle.md)
 
@@ -98,7 +98,7 @@ Snake clone by pcluddite.
 
 ' QB64 game by Cyperium.
 
-**[Spaceship](spaceship/index.md)** <sup>v2016</sup>
+**[Spaceship](spaceship/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [space shooter](space-shooter.md)
 

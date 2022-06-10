@@ -2,7 +2,7 @@
 
 ## SAMPLES BY PETR
 
-**[Maptriangle in 3D](maptriangle-in-3d/index.md)** <sup>v3D Rotation</sup>
+**[Maptriangle in 3D](maptriangle-in-3d/index.md)**
 
 [🐝 Petr](petr.md) 🔗 [3d](3d.md), [maptriangle](maptriangle.md)
 

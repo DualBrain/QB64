@@ -2,7 +2,7 @@
 
 ## SAMPLES BY FOLKER FRITZ
 
-**[Mini Clock](mini-clock/index.md)** <sup>v1999</sup>
+**[Mini Clock](mini-clock/index.md)**
 
 [🐝 Folker Fritz](folker-fritz.md) 🔗 [clock](clock.md), [desktop](desktop.md)
 

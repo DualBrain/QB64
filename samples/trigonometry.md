@@ -2,7 +2,7 @@
 
 ## SAMPLES: TRIGONOMETRY
 
-**[Lissajous Curve Table](lissajous-curve-table/index.md)** <sup>v2018</sup>
+**[Lissajous Curve Table](lissajous-curve-table/index.md)**
 
 [🐝 FellippeHeitor](fellippeheitor.md) 🔗 [graphics](graphics.md), [trigonometry](trigonometry.md)
 

@@ -2,7 +2,7 @@
 
 ## SAMPLES: FLOORSCAPE
 
-**[Floormaper](floormaper/index.md)** <sup>v1/2003</sup>
+**[Floormaper](floormaper/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [graphics](graphics.md), [floorscape](floorscape.md)
 

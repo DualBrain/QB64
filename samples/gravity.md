@@ -2,7 +2,7 @@
 
 ## SAMPLES: GRAVITY
 
-**[Dropping Balls](dropping-balls/index.md)** <sup>v2020</sup>
+**[Dropping Balls](dropping-balls/index.md)**
 
 [🐝 bplus](bplus.md) 🔗 [gravity](gravity.md), [collisions](collisions.md)
 

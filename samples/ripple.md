@@ -2,7 +2,7 @@
 
 ## SAMPLES: RIPPLE
 
-**[Ripples](ripples/index.md)** <sup>v2001</sup>
+**[Ripples](ripples/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [image processing](image-processing.md), [ripple](ripple.md)
 

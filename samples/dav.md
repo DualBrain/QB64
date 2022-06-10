@@ -2,8 +2,8 @@
 
 ## SAMPLES BY DAV
 
-**[Pipes Puzzle (Maze Connect)](pipes-puzzle/index.md)** <sup>v1</sup>
+**[Pipes Puzzle (Maze Connect)](pipes-puzzle/index.md)**
 
 [🐝 Dav](dav.md) 🔗 [game](game.md), [puzzle](puzzle.md)
 
- '================  'PIPES.BAS v1.0  '================  'Connect the pipes puzzle game  'Coded by...
+'================  'PIPES.BAS v1.0  '================  'Connect the pipes puzzle game  'Coded by ...

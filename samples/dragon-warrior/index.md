@@ -21,8 +21,6 @@ B Button = Enter (cancel action\ selection)
 Arrow keys for movement
 ```
 
-### Code
-
 ### File(s)
 
 * [dragon-warrior-2021-08-26.zip](src/dragon-warrior-2021-08-26.zip)
@@ -35,4 +33,4 @@ Arrow keys for movement
 🔗 [game](../game.md), [rpg](../rpg.md)
 
 
-<sub>Reference: [qb64.org Forum](https://qb64forum.alephc.xyz/index.php?topic=2695.0) </sub>
+<sub>Reference: [qb64forum](https://qb64forum.alephc.xyz/index.php?topic=2695.0) </sub>

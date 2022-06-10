@@ -2,13 +2,13 @@
 
 ## SAMPLES: COLLISIONS
 
-**[Colliding Ball Simulation](colliding-ball-simulation/index.md)** <sup>v2013</sup>
+**[Colliding Ball Simulation](colliding-ball-simulation/index.md)**
 
 [🐝 Timothy Baxendale](timothy-baxendale.md) 🔗 [physics](physics.md), [collisions](collisions.md)
 
 Realistic collisions between sphreres in two dimensions.
 
-**[Dropping Balls](dropping-balls/index.md)** <sup>v2020</sup>
+**[Dropping Balls](dropping-balls/index.md)**
 
 [🐝 bplus](bplus.md) 🔗 [gravity](gravity.md), [collisions](collisions.md)
 

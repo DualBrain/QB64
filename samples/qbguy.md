@@ -2,7 +2,7 @@
 
 ## SAMPLES BY QBGUY
 
-**[Mandelbrot Set](mandelbrot-set-2008/index.md)** <sup>v2008</sup>
+**[Mandelbrot Set](mandelbrot-set-2008/index.md)**
 
 [🐝 qbguy](qbguy.md) 🔗 [fractal](fractal.md), [mandelbrot](mandelbrot.md)
 

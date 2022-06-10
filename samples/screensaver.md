@@ -8,37 +8,37 @@
 
 Created by QB64 community member bplus.
 
-**[Darokin](darokin/index.md)** <sup>v1999</sup>
+**[Darokin](darokin/index.md)**
 
 [🐝 darokin](darokin.md) 🔗 [screensaver](screensaver.md), [starfield](starfield.md)
 
 Created by QB community member darokin.
 
-**[GUJERO2](gujero2/index.md)** <sup>v2004</sup>
+**[GUJERO2](gujero2/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [tunnel](tunnel.md)
 
 '----------------------------------------------------------------------- 'GUJERO2.BAS by Antoni G...
 
-**[Lissajous Screensaver](lissajous-screensaver/index.md)** <sup>v2003</sup>
+**[Lissajous Screensaver](lissajous-screensaver/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [9 lines](9-lines.md)
 
 'Lissajous by Antoni Gual 'for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003 '-----------------...
 
-**[Mandala 9 Line](manadla/index.md)** <sup>v2003</sup>
+**[Mandala 9 Line](manadla/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [9 lines](9-lines.md)
 
 'Mandala by Antoni gual 'for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003 '-------------------...
 
-**[Mandala 9 Line](pattern/index.md)** <sup>v2003</sup>
+**[Mandala 9 Line](pattern/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [9 lines](9-lines.md)
 
 'patterns 'for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003 '---------------------------------...
 
-**[Non-Palette Rotated Plasma](plasma-non-pal/index.md)** <sup>v2003</sup>
+**[Non-Palette Rotated Plasma](plasma-non-pal/index.md)**
 
 [🐝 Relsoft](relsoft.md) 🔗 [screensaver](screensaver.md), [plasma](plasma.md)
 
@@ -50,13 +50,13 @@ Created by QB community member darokin.
 
 ' OPTIMIZED  :) rotozoomer in 9 lines by Antoni Gual 'for Rel's 9 LINER contest at QBASICNEWS.COM...
 
-**[Twirl](twirl/index.md)** <sup>v1/2003</sup>
+**[Twirl](twirl/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [9 lines](9-lines.md)
 
 'Twirl by Antoni Gual, from an idea  by Steve Nunnaly 'for Rel's 9 LINER contest at QBASICNEWS.CO...
 
-**[Vortex](vortex/index.md)** <sup>v1/2003</sup>
+**[Vortex](vortex/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [9 lines](9-lines.md)
 

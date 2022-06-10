@@ -20,7 +20,7 @@ The legendary fractal fern.
 
 Mandelbrot animator.
 
-**[Tor Myklebust](mandelbrot-zoomer/index.md)** <sup>v2002</sup>
+**[Tor Myklebust](mandelbrot-zoomer/index.md)**
 
 [🐝 *missing*](author-missing.md) 🔗 [fractal](fractal.md), [mandelbrot](mandelbrot.md)
 

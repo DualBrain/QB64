@@ -2,7 +2,7 @@
 
 ## SAMPLES BY TIMOTHY BAXENDALE
 
-**[Colliding Ball Simulation](colliding-ball-simulation/index.md)** <sup>v2013</sup>
+**[Colliding Ball Simulation](colliding-ball-simulation/index.md)**
 
 [🐝 Timothy Baxendale](timothy-baxendale.md) 🔗 [physics](physics.md), [collisions](collisions.md)
 

@@ -14,8 +14,6 @@
 Fly across the universe on a quest for survival against alien enemy forces. Made with QB64.
 ```
 
-### Code
-
 ### File(s)
 
 * [spaceship-master.zip](src/spaceship-master.zip)
@@ -23,4 +21,4 @@ Fly across the universe on a quest for survival against alien enemy forces. Made
 🔗 [game](../game.md), [space shooter](../space-shooter.md)
 
 
-<sub>Reference: [github](https://github.com/FellippeHeitor/Spaceship) </sub>
+<sub>Reference: [github.com](https://github.com/FellippeHeitor/Spaceship) </sub>

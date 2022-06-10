@@ -2,7 +2,7 @@
 
 ## SAMPLES: ASCII
 
-**[Matrix Effect](matrix-effect/index.md)** <sup>v2017</sup>
+**[Matrix Effect](matrix-effect/index.md)**
 
 [🐝 TylerDarko](tylerdarko.md) 🔗 [ascii](ascii.md), [matrix](matrix.md)
 

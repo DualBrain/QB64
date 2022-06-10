@@ -2,19 +2,19 @@
 
 ## SAMPLES: STARFIELD
 
-**[Darokin](darokin/index.md)** <sup>v1999</sup>
+**[Darokin](darokin/index.md)**
 
 [🐝 darokin](darokin.md) 🔗 [screensaver](screensaver.md), [starfield](starfield.md)
 
 Created by QB community member darokin.
 
-**[Starfield 9 Line](starfield/index.md)** <sup>v2003</sup>
+**[Starfield 9 Line](starfield/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [starfield](starfield.md), [9 lines](9-lines.md)
 
 'Starfield by Antoni gual 'for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003 '-----------------...
 
-**[Starfield Torus](starfield-torus/index.md)** <sup>v2003</sup>
+**[Starfield Torus](starfield-torus/index.md)**
 
 [🐝 JKC](jkc.md) 🔗 [starfield](starfield.md)
 

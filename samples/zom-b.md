@@ -2,7 +2,7 @@
 
 ## SAMPLES BY ZOM-B
 
-**[Fractal Art](fractal-art/index.md)** <sup>v2010</sup>
+**[Fractal Art](fractal-art/index.md)**
 
 [🐝 Zom-B](zom-b.md) 🔗 [fractal](fractal.md), [art](art.md)
 

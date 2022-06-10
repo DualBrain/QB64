@@ -2,7 +2,7 @@
 
 ## SAMPLES BY JKC
 
-**[Starfield Torus](starfield-torus/index.md)** <sup>v2003</sup>
+**[Starfield Torus](starfield-torus/index.md)**
 
 [🐝 JKC](jkc.md) 🔗 [starfield](starfield.md)
 

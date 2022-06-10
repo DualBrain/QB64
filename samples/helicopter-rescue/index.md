@@ -60,8 +60,6 @@
 =================================================================================
 ```
 
-### Code
-
 ### File(s)
 
 * [helicopter-rescue.zip](src/helicopter-rescue.zip)
@@ -69,4 +67,4 @@
 🔗 [game](../game.md), [3d](../3d.md), [flight](../flight.md)
 
 
-<sub>Reference: [qb64.org Forum](https://qb64forum.alephc.xyz/index.php?topic=382) </sub>
+<sub>Reference: [qb64forum](https://qb64forum.alephc.xyz/index.php?topic=382) </sub>

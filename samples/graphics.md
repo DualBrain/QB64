@@ -8,19 +8,19 @@
 
 Fire dominates the lower screen.
 
-**[Floormaper](floormaper/index.md)** <sup>v1/2003</sup>
+**[Floormaper](floormaper/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [graphics](graphics.md), [floorscape](floorscape.md)
 
 Floormaper by Antoni Gual  for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003
 
-**[Lissajous Curve Table](lissajous-curve-table/index.md)** <sup>v2018</sup>
+**[Lissajous Curve Table](lissajous-curve-table/index.md)**
 
 [🐝 FellippeHeitor](fellippeheitor.md) 🔗 [graphics](graphics.md), [trigonometry](trigonometry.md)
 
 Graphical Lissajou's Figures.  For added eye-candy-ness, I've changed the plot line to paint usin...
 
-**[SineCube](sinecube/index.md)** <sup>v2006</sup>
+**[SineCube](sinecube/index.md)**
 
 [🐝 Mennonite](mennonite.md) 🔗 [graphics](graphics.md)
 

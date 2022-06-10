@@ -2,7 +2,7 @@
 
 ## SAMPLES BY MENNONITE
 
-**[SineCube](sinecube/index.md)** <sup>v2006</sup>
+**[SineCube](sinecube/index.md)**
 
 [🐝 Mennonite](mennonite.md) 🔗 [graphics](graphics.md)
 
