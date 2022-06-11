@@ -29,6 +29,14 @@
 'Gbgames Chatname: QB4ever
 ```
 
+### QBjs
+
+> Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
+
+* [LOAD "mzupd2.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?src=https://qb64.com/samples/mazes-of-misery/src/mzupd2.bas)
+* [RUN "mzupd2.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?mode=auto&src=https://qb64.com/samples/mazes-of-misery/src/mzupd2.bas)
+* [PLAY "mzupd2.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?mode=play&src=https://qb64.com/samples/mazes-of-misery/src/mzupd2.bas)
+
 ### File(s)
 
 * [mzupd2.bas](src/mzupd2.bas)

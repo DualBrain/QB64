@@ -16,6 +16,14 @@ A demo to show rotation in 3D using MAPTRIANGLE 3D, without direct OpenGL statem
 Librarian's Note: The sample given here is just one of a number of _MAPTRIANGLE(3D) examples which appear in Petr's post. That post is a good learning resource for anyone wanting to learn 3D graphics using _MAPTRIANGLE(3D). See https://qb64forum.alephc.xyz/index.php?topic=300.msg101478#msg101478
 ```
 
+### QBjs
+
+> Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
+
+* [LOAD "maptriangle3d.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?src=https://qb64.com/samples/maptriangle-in-3d/src/maptriangle3d.bas)
+* [RUN "maptriangle3d.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?mode=auto&src=https://qb64.com/samples/maptriangle-in-3d/src/maptriangle3d.bas)
+* [PLAY "maptriangle3d.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?mode=play&src=https://qb64.com/samples/maptriangle-in-3d/src/maptriangle3d.bas)
+
 ### File(s)
 
 * [maptriangle3d.bas](src/maptriangle3d.bas)

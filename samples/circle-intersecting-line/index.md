@@ -14,6 +14,14 @@
 This is an interactive (mouse-driven) demo that calculates the intersection of any line with any circle.
 ```
 
+### QBjs
+
+> Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
+
+* [LOAD "circle-intersect-line.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?src=https://qb64.com/samples/circle-intersecting-line/src/circle-intersect-line.bas)
+* [RUN "circle-intersect-line.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?mode=auto&src=https://qb64.com/samples/circle-intersecting-line/src/circle-intersect-line.bas)
+* [PLAY "circle-intersect-line.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?mode=play&src=https://qb64.com/samples/circle-intersecting-line/src/circle-intersect-line.bas)
+
 ### File(s)
 
 * [circle-intersect-line.bas](src/circle-intersect-line.bas)

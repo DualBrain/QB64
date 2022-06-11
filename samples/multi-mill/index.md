@@ -38,6 +38,14 @@ To install one of it (on a Windows system), simply rename the created .exe file 
 Sorry, I've no idea how to do it on MacOS or Linux, any info about it from people who using these systems would be nice.
 ```
 
+### QBjs
+
+> Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
+
+* [LOAD "multimill.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?src=https://qb64.com/samples/multi-mill/src/multimill.bas)
+* [RUN "multimill.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?mode=auto&src=https://qb64.com/samples/multi-mill/src/multimill.bas)
+* [PLAY "multimill.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?mode=play&src=https://qb64.com/samples/multi-mill/src/multimill.bas)
+
 ### File(s)
 
 * [multimill.bas](src/multimill.bas)
