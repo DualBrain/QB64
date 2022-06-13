@@ -8,6 +8,12 @@
 
 '+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
 
+**[Binary Clock](binary-clock/index.md)**
+
+[🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
+
+'+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
+
 **[Kaleidoscope](kaleidoscope/index.md)**
 
 [🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
@@ -15,6 +21,30 @@
 '+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
 
 **[Kaleidoscope Mill](kaleidoscope-mill/index.md)**
+
+[🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
+
+'+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
+
+**[Lightning One](lightning-one/index.md)**
+
+[🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
+
+'+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
+
+**[Lightning Two](lightning-two/index.md)**
+
+[🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
+
+'+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
+
+**[Multi-Mill](multi-mill/index.md)**
+
+[🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
+
+'+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
+
+**[Mystify](mystify/index.md)**
 
 [🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
 

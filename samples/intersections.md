@@ -19,3 +19,9 @@ This is an interactive (mouse-driven) demo that calculates the intersection of a
 [🐝 STxAxTIC](stxaxtic.md) 🔗 [geometry](geometry.md), [intersections](intersections.md)
 
 ... all I could think is "why stop at circles when you can do ellipses?"
+
+**[Lines Intersecting](lines-intersecting/index.md)**
+
+[🐝 STxAxTIC](stxaxtic.md) 🔗 [geometry](geometry.md), [intersections](intersections.md)
+
+Line segments intersecting.

@@ -44,11 +44,23 @@ Created by QB community member darokin.
 
 '///Non Palette rotated plasma '///Relsoft 2003 '///Compile and see the speed.  Didn't optimize i...
 
+**[Rockets](rockets/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [screensaver](screensaver.md), [particles](particles.md)
+
+Screensaver with rocket-like particles.
+
 **[Rotozoomer](rotozoomer/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [9 lines](9-lines.md)
 
 ' OPTIMIZED  :) rotozoomer in 9 lines by Antoni Gual 'for Rel's 9 LINER contest at QBASICNEWS.COM...
+
+**[Saver](saver/index.md)**
+
+[🐝 David Ferrier](david-ferrier.md) 🔗 [screensaver](screensaver.md), [dos world](dos-world.md)
+
+1 '  SAVER.BAS by David Ferrier 2 '  Copyright (C) 1992 DOS Resource Guide 3 '  Published in Issu...
 
 **[Twirl](twirl/index.md)**
 

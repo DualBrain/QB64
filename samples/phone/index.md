@@ -6,12 +6,53 @@
 
 ### Author
 
-[🐝 Microsoft](../microsoft.md) 
+[🐝 Hardin Brothers](../hardin-brothers.md) 
 
 ### Description
 
 ```text
-Simple phone directory by Microsoft.
+'
+'  PHONE.BAS by Hardin Brothers
+'  Copyright (C) 1992 DOS Resource Guide
+'  Published in Issue # 4, page 63
+'
+
+==============================================================================
+
+-----------
+ PHONE.BAS
+-----------
+SYSTEM REQUIREMENTS:
+The version of QBasic that comes with DOS 5 or later, or Microsoft Quick Basic 
+4.x.
+
+WHAT PHONE.BAS DOES:
+This easy-to-use QBasic database gives you quick access to important phone 
+numbers, organizing them by last name or company name.  NAMES.BAS on this
+diskette performs a similar function.
+
+USING PHONE.BAS:
+To load the program, type QBASIC PHONE.BAS (using path names if necessary) at 
+the DOS prompt. Then run the program by selecting the Start option in QBasic's 
+Run menu, or press Shift-F5.
+
+A menu at the bottom of your screen offers five choices: PgUp, PgDn, Add a 
+Name, Delete a Name, and Esc. To enter names and phone numbers, press A (Add a 
+Name). At the prompts, enter a last name, first name, and a phone number, 
+pressing Enter after each one. After you complete each database entry, 
+PHONE.BAS assigns it a number and displays the page containing the entry on 
+screen. The program organizes entries alphabetically by last name.
+
+To delete an entry, press D at the main menu. The program prompts you to type 
+the number of the entry to remove and asks you to confirm your intention to 
+delete it. After erasing the entry, the program displays the current page of 
+database entries, renumbering entries as necessary.
+
+Use the PgUp and PgDn keys to move from page to page. To exit the program, 
+press Esc from the main menu.
+
+For further details on PHONE.BAS, see "Elementary Steps to Programming" (DRG 
+#4, page 63).
 ```
 
 ### File(s)
@@ -19,4 +60,4 @@ Simple phone directory by Microsoft.
 * [phone.bas](src/phone.bas)
 * [phone.zip](src/phone.zip)
 
-🔗 [data management](../data-management.md)
+🔗 [data management](../data-management.md), [dos world](../dos-world.md)

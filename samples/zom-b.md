@@ -13,3 +13,9 @@ This is [...] a series of fractal artworks that I ported from Ultra Fractal to Q
 [🐝 Zom-B](zom-b.md) 🔗 [fractal](fractal.md), [julia set](julia-set.md)
 
 The longer you hold your mouse at one position, the more it starts to glow.
+
+**[Ray Tracer Z](ray-tracer-z/index.md)**
+
+[🐝 Zom-B](zom-b.md) 🔗 [3d](3d.md), [ray tracer](ray-tracer.md)
+
+This is a ray tracer I've been working on for the past 6 years. Well, on and off of course :) It'...

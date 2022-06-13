@@ -8,11 +8,29 @@
 
 Money manager by Microsoft.
 
-**[Phone](phone/index.md)**
+**[MS Phone](ms-phone/index.md)**
 
 [🐝 Microsoft](microsoft.md) 🔗 [data management](data-management.md)
 
 Simple phone directory by Microsoft.
+
+**[Names](names/index.md)**
+
+[🐝 David Bannon](david-bannon.md) 🔗 [data management](data-management.md), [dos world](dos-world.md)
+
+'  NAMES.BAS by David Bannon '  Copyright (C) 1992 DOS Resource Guide '  Published in Issue #6, N...
+
+**[Phone](phone/index.md)**
+
+[🐝 Hardin Brothers](hardin-brothers.md) 🔗 [data management](data-management.md), [dos world](dos-world.md)
+
+' '  PHONE.BAS by Hardin Brothers '  Copyright (C) 1992 DOS Resource Guide '  Published in Issue ...
+
+**[QB-NVentory](qb-nventory/index.md)**
+
+[🐝 Nathan Thomas](nathan-thomas.md) 🔗 [data management](data-management.md)
+
+# qbasic-nventory (i)nventory manager written in qbasic!  This is a personal software project fro...
 
 **[QCards](qcards/index.md)**
 

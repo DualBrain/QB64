@@ -8,23 +8,35 @@
 
 A turn-based artillery game by Microsoft.
 
+**[Gorillas](gorillas/index.md)**
+
+[🐝 Microsoft](microsoft.md) 🔗 [game](game.md), [artillery](artillery.md)
+
+Gorilla-based artillery game by Microsoft.
+
+**[Hunter](hunter/index.md)**
+
+[🐝 Microsoft](microsoft.md) 🔗 [game](game.md), [maze](maze.md)
+
+Maze hunter game by Microsoft.
+
 **[Money](money/index.md)**
 
 [🐝 Microsoft](microsoft.md) 🔗 [data management](data-management.md)
 
 Money manager by Microsoft.
 
+**[MS Phone](ms-phone/index.md)**
+
+[🐝 Microsoft](microsoft.md) 🔗 [data management](data-management.md)
+
+Simple phone directory by Microsoft.
+
 **[Nibbles](nibbles/index.md)**
 
 [🐝 Microsoft](microsoft.md) 🔗 [game](game.md), [snake](snake.md)
 
 Snake clone by Microsoft.
-
-**[Phone](phone/index.md)**
-
-[🐝 Microsoft](microsoft.md) 🔗 [data management](data-management.md)
-
-Simple phone directory by Microsoft.
 
 **[QBlocks](qblocks/index.md)**
 

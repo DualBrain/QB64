@@ -4,6 +4,6 @@
 
 **[Fibonacci Variations](fibonacci-variations/index.md)**
 
-[🐝 STxAxTIC](stxaxtic.md) 🔗 [fibonacci](fibonacci.md)
+[🐝 STxAxTIC](stxaxtic.md) 🔗 [fibonacci](fibonacci.md), [spiral](spiral.md)
 
 The Fibonacci sequence is "seeded" with the golden ratio, but what if we change that?

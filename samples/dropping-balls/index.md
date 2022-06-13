@@ -18,9 +18,9 @@ Dropping Balls an attempt to build a pile by adjusting drop rate, elasticity, an
 
 > Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
 
-* [LOAD "droppingballs.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?src=https://qb64.com/samples/dropping-balls/src/droppingballs.bas)
-* [RUN "droppingballs.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?mode=auto&src=https://qb64.com/samples/dropping-balls/src/droppingballs.bas)
-* [PLAY "droppingballs.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?mode=play&src=https://qb64.com/samples/dropping-balls/src/droppingballs.bas)
+* [LOAD "droppingballs.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?src=https://qb64.com/samples/dropping-balls/src/droppingballs.bas)
+* [RUN "droppingballs.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?mode=auto&src=https://qb64.com/samples/dropping-balls/src/droppingballs.bas)
+* [PLAY "droppingballs.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?mode=play&src=https://qb64.com/samples/dropping-balls/src/droppingballs.bas)
 
 ### File(s)
 

@@ -2,11 +2,17 @@
 
 ## SAMPLES: GRAPHICS
 
-**[Fire](fire/index.md)**
+**[Fire 13](fire-13/index.md)**
 
 [🐝 *missing*](author-missing.md) 🔗 [fire](fire.md), [graphics](graphics.md)
 
 Fire dominates the lower screen.
+
+**[Fire Demo](fire-demo/index.md)**
+
+[🐝 harixxx](harixxx.md) 🔗 [graphics](graphics.md), [fire](fire.md)
+
+_Title "FIRE Demo v1.0" '-----| by harixxx '-----| 6-16-2010
 
 **[Floormaper](floormaper/index.md)**
 
@@ -25,6 +31,18 @@ Graphical Lissajou's Figures.  For added eye-candy-ness, I've changed the plot l
 [🐝 Chris Chadwick](chris-chadwick.md) 🔗 [graphics](graphics.md), [bitmap](bitmap.md)
 
 '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ '  PIXELplus 256 Us...
+
+**[Plasma Effect](plasma-effect/index.md)**
+
+[🐝 Cyperium](cyperium.md) 🔗 [graphics](graphics.md), [plasma](plasma.md)
+
+Use the left mousebutton to draw a line, change color with the right mousebutton, the middle mous...
+
+**[Relief 3D](relief-3d/index.md)**
+
+[🐝 Danilin](danilin.md) 🔗 [graphics](graphics.md), [isometric](isometric.md)
+
+Isometric 3D demo.
 
 **[SineCube](sinecube/index.md)**
 

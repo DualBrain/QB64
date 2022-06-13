@@ -20,11 +20,35 @@ A 2D platformer game by Tsiplacov Sergey
 
 This is a game of weapons and destruction that relies upon the properties of physics as well as y...
 
+**[Bad Box Revenge](bad-box-revenge/index.md)**
+
+[🐝 Terry Ritchie](terry-ritchie.md) 🔗 [game](game.md), [bad boxes](bad-boxes.md)
+
+'** '** Revenge of the Bad Boxes! V1.0 '** '** by Terry Ritchie 02/11/13 '**
+
+**[Bad Boxes](bad-boxes/index.md)**
+
+[🐝 Terry Ritchie](terry-ritchie.md) 🔗 [game](game.md), [bad boxes](bad-boxes.md)
+
+'** '** Program Name: Bad Boxes '** Version     : 1.0 '** Author      : Terry Ritchie '** Date   ...
+
+**[Beatdown](beatdown/index.md)**
+
+[🐝 Brian Murphy](brian-murphy.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+'                                   Beat Down '                                1998 MicroTrip '  ...
+
 **[Blockout](blockout/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [breakout](breakout.md)
 
 A Breakout clone with DXBall aspirations.
+
+**[Breakout](breakout/index.md)**
+
+[🐝 kinem](kinem.md) 🔗 [game](game.md), [breakout](breakout.md)
+
+Breakout game.
 
 **[Cant Contain Me](cant-contain-me/index.md)**
 
@@ -38,11 +62,47 @@ Can't Contain Me is a game developed in QB64.  The pieces are trying to escape y
 
 A turn-based artillery game by Microsoft.
 
+**[Chess](chess/index.md)**
+
+[🐝 Richard Frost](richard-frost.md) 🔗 [game](game.md), [chess](chess.md)
+
+Eccentric chess implementation by Richard Frost.
+
+**[Cloned Shades](cloned-shades/index.md)**
+
+[🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md)
+
+A clone of 'Shades' which was originally developed by UOVO.
+
+**[Cram](cram/index.md)**
+
+[🐝 Hardin Brothers](hardin-brothers.md) 🔗 [game](game.md), [dos world](dos-world.md)
+
+'CRAM! '   by Hardin Brothers ' '   Copyright (C) 1993 DOS Resource Guide '   Published in Issue ...
+
+**[Diamond Pong](diamond-pong/index.md)**
+
+[🐝 John Wolfskill](john-wolfskill.md) 🔗 [game](game.md), [pong](pong.md), [dos world](dos-world.md)
+
+'                      Diamond Pong '                           by '                     John Wol...
+
+**[Didris](didris/index.md)**
+
+[🐝 Dietmar Moritz](dietmar-moritz.md) 🔗 [game](game.md), [tetris](tetris.md)
+
+'________________________This_is_the_unbelievable '________ÜÜÜ___ÜÜ_________ÜÜÜ____________ÜÜ '__...
+
 **[Dragon Warrior](dragon-warrior/index.md)**
 
 [🐝 Cobalt](cobalt.md) 🔗 [game](game.md), [rpg](rpg.md)
 
 QB64 version of Nintendo Dragon Quest (Dragon Warrior).  The time has come to go on your quest to...
+
+**[Flappy Bird](flappy-bird/index.md)**
+
+[🐝 Terry Ritchie](terry-ritchie.md) 🔗 [game](game.md), [flappy bird](flappy-bird.md)
+
+' ----------------------------------------------- ' QB64 FlappyBird Clone by Terry Ritchie 02/28/...
 
 **[Four Player Pong](four-player-pong/index.md)**
 
@@ -50,11 +110,65 @@ QB64 version of Nintendo Dragon Quest (Dragon Warrior).  The time has come to go
 
 Four-player pong game.
 
+**[Frogger](frogger/index.md)**
+
+[🐝 Matt Bross](matt-bross.md) 🔗 [game](game.md), [frogger](frogger.md)
+
+Frogger game by Matt Bross.
+
+**[Frostbite](frostbite/index.md)**
+
+[🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [frostbite](frostbite.md)
+
+A clone of Frostbite for the Atari 2600, originally designed by Steve Cartwright and published by...
+
+**[Future Blocks](future-blocks/index.md)**
+
+[🐝 Michael Fogleman](michael-fogleman.md) 🔗 [game](game.md), [tetris](tetris.md)
+
+Tetris clone by Michael Fogleman.
+
+**[Ghost Wizard](ghost-wizard/index.md)**
+
+[🐝 Zack Johnson](zack-johnson.md) 🔗 [game](game.md), [roguelike](roguelike.md)
+
+' ' Ghost Wizard ' Zack Johnson ' 7DRL 2019   (Mar 2 - Mar 7) '
+
+**[Gorillas](gorillas/index.md)**
+
+[🐝 Microsoft](microsoft.md) 🔗 [game](game.md), [artillery](artillery.md)
+
+Gorilla-based artillery game by Microsoft.
+
+**[Hangman](hangman/index.md)**
+
+[🐝 A&A De Pasquale](a&a-de-pasquale.md) 🔗 [game](game.md), [hangman](hangman.md), [dos world](dos-world.md)
+
+'  HANGMAN.BAS by Antonio & Alfonso De Pasquale '  Copyright (C) 1993, 1994 DOS Resource Guide ' ...
+
 **[Helicopter Rescue](helicopter-rescue/index.md)**
 
 [🐝 TrialAndTerror](trialandterror.md) 🔗 [game](game.md), [3d](3d.md), [flight](flight.md)
 
 ================================================================================= 		       H E L ...
+
+**[Hunter](hunter/index.md)**
+
+[🐝 Microsoft](microsoft.md) 🔗 [game](game.md), [maze](maze.md)
+
+Maze hunter game by Microsoft.
+
+**[Hunters Revenge](hunters-revenge/index.md)**
+
+[🐝 Ashish Kushwaha](ashish-kushwaha.md) 🔗 [game](game.md), [shooter](shooter.md)
+
+# Hunter-Revenge A shooting game created in QB64
+
+**[Letter Blast](letter-blast/index.md)**
+
+[🐝 A&A De Pasquale](a&a-de-pasquale.md) 🔗 [game](game.md), [letter](letter.md), [dos world](dos-world.md)
+
+'   LETBLAST.BAS - Shoot the falling letters! '      by Antonio & Alfonso De Pasquale ' '   Copyr...
 
 **[LightsOn](lightson/index.md)**
 
@@ -73,6 +187,12 @@ Four-player pong game.
 [🐝 Richard Frost](richard-frost.md) 🔗 [game](game.md), [lander](lander.md)
 
 Lunar Lander based on a 1974 program running on a DEC PDP/11 with GT40 vector display terminal at...
+
+**[MyCraft](mycraft/index.md)**
+
+[🐝 Galleon](galleon.md) 🔗 [game](game.md), [minecraft](minecraft.md)
+
+Progress toward a Minecraft clone.
 
 **[Nibbles](nibbles/index.md)**
 
@@ -97,6 +217,12 @@ My attempt at creating something drawing inspiration from Fire Rides by Voodoo. 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [platform](platform.md)
 
 # Platform  What does a 2D platform game take?  Made with QB64.
+
+**[QB Tank Commander](qb-tank-commander/index.md)**
+
+[🐝 Matthew River Knight](matthew-river-knight.md) 🔗 [game](game.md), [tank](tank.md)
+
+'-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- ' '        ±±    ±...
 
 **[QBlocks](qblocks/index.md)**
 
@@ -152,6 +278,12 @@ Snake clone by Bob Seguin.
 
 Reversi game by Microsoft.
 
+**[Robo Raider](robo-raider/index.md)**
+
+[🐝 Kevin](kevin.md) 🔗 [game](game.md)
+
+****RoboRaider****                            ****README.TXT****                  Robo Raider is ...
+
 **[Set Fire to Rain](set-fire-to-rain/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [zen](zen.md)
@@ -188,11 +320,23 @@ Snake clone by pcluddite.
 
 Fly across the universe on a quest for survival against alien enemy forces. Made with QB64.
 
+**[Super Mario Jump](super-mario-jump/index.md)**
+
+[🐝 Terry Ritchie](terry-ritchie.md) 🔗 [game](game.md), [mario](mario.md)
+
+Super Mario Jump!
+
 **[Tic Tac Toe](tic-tac-toe/index.md)**
 
 [🐝 Paul Meyer](paul-meyer.md) 🔗 [game](game.md), [tic tac toe](tic-tac-toe.md)
 
 Tic tac toe game by Paul Meyer.
+
+**[Tic Tac Toe 3D](tic-tac-toe-3d/index.md)**
+
+[🐝 qbguy](qbguy.md) 🔗 [game](game.md), [tic tac toe](tic-tac-toe.md)
+
+The goal is to get four in a row while preventing the computer from doing the same. Move by click...
 
 **[Tic Tac Toe Rings](tic-tac-toe-rings/index.md)**
 

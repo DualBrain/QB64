@@ -20,6 +20,24 @@ A Breakout clone with DXBall aspirations.
 
 Can't Contain Me is a game developed in QB64.  The pieces are trying to escape your screen and th...
 
+**[Cloned Shades](cloned-shades/index.md)**
+
+[🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md)
+
+A clone of 'Shades' which was originally developed by UOVO.
+
+**[Curve Smoother](curve-smoother/index.md)**
+
+[🐝 STxAxTIC](stxaxtic.md) [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [curve](curve.md), [interpolation](interpolation.md)
+
+This program demonstrates (i) linear interpolation to create a curve between points, (ii) a relax...
+
+**[Frostbite](frostbite/index.md)**
+
+[🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [frostbite](frostbite.md)
+
+A clone of Frostbite for the Atari 2600, originally designed by Steve Cartwright and published by...
+
 **[LightsOn](lightson/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [lights](lights.md)
@@ -61,3 +79,9 @@ Fly across the universe on a quest for survival against alien enemy forces. Made
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [tic tac toe rings](tic-tac-toe-rings.md)
 
 Tic Tac Toe Rings by Fellippe Heitor.
+
+**[TUI](tui/index.md)**
+
+[🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [interface](interface.md), [tui](tui.md)
+
+Text User Interface for QB64 projects

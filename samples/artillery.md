@@ -2,6 +2,12 @@
 
 ## SAMPLES: ARTILLERY
 
+**[Gorillas](gorillas/index.md)**
+
+[🐝 Microsoft](microsoft.md) 🔗 [game](game.md), [artillery](artillery.md)
+
+Gorilla-based artillery game by Microsoft.
+
 **[QShips](qships/index.md)**
 
 [🐝 Microsoft](microsoft.md) 🔗 [game](game.md), [artillery](artillery.md)

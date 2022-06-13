@@ -20,8 +20,14 @@ Mandelbrot animator.
 
 public domain, uses qb64's 2d prototype
 
+**[Mandelbrot Spiral](mandelbrot-spiral/index.md)**
+
+[🐝 qbguy](qbguy.md) 🔗 [fractal](fractal.md), [mandelbrot](mandelbrot.md)
+
+Mandelbrot spiral by qbguy.
+
 **[Mandelbrot Zoomer](mandelbrot-zoomer/index.md)**
 
-[🐝 *missing*](author-missing.md) 🔗 [fractal](fractal.md), [mandelbrot](mandelbrot.md)
+[🐝 Tor Myklebust](tor-myklebust.md) 🔗 [fractal](fractal.md), [mandelbrot](mandelbrot.md)
 
 'QBDEMO (C) 2002 Tor Myklebust  'The fractal zoomer should run at 60FPS on a 500MHz machine.  I d...

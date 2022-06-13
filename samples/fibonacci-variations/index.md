@@ -23,7 +23,7 @@ The Fibonacci sequence is "seeded" with the golden ratio, but what if we change 
 
 ![ss2.png](img/ss2.png)
 
-🔗 [fibonacci](../fibonacci.md)
+🔗 [fibonacci](../fibonacci.md), [spiral](../spiral.md)
 
 
 <sub>Reference: [qb64forum](https://qb64forum.alephc.xyz/index.php?topic=3370.0) </sub>

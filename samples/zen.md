@@ -2,6 +2,12 @@
 
 ## SAMPLES: ZEN
 
+**[Parabolas](parabolas/index.md)**
+
+[🐝 STxAxTIC](stxaxtic.md) 🔗 [zen](zen.md)
+
+Parabola-based screensaver by STxAxTIC.
+
 **[Set Fire to Rain](set-fire-to-rain/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [zen](zen.md)

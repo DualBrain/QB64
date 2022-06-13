@@ -2,6 +2,12 @@
 
 ## SAMPLES: PLASMA
 
+**[Plasma Effect](plasma-effect/index.md)**
+
+[🐝 Cyperium](cyperium.md) 🔗 [graphics](graphics.md), [plasma](plasma.md)
+
+Use the left mousebutton to draw a line, change color with the right mousebutton, the middle mous...
+
 **[Plasma Non-Pal](plasma-non-pal/index.md)**
 
 [🐝 Relsoft](relsoft.md) 🔗 [screensaver](screensaver.md), [plasma](plasma.md)

@@ -2,6 +2,12 @@
 
 ## SAMPLES: PENDULUM
 
+**[Double Pendulum](double-pendulum/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [physics](physics.md), [pendulum](pendulum.md)
+
+Simulated double pendulum with damping.
+
 **[Pendulum Game](pendulum-game/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [pendulum](pendulum.md)

@@ -18,9 +18,9 @@ Maze puzzle game by Microsoft.
 
 > Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
 
-* [LOAD "qmaze.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?src=https://qb64.com/samples/qmaze/src/qmaze.bas)
-* [RUN "qmaze.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?mode=auto&src=https://qb64.com/samples/qmaze/src/qmaze.bas)
-* [PLAY "qmaze.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?mode=play&src=https://qb64.com/samples/qmaze/src/qmaze.bas)
+* [LOAD "qmaze.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?src=https://qb64.com/samples/qmaze/src/qmaze.bas)
+* [RUN "qmaze.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?mode=auto&src=https://qb64.com/samples/qmaze/src/qmaze.bas)
+* [PLAY "qmaze.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?mode=play&src=https://qb64.com/samples/qmaze/src/qmaze.bas)
 
 ### File(s)
 

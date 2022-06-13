@@ -2,6 +2,12 @@
 
 ## SAMPLES: MAZE
 
+**[Hunter](hunter/index.md)**
+
+[🐝 Microsoft](microsoft.md) 🔗 [game](game.md), [maze](maze.md)
+
+Maze hunter game by Microsoft.
+
 **[Mazes of Misery](mazes-of-misery/index.md)**
 
 [🐝 Steve M.](steve-m..md) 🔗 [game](game.md), [maze](maze.md)

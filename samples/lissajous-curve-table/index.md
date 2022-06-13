@@ -18,9 +18,9 @@ Graphical Lissajou's Figures.  For added eye-candy-ness, I've changed the plot l
 
 > Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
 
-* [LOAD "lissajous-curve-table.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?src=https://qb64.com/samples/lissajous-curve-table/src/lissajous-curve-table.bas)
-* [RUN "lissajous-curve-table.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?mode=auto&src=https://qb64.com/samples/lissajous-curve-table/src/lissajous-curve-table.bas)
-* [PLAY "lissajous-curve-table.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5953810/index.html?mode=play&src=https://qb64.com/samples/lissajous-curve-table/src/lissajous-curve-table.bas)
+* [LOAD "lissajous-curve-table.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?src=https://qb64.com/samples/lissajous-curve-table/src/lissajous-curve-table.bas)
+* [RUN "lissajous-curve-table.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?mode=auto&src=https://qb64.com/samples/lissajous-curve-table/src/lissajous-curve-table.bas)
+* [PLAY "lissajous-curve-table.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?mode=play&src=https://qb64.com/samples/lissajous-curve-table/src/lissajous-curve-table.bas)
 
 ### File(s)
 

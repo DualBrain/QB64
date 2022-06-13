@@ -7,3 +7,9 @@
 [🐝 Paul Meyer](paul-meyer.md) 🔗 [game](game.md), [tic tac toe](tic-tac-toe.md)
 
 Tic tac toe game by Paul Meyer.
+
+**[Tic Tac Toe 3D](tic-tac-toe-3d/index.md)**
+
+[🐝 qbguy](qbguy.md) 🔗 [game](game.md), [tic tac toe](tic-tac-toe.md)
+
+The goal is to get four in a row while preventing the computer from doing the same. Move by click...

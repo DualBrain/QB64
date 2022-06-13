@@ -7,3 +7,15 @@
 [🐝 Timothy Baxendale](timothy-baxendale.md) 🔗 [physics](physics.md), [collisions](collisions.md)
 
 Realistic collisions between sphreres in two dimensions.
+
+**[Double Pendulum](double-pendulum/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [physics](physics.md), [pendulum](pendulum.md)
+
+Simulated double pendulum with damping.
+
+**[Integrators](integrators/index.md)**
+
+[🐝 STxAxTIC](stxaxtic.md) 🔗 [physics](physics.md), [simulation](simulation.md)
+
+Demonstrates the efficacy of various integration methods in physics.

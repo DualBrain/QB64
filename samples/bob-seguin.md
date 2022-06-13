@@ -14,6 +14,12 @@ Abacus app by Bob Seguin.  NOTE: This game requires graphics files created by an
 
 A Graphics/Animation utility by Bob Seguin.  NOTE: This game requires graphics files created by a...
 
+**[Biorhythm Chart](biorhythm-chart/index.md)**
+
+[🐝 Bob Seguin](bob-seguin.md) 🔗 [biorhythms](biorhythms.md)
+
+'****************************************************************************' '-----------------...
+
 **[Rattler](rattler/index.md)**
 
 [🐝 Bob Seguin](bob-seguin.md) 🔗 [game](game.md), [snake](snake.md)

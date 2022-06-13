@@ -7,3 +7,9 @@
 [🐝 bplus](bplus.md) 🔗 [particles](particles.md)
 
 ' Created by QB64 community member bplus.
+
+**[Rockets](rockets/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [screensaver](screensaver.md), [particles](particles.md)
+
+Screensaver with rocket-like particles.

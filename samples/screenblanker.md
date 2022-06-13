@@ -10,7 +10,7 @@
 
 **[Binary Clock](binary-clock/index.md)**
 
-[🐝 RhoSigma](rhosigma.md) 🔗 [screenblanker](screenblanker.md)
+[🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
 
 '+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
 
@@ -34,25 +34,25 @@
 
 **[Lightning One](lightning-one/index.md)**
 
-[🐝 RhoSigma](rhosigma.md) 🔗 [screenblanker](screenblanker.md)
+[🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
 
 '+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
 
 **[Lightning Two](lightning-two/index.md)**
 
-[🐝 RhoSigma](rhosigma.md) 🔗 [screenblanker](screenblanker.md)
+[🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
 
 '+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
 
 **[Multi-Mill](multi-mill/index.md)**
 
-[🐝 RhoSigma](rhosigma.md) 🔗 [screenblanker](screenblanker.md)
+[🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
 
 '+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
 
 **[Mystify](mystify/index.md)**
 
-[🐝 RhoSigma](rhosigma.md) 🔗 [screenblanker](screenblanker.md)
+[🐝 Rho Sigma](rho-sigma.md) 🔗 [screenblanker](screenblanker.md)
 
 '+---------------+---------------------------------------------------+ '|_######_######_|_____.--...
 

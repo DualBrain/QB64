@@ -2,7 +2,25 @@
 
 ## SAMPLES BY *MISSING*
 
-**[Fire](fire/index.md)**
+**[3DS Viewer](3ds-viewer/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [3d](3d.md), [wireframe](wireframe.md), [legacy](legacy.md)
+
+3D Grapher made in QB64.
+
+**[Double Pendulum](double-pendulum/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [physics](physics.md), [pendulum](pendulum.md)
+
+Simulated double pendulum with damping.
+
+**[Eliza](eliza/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [ai](ai.md), [eliza](eliza.md)
+
+The original chatbot, Eliza.
+
+**[Fire 13](fire-13/index.md)**
 
 [🐝 *missing*](author-missing.md) 🔗 [fire](fire.md), [graphics](graphics.md)
 
@@ -20,11 +38,11 @@ The legendary fractal fern.
 
 Mandelbrot animator.
 
-**[Mandelbrot Zoomer](mandelbrot-zoomer/index.md)**
+**[Rockets](rockets/index.md)**
 
-[🐝 *missing*](author-missing.md) 🔗 [fractal](fractal.md), [mandelbrot](mandelbrot.md)
+[🐝 *missing*](author-missing.md) 🔗 [screensaver](screensaver.md), [particles](particles.md)
 
-'QBDEMO (C) 2002 Tor Myklebust  'The fractal zoomer should run at 60FPS on a 500MHz machine.  I d...
+Screensaver with rocket-like particles.
 
 **[Shooter](shooter/index.md)**
 
@@ -37,6 +55,12 @@ Mandelbrot animator.
 [🐝 *missing*](author-missing.md) 🔗 [trigonometry](trigonometry.md)
 
 Sine Wave Explorer
+
+**[Stock Watcher](stock-watcher/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [money](money.md), [stocks](stocks.md)
+
+Stock Watcher program.
 
 **[Tower of Hanoi](tower-of-hanoi/index.md)**
 

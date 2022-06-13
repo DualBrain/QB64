@@ -8,6 +8,12 @@
 
 A Breakout clone with DXBall aspirations.
 
+**[Breakout](breakout/index.md)**
+
+[🐝 kinem](kinem.md) 🔗 [game](game.md), [breakout](breakout.md)
+
+Breakout game.
+
 **[QBricks](qbricks/index.md)**
 
 [🐝 Microsoft](microsoft.md) 🔗 [game](game.md), [breakout](breakout.md)

@@ -2,6 +2,12 @@
 
 ## SAMPLES BY RICHARD FROST
 
+**[Chess](chess/index.md)**
+
+[🐝 Richard Frost](richard-frost.md) 🔗 [game](game.md), [chess](chess.md)
+
+Eccentric chess implementation by Richard Frost.
+
 **[Convert BMP to Dominoes](convert-bmp-to-dominoes/index.md)**
 
 [🐝 Richard Frost](richard-frost.md) 🔗 [image processing](image-processing.md)

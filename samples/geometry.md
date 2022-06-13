@@ -20,6 +20,12 @@ This is an interactive (mouse-driven) demo that calculates the intersection of a
 
 ... all I could think is "why stop at circles when you can do ellipses?"
 
+**[Lines Intersecting](lines-intersecting/index.md)**
+
+[🐝 STxAxTIC](stxaxtic.md) 🔗 [geometry](geometry.md), [intersections](intersections.md)
+
+Line segments intersecting.
+
 **[Torus Demo](torus-demo/index.md)**
 
 [🐝 Microsoft](microsoft.md) 🔗 [geometry](geometry.md), [torus](torus.md)

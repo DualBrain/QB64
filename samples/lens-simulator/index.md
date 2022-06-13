@@ -1,0 +1,33 @@
+[Home](https://qb64.com) • [News](../../news.md) • [GitHub](../../github.md) • [Wiki](../../wiki.md) • [Samples](../../samples.md) • [Media](../../media.md) • [Community](../../community.md) • [Rolodex](../../rolodex.md) • [More...](../../more.md)
+
+## SAMPLE: LENS SIMULATOR
+
+![ss1.png](img/ss1.png)
+
+### Author
+
+[🐝 STxAxTIC](../stxaxtic.md) 
+
+### Description
+
+```text
+This program simulates light rays passing through a lens with a given index of refraction and concavity. The bent rays emerge to collide with a target (of fixed shape) or pass it by.
+```
+
+### QBjs
+
+> Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
+
+* [LOAD "lens-simulator.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?src=https://qb64.com/samples/lens-simulator/src/lens-simulator.bas)
+* [RUN "lens-simulator.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?mode=auto&src=https://qb64.com/samples/lens-simulator/src/lens-simulator.bas)
+* [PLAY "lens-simulator.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?mode=play&src=https://qb64.com/samples/lens-simulator/src/lens-simulator.bas)
+
+### File(s)
+
+* [lens-simulator.bas](src/lens-simulator.bas)
+
+### Additional Image(s)
+
+![ss2.png](img/ss2.png)
+
+🔗 [2d](../2d.md), [ray tracer](../ray-tracer.md)

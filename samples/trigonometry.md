@@ -13,3 +13,9 @@ Graphical Lissajou's Figures.  For added eye-candy-ness, I've changed the plot l
 [🐝 *missing*](author-missing.md) 🔗 [trigonometry](trigonometry.md)
 
 Sine Wave Explorer
+
+**[Trig Demo](trig-demo/index.md)**
+
+[🐝 STxAxTIC](stxaxtic.md) 🔗 [trigonometry](trigonometry.md)
+
+Trivial trigonometry demo.
