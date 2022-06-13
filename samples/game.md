@@ -98,12 +98,6 @@ A clone of 'Shades' which was originally developed by UOVO.
 
 QB64 version of Nintendo Dragon Quest (Dragon Warrior).  The time has come to go on your quest to...
 
-**[Flappy Bird](flappy-bird/index.md)**
-
-[🐝 Terry Ritchie](terry-ritchie.md) 🔗 [game](game.md), [flappy bird](flappy-bird.md)
-
-' ----------------------------------------------- ' QB64 FlappyBird Clone by Terry Ritchie 02/28/...
-
 **[Four Player Pong](four-player-pong/index.md)**
 
 [🐝 Matthew](matthew.md) 🔗 [game](game.md), [pong](pong.md)

@@ -50,7 +50,6 @@
 - **[Filled Circles and Ellipses](samples/filled-circles-and-ellipses/index.md)** • [QB64 Team 2018](samples/qb64-team-2018.md) <span style="float: right;">[filled circle](samples/filled-circle.md), [ellipse](samples/ellipse.md)</span>
 - **[Fire 13](samples/fire-13/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[fire](samples/fire.md), [graphics](samples/graphics.md)</span>
 - **[Fire Demo](samples/fire-demo/index.md)** • [harixxx](samples/harixxx.md) <span style="float: right;">[graphics](samples/graphics.md), [fire](samples/fire.md)</span>
-- **[Flappy Bird](samples/flappy-bird/index.md)** • [Terry Ritchie](samples/terry-ritchie.md) <span style="float: right;">[game](samples/game.md), [flappy bird](samples/flappy-bird.md)</span>
 - **[Floormaper](samples/floormaper/index.md)** • [Antoni Gual](samples/antoni-gual.md) <span style="float: right;">[graphics](samples/graphics.md), [floorscape](samples/floorscape.md)</span>
 - **[Four Player Pong](samples/four-player-pong/index.md)** • [Matthew](samples/matthew.md) <span style="float: right;">[game](samples/game.md), [pong](samples/pong.md)</span>
 - **[Fractal](samples/fractal/index.md)** • [RhoSigma](samples/rhosigma.md) <span style="float: right;">[screenblanker](samples/screenblanker.md)</span>

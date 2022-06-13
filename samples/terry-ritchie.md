@@ -14,12 +14,6 @@
 
 '** '** Program Name: Bad Boxes '** Version     : 1.0 '** Author      : Terry Ritchie '** Date   ...
 
-**[Flappy Bird](flappy-bird/index.md)**
-
-[🐝 Terry Ritchie](terry-ritchie.md) 🔗 [game](game.md), [flappy bird](flappy-bird.md)
-
-' ----------------------------------------------- ' QB64 FlappyBird Clone by Terry Ritchie 02/28/...
-
 **[Super Mario Jump](super-mario-jump/index.md)**
 
 [🐝 Terry Ritchie](terry-ritchie.md) 🔗 [game](game.md), [mario](mario.md)
