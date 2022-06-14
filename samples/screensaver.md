@@ -2,6 +2,12 @@
 
 ## SAMPLES: SCREENSAVER
 
+**[Bubbles](bubbles/index.md)**
+
+[🐝 Tom Sales](tom-sales.md) 🔗 [screensaver](screensaver.md), [dos world](dos-world.md), [254 chars](254-chars.md)
+
+Copyright (C) 1994-95 DOS Resource Guide/DOS World  Published in Issue #17, September 1994, page ...
+
 **[Connect Circles](connect-circles/index.md)**
 
 [🐝 bplus](bplus.md) 🔗 [screensaver](screensaver.md), [mosaic](mosaic.md)
@@ -14,11 +20,29 @@ Created by QB64 community member bplus.
 
 Created by QB community member darokin.
 
+**[Globs 0](globs-0/index.md)**
+
+[🐝 Tom Sales](tom-sales.md) 🔗 [screensaver](screensaver.md), [dos world](dos-world.md), [254 chars](254-chars.md)
+
+Copyright (C) 1994-95 DOS Resource Guide/DOS World  Published in Issue #17, September 1994, page ...
+
+**[Globs 1](globs-1/index.md)**
+
+[🐝 Rick Ellis](rick-ellis.md) 🔗 [screensaver](screensaver.md), [dos world](dos-world.md), [254 chars](254-chars.md)
+
+Copyright (C) 1994-95 DOS Resource Guide/DOS World  Published in Issue #17, September 1994, page ...
+
 **[Gujero2](gujero2/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [tunnel](tunnel.md)
 
 '----------------------------------------------------------------------- 'GUJERO2.BAS by Antoni G...
+
+**[InYrFace](inyrface/index.md)**
+
+[🐝 Tom Sales](tom-sales.md) 🔗 [screensaver](screensaver.md), [dos world](dos-world.md), [254 chars](254-chars.md)
+
+Copyright (C) 1994-95 DOS Resource Guide/DOS World  Published in Issue #17, September 1994, page ...
 
 **[Lissajous Screensaver](lissajous-screensaver/index.md)**
 
@@ -37,6 +61,12 @@ Created by QB community member darokin.
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [9 lines](9-lines.md)
 
 'patterns 'for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003 '---------------------------------...
+
+**[Personal](personal/index.md)**
+
+[🐝 Tim Syrop](tim-syrop.md) 🔗 [screensaver](screensaver.md), [dos world](dos-world.md)
+
+' PERSONAL.BAS '   by Tim Syrop ' Copyright (C) 1995 DOS World ' Published in Issue #22, March 19...
 
 **[Plasma Non-Pal](plasma-non-pal/index.md)**
 

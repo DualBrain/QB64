@@ -2,6 +2,12 @@
 
 ## SAMPLES: GRAPHICS
 
+**[American Flag](american-flag/index.md)**
+
+[🐝 Vince](vince.md) 🔗 [2d](2d.md), [graphics](graphics.md)
+
+Waving American Flag demo by Vince.
+
 **[Fire 13](fire-13/index.md)**
 
 [🐝 *missing*](author-missing.md) 🔗 [fire](fire.md), [graphics](graphics.md)
@@ -20,6 +26,18 @@ _Title "FIRE Demo v1.0" '-----| by harixxx '-----| 6-16-2010
 
 Floormaper by Antoni Gual  for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003
 
+**[FunSubs](funsubs/index.md)**
+
+[🐝 Jon Mark O'Connor](jon-mark-o'connor.md) 🔗 [graphics](graphics.md), [dos world](dos-world.md)
+
+' FUNSUBS.BAS ' by Dennis Mull and Tina Sweet ' Copyright (C) 1994 DOS World ' Published in Issue...
+
+**[LFX](lfx/index.md)**
+
+[🐝 Jon Mark O'Connor](jon-mark-o'connor.md) 🔗 [graphics](graphics.md), [dos world](dos-world.md)
+
+'''''''''''''''''''''''''''''' 'LFX by Jon Mark O'Connor    ' '                            ' ''''...
+
 **[Lissajous Curve Table](lissajous-curve-table/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [graphics](graphics.md), [trigonometry](trigonometry.md)
@@ -37,6 +55,12 @@ Graphical Lissajou's Figures.  For added eye-candy-ness, I've changed the plot l
 [🐝 Cyperium](cyperium.md) 🔗 [graphics](graphics.md), [plasma](plasma.md)
 
 Use the left mousebutton to draw a line, change color with the right mousebutton, the middle mous...
+
+**[Plumeria](plumeria/index.md)**
+
+[🐝 Vince](vince.md) 🔗 [2d](2d.md), [graphics](graphics.md)
+
+Plumeria demo by Vince.
 
 **[Relief 3D](relief-3d/index.md)**
 

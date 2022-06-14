@@ -7,3 +7,9 @@
 [🐝 bplus](bplus.md) 🔗 [screensaver](screensaver.md), [mosaic](mosaic.md)
 
 Created by QB64 community member bplus.
+
+**[Fish Mosaic](fish-mosaic/index.md)**
+
+[🐝 Vince](vince.md) 🔗 [mosaic](mosaic.md), [fish](fish.md)
+
+Fish Mosaic by Vince.

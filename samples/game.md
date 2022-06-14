@@ -44,6 +44,12 @@ This is a game of weapons and destruction that relies upon the properties of phy
 
 A Breakout clone with DXBall aspirations.
 
+**[Bomber](bomber/index.md)**
+
+[🐝 Doug Lowe](doug-lowe.md) 🔗 [game](game.md), [dos world](dos-world.md)
+
+' BOMBER.BAS by Doug Lowe ' Copyright (C) 1994 DOS Resource Guide. Sept. 1994 issue, page 58  ***...
+
 **[Breakout](breakout/index.md)**
 
 [🐝 kinem](kinem.md) 🔗 [game](game.md), [breakout](breakout.md)
@@ -170,6 +176,12 @@ Maze hunter game by Microsoft.
 
 'Lights On 'A game by Fellippe Heitor. ' 'Original concept by Avi Olti, Gyora Benedek, Zvi Herman...
 
+**[Madness](madness/index.md)**
+
+[🐝 Dennis Mull](dennis-mull.md) 🔗 [game](game.md), [dos world](dos-world.md)
+
+*****************************************************************************     MADNESS.BAS    ...
+
 **[Mazes of Misery](mazes-of-misery/index.md)**
 
 [🐝 Steve M.](steve-m..md) 🔗 [game](game.md), [maze](maze.md)
@@ -193,6 +205,12 @@ Progress toward a Minecraft clone.
 [🐝 Microsoft](microsoft.md) 🔗 [game](game.md), [snake](snake.md)
 
 Snake clone by Microsoft.
+
+**[Number Blaster](number-blaster/index.md)**
+
+[🐝 R. K. Fink](r.-k.-fink.md) 🔗 [game](game.md), [dos world](dos-world.md)
+
+' NUMBER BLASTER/BLASTER.BAS ' R. K. Fink  9/14/94 ' Copyright (C) 1994 DOS World Magazine ' Publ...
 
 **[Pendulum Game](pendulum-game/index.md)**
 
@@ -343,3 +361,9 @@ Tic Tac Toe Rings by Fellippe Heitor.
 [🐝 *missing*](author-missing.md) 🔗 [game](game.md), [tower](tower.md)
 
 Print "The TOWER OF HANOI is a mathematical game or puzzle. It consists" Print "of three pegs and...
+
+**[Wheel O](wheel-o/index.md)**
+
+[🐝 Tom Sales](tom-sales.md) 🔗 [game](game.md), [dos world](dos-world.md), [254 chars](254-chars.md)
+
+Copyright (C) 1994-95 DOS Resource Guide/DOS World  Published in Issue #17, September 1994, page ...

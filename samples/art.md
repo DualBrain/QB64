@@ -25,3 +25,15 @@ Move mouse to rotate, escape to quit
 [🐝 qbguy](qbguy.md) 🔗 [art](art.md), [drawing](drawing.md)
 
 Left-click to draw, right click or middle click to clear screen, escape to quit.
+
+**[Pattern Editor](pattern-editor/index.md)**
+
+[🐝 Abacus](abacus.md) 🔗 [art](art.md), [pattern](pattern.md)
+
+Pattern Editor by Abacus.
+
+**[Tile Engine Test](tile-engine-test/index.md)**
+
+[🐝 Abacus](abacus.md) 🔗 [art](art.md), [tile](tile.md)
+
+Tile Engine Test by Abacus.

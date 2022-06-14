@@ -2,6 +2,12 @@
 
 ## SAMPLES: CURVE
 
+**[Curve Approximator](curve-approximator/index.md)**
+
+[🐝 Vince](vince.md) 🔗 [curve](curve.md), [bezier](bezier.md)
+
+Curve Approximator by Vince.
+
 **[Curve Smoother](curve-smoother/index.md)**
 
 [🐝 STxAxTIC](stxaxtic.md) [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [curve](curve.md), [interpolation](interpolation.md)

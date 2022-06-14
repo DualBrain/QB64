@@ -19,3 +19,9 @@ Simulated double pendulum with damping.
 [🐝 STxAxTIC](stxaxtic.md) 🔗 [physics](physics.md), [simulation](simulation.md)
 
 Demonstrates the efficacy of various integration methods in physics.
+
+**[Pendulum Double](pendulum-double/index.md)**
+
+[🐝 Vince](vince.md) 🔗 [physics](physics.md)
+
+Double Pendulum Simulator by Vince.

@@ -31,3 +31,9 @@
 [🐝 A&A De Pasquale](a&a-de-pasquale.md) 🔗 [measure](measure.md), [dos world](dos-world.md)
 
 '  MEASURE.BAS - A program for performing measurement conversions '     by Antonio & Alfonso De P...
+
+**[Sort](sort/index.md)**
+
+[🐝 A&A De Pasquale](a&a-de-pasquale.md) 🔗 [sort](sort.md), [dos world](dos-world.md)
+
+' SORT.BAS '   by Antonio and Alfonso De Pasquale ' Copyright (C) 1994 DOS Resource Guide ' Publi...

@@ -32,5 +32,3 @@ Various experiments in software 3D graphics. Warning: Uses no functions or subs!
 ![3dengineqb2.png](img/3dengineqb2.png)
 
 🔗 [3d](../3d.md), [graph](../graph.md)
-
-
