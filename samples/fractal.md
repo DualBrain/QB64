@@ -58,6 +58,6 @@ Mandelbrot spiral by qbguy.
 
 **[Turtle Graphics](turtle-graphics/index.md)**
 
-[🐝 triggered](triggered.md) 🔗 [fractal](fractal.md), [turtle graphics](turtle-graphics.md)
+[🐝 triggered](triggered.md) 🔗 [fractal](fractal.md), [turtle graphics](turtle-graphics.md), [qbjs](qbjs.md)
 
 Basic "turtle graphics" setup. Draws a Koch snowflake by default.

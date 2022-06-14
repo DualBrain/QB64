@@ -4,7 +4,7 @@
 
 **[American Flag](american-flag/index.md)**
 
-[🐝 Vince](vince.md) 🔗 [2d](2d.md), [graphics](graphics.md)
+[🐝 Vince](vince.md) 🔗 [2d](2d.md), [graphics](graphics.md), [qbjs](qbjs.md)
 
 Waving American Flag demo by Vince.
 

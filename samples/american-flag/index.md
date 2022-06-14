@@ -26,4 +26,4 @@ Waving American Flag demo by Vince.
 
 * [usflag2.bas](src/usflag2.bas)
 
-🔗 [2d](../2d.md), [graphics](../graphics.md)
+🔗 [2d](../2d.md), [graphics](../graphics.md), [qbjs](../qbjs.md)

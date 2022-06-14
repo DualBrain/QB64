@@ -26,7 +26,7 @@ Basic "turtle graphics" setup. Draws a Koch snowflake by default.
 
 * [turtle.bas](src/turtle.bas)
 
-🔗 [fractal](../fractal.md), [turtle graphics](../turtle-graphics.md)
+🔗 [fractal](../fractal.md), [turtle graphics](../turtle-graphics.md), [qbjs](../qbjs.md)
 
 
 <sub>Reference: </sub>

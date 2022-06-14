@@ -7,7 +7,7 @@
 - **[3D Grapher](samples/3d-grapher/index.md)** • [Ashish Kushwaha](samples/ashish-kushwaha.md)  • [STxAxTIC](samples/stxaxtic.md) <span style="float: right;">[3d](samples/3d.md), [gl](samples/gl.md)</span>
 - **[3DS Viewer](samples/3ds-viewer/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[3d](samples/3d.md), [wireframe](samples/wireframe.md), [legacy](samples/legacy.md)</span>
 - **[Abacus](samples/abacus/index.md)** • [Bob Seguin](samples/bob-seguin.md) <span style="float: right;">[abacus](samples/abacus.md), [arithmetic](samples/arithmetic.md)</span>
-- **[American Flag](samples/american-flag/index.md)** • [Vince](samples/vince.md) <span style="float: right;">[2d](samples/2d.md), [graphics](samples/graphics.md)</span>
+- **[American Flag](samples/american-flag/index.md)** • [Vince](samples/vince.md) <span style="float: right;">[2d](samples/2d.md), [graphics](samples/graphics.md), [qbjs](samples/qbjs.md)</span>
 - **[Amongst](samples/amongst/index.md)** • [Fellippe Heitor](samples/fellippe-heitor.md) <span style="float: right;">[game](samples/game.md), [multiplayer](samples/multiplayer.md)</span>
 - **[Animax](samples/animax/index.md)** • [Bob Seguin](samples/bob-seguin.md) <span style="float: right;">[art](samples/art.md), [drawing](samples/drawing.md)</span>
 - **[Arc Demo](samples/arc-demo/index.md)** • [Tsiplacov Sergey](samples/tsiplacov-sergey.md) <span style="float: right;">[game](samples/game.md), [platformer](samples/platformer.md)</span>
@@ -190,7 +190,7 @@
 - **[Tower of Hanoi](samples/tower-of-hanoi/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[game](samples/game.md), [tower](samples/tower.md)</span>
 - **[Trig Demo](samples/trig-demo/index.md)** • [STxAxTIC](samples/stxaxtic.md) <span style="float: right;">[trigonometry](samples/trigonometry.md)</span>
 - **[TUI](samples/tui/index.md)** • [Fellippe Heitor](samples/fellippe-heitor.md) <span style="float: right;">[interface](samples/interface.md), [tui](samples/tui.md)</span>
-- **[Turtle Graphics](samples/turtle-graphics/index.md)** • [triggered](samples/triggered.md) <span style="float: right;">[fractal](samples/fractal.md), [turtle graphics](samples/turtle-graphics.md)</span>
+- **[Turtle Graphics](samples/turtle-graphics/index.md)** • [triggered](samples/triggered.md) <span style="float: right;">[fractal](samples/fractal.md), [turtle graphics](samples/turtle-graphics.md), [qbjs](samples/qbjs.md)</span>
 - **[Twirl](samples/twirl/index.md)** • [Antoni Gual](samples/antoni-gual.md) <span style="float: right;">[screensaver](samples/screensaver.md), [9 lines](samples/9-lines.md)</span>
 - **[Vector Field](samples/vector-field/index.md)** • [STxAxTIC](samples/stxaxtic.md) <span style="float: right;">[2d](samples/2d.md), [vectors](samples/vectors.md)</span>
 - **[Vortex](samples/vortex/index.md)** • [Antoni Gual](samples/antoni-gual.md) <span style="float: right;">[screensaver](samples/screensaver.md), [9 lines](samples/9-lines.md)</span>
