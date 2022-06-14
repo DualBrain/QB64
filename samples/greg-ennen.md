@@ -4,7 +4,7 @@
 
 **[Tile Demo](tile-demo/index.md)**
 
-[🐝 Greg Ennen](greg-ennen.md) 🔗 [tile](tile.md), [dos world](dos-world.md)
+[🐝 Greg Ennen](greg-ennen.md) 🔗 [tile](tile.md), [dos world](dos-world.md), [qbjs](qbjs.md)
 
 ' TILEDEMO.BAS '   by Greg Ennen ' Copyright (C) 1995 DOS World ' Published in Issue #21, May 199...
 

@@ -175,4 +175,4 @@ and TILEDEMO.BAS.
 
 * [tiledemo.bas](src/tiledemo.bas)
 
-🔗 [tile](../tile.md), [dos world](../dos-world.md)
+🔗 [tile](../tile.md), [dos world](../dos-world.md), [qbjs](../qbjs.md)

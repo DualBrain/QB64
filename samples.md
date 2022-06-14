@@ -183,7 +183,7 @@
 - **[Tic Tac Toe](samples/tic-tac-toe/index.md)** • [Paul Meyer](samples/paul-meyer.md) <span style="float: right;">[game](samples/game.md), [tic tac toe](samples/tic-tac-toe.md)</span>
 - **[Tic Tac Toe 3D](samples/tic-tac-toe-3d/index.md)** • [qbguy](samples/qbguy.md) <span style="float: right;">[game](samples/game.md), [tic tac toe](samples/tic-tac-toe.md)</span>
 - **[Tic Tac Toe Rings](samples/tic-tac-toe-rings/index.md)** • [Fellippe Heitor](samples/fellippe-heitor.md) <span style="float: right;">[game](samples/game.md), [tic tac toe rings](samples/tic-tac-toe-rings.md)</span>
-- **[Tile Demo](samples/tile-demo/index.md)** • [Greg Ennen](samples/greg-ennen.md) <span style="float: right;">[tile](samples/tile.md), [dos world](samples/dos-world.md)</span>
+- **[Tile Demo](samples/tile-demo/index.md)** • [Greg Ennen](samples/greg-ennen.md) <span style="float: right;">[tile](samples/tile.md), [dos world](samples/dos-world.md), [qbjs](samples/qbjs.md)</span>
 - **[Tile Engine Test](samples/tile-engine-test/index.md)** • [Abacus](samples/abacus.md) <span style="float: right;">[art](samples/art.md), [tile](samples/tile.md)</span>
 - **[Tile Experiment](samples/tile-experiment/index.md)** • [Greg Ennen](samples/greg-ennen.md) <span style="float: right;">[tile](samples/tile.md), [dos world](samples/dos-world.md)</span>
 - **[Torus Demo](samples/torus-demo/index.md)** • [Microsoft](samples/microsoft.md) <span style="float: right;">[geometry](samples/geometry.md), [torus](samples/torus.md)</span>
