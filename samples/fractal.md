@@ -56,6 +56,12 @@ Mandelbrot spiral by qbguy.
 
 'QBDEMO (C) 2002 Tor Myklebust  'The fractal zoomer should run at 60FPS on a 500MHz machine.  I d...
 
+**[Sierpinski Fractal](sierpinski-fractal/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [fractal](fractal.md), [triangle](triangle.md), [legacy](legacy.md)
+
+The legendary fractal.
+
 **[Turtle Graphics](turtle-graphics/index.md)**
 
 [🐝 triggered](triggered.md) 🔗 [fractal](fractal.md), [turtle graphics](turtle-graphics.md), [qbjs](qbjs.md)

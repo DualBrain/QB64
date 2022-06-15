@@ -2,6 +2,24 @@
 
 ## SAMPLES BY QBGUY
 
+**[Analog Calculator](analog-calculator/index.md)**
+
+[🐝 qbguy](qbguy.md) 🔗 [trigonometry](trigonometry.md), [legacy](legacy.md)
+
+Analog calculator.
+
+**[AsciiPong](asciipong/index.md)**
+
+[🐝 qbguy](qbguy.md) 🔗 [game](game.md), [pong](pong.md), [legacy](legacy.md)
+
+' This work has been released into the public domain by the copyright ' holder. This applies worl...
+
+**[Chess QBasic](chess-qbasic/index.md)**
+
+[🐝 qbguy](qbguy.md) 🔗 [game](game.md), [chess](chess.md), [legacy](legacy.md)
+
+Chess, against a computer opponent with AI!  PRINT "QBASIC CHESS" PRINT PRINT "    CHESS is a gam...
+
 **[Kaleidoscope 3D](kaleidoscope-3d/index.md)**
 
 [🐝 qbguy](qbguy.md) 🔗 [3d](3d.md), [art](art.md)

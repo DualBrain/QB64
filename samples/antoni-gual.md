@@ -2,11 +2,23 @@
 
 ## SAMPLES BY ANTONI GUAL
 
+**[3D Balls](3d-balls/index.md)**
+
+[🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [9 lines](9-lines.md)
+
+'balls by Antoni Gual    agual@eic.ictnet.es 'for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003...
+
 **[Floormaper](floormaper/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [graphics](graphics.md), [floorscape](floorscape.md)
 
 Floormaper by Antoni Gual  for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003
+
+**[Forest](forest/index.md)**
+
+[🐝 Antoni Gual](antoni-gual.md) 🔗 [data manipulation](data-manipulation.md), [7 lines](7-lines.md), [legacy](legacy.md)
+
+A forest scene with rippling reflecting water  'FOREST.BAS by Antoni Gual 'For the Future Softwar...
 
 **[Gujero2](gujero2/index.md)**
 

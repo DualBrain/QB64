@@ -2,6 +2,12 @@
 
 ## SAMPLES: SCREENSAVER
 
+**[3D Balls](3d-balls/index.md)**
+
+[🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [9 lines](9-lines.md)
+
+'balls by Antoni Gual    agual@eic.ictnet.es 'for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003...
+
 **[Bubbles](bubbles/index.md)**
 
 [🐝 Tom Sales](tom-sales.md) 🔗 [screensaver](screensaver.md), [dos world](dos-world.md), [254 chars](254-chars.md)

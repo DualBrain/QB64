@@ -2,6 +2,12 @@
 
 ## SAMPLES: GAME
 
+**[Alekbeth](alekbeth/index.md)**
+
+[🐝 Richard C Garriott](richard-c-garriott.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+Description:	"Akalabeth: World of Doom" is the predecessor of the Ultima series of role playing g...
+
 **[Amongst](amongst/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [multiplayer](multiplayer.md)
@@ -14,11 +20,23 @@ A pretentious clone attempt of Among Us (originally by Inner Sloth)  To test: 1)
 
 A 2D platformer game by Tsiplacov Sergey
 
+**[AsciiPong](asciipong/index.md)**
+
+[🐝 qbguy](qbguy.md) 🔗 [game](game.md), [pong](pong.md), [legacy](legacy.md)
+
+' This work has been released into the public domain by the copyright ' holder. This applies worl...
+
 **[Assault](assault/index.md)**
 
 [🐝 Glenn Powell](glenn-powell.md) 🔗 [game](game.md)
 
 This is a game of weapons and destruction that relies upon the properties of physics as well as y...
+
+**[Astrowars](astrowars/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+Legacy game.
 
 **[Bad Box Revenge](bad-box-revenge/index.md)**
 
@@ -50,6 +68,12 @@ A Breakout clone with DXBall aspirations.
 
 ' BOMBER.BAS by Doug Lowe ' Copyright (C) 1994 DOS Resource Guide. Sept. 1994 issue, page 58  ***...
 
+**[Booger](booger/index.md)**
+
+[🐝 REALiTY Software](reality-software.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+Rem Rem Rem             REALiTY Software Rem Rem         BOOGER and the Martians Rem Rem Rem     ...
+
 **[Breakout](breakout/index.md)**
 
 [🐝 kinem](kinem.md) 🔗 [game](game.md), [breakout](breakout.md)
@@ -68,7 +92,19 @@ Can't Contain Me is a game developed in QB64.  The pieces are trying to escape y
 
 A turn-based artillery game by Microsoft.
 
-**[Chess](chess/index.md)**
+**[Cave Rider](cave-rider/index.md)**
+
+[🐝 Paul Redling](paul-redling.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+' *************************************** ' *                                     * ' * CAVE RAID...
+
+**[Chess QBasic](chess-qbasic/index.md)**
+
+[🐝 qbguy](qbguy.md) 🔗 [game](game.md), [chess](chess.md), [legacy](legacy.md)
+
+Chess, against a computer opponent with AI!  PRINT "QBASIC CHESS" PRINT PRINT "    CHESS is a gam...
+
+**[Chess RF](chess-rf/index.md)**
 
 [🐝 Richard Frost](richard-frost.md) 🔗 [game](game.md), [chess](chess.md)
 
@@ -85,6 +121,12 @@ A clone of 'Shades' which was originally developed by UOVO.
 [🐝 Hardin Brothers](hardin-brothers.md) 🔗 [game](game.md), [dos world](dos-world.md)
 
 'CRAM! '   by Hardin Brothers ' '   Copyright (C) 1993 DOS Resource Guide '   Published in Issue ...
+
+**[Darpong](darpong/index.md)**
+
+[🐝 darokin](darokin.md) 🔗 [game](game.md), [pong](pong.md), [legacy](legacy.md)
+
+Darpong 	author: darokin   -  Adrien Rebuzzi    e-mail : darokin@infonie.fr  Darpong is a simple ...
 
 **[Diamond Pong](diamond-pong/index.md)**
 
@@ -145,6 +187,12 @@ Gorilla-based artillery game by Microsoft.
 [🐝 A&A De Pasquale](a&a-de-pasquale.md) 🔗 [game](game.md), [hangman](hangman.md), [dos world](dos-world.md)
 
 '  HANGMAN.BAS by Antonio & Alfonso De Pasquale '  Copyright (C) 1993, 1994 DOS Resource Guide ' ...
+
+**[Hegemony](hegemony/index.md)**
+
+[🐝 Akos Ivanyi](akos-ivanyi.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+'HEGEMONY 3.0.e 'Copyright: Akos Ivanyi (21.07.2003)   '-----=====GENERAL GAMEFLOW=====-----  '  ...
 
 **[Helicopter Rescue](helicopter-rescue/index.md)**
 
@@ -319,6 +367,12 @@ Snake clone by pcluddite.
 [🐝 David Joffe](david-joffe.md) 🔗 [game](game.md), [puzzle](puzzle.md)
 
 '/=================================================================\ '  (C) David Joffe 1997 '  D...
+
+**[Space Invaders](space-invaders/index.md)**
+
+[🐝 anarky](anarky.md) 🔗 [game](game.md), [space invaders](space-invaders.md), [legacy](legacy.md)
+
+Taito's Space Invaders       ##     The Invaders march ...    ####      Bom bom bom bom ...   ###...
 
 **[Space64](space64/index.md)**
 

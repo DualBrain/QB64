@@ -2,6 +2,12 @@
 
 ## SAMPLES: TRIGONOMETRY
 
+**[Analog Calculator](analog-calculator/index.md)**
+
+[🐝 qbguy](qbguy.md) 🔗 [trigonometry](trigonometry.md), [legacy](legacy.md)
+
+Analog calculator.
+
 **[Lissajous Curve Table](lissajous-curve-table/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [graphics](graphics.md), [trigonometry](trigonometry.md)

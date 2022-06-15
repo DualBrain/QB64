@@ -8,6 +8,18 @@
 
 3D Grapher made in QB64.
 
+**[Astrowars](astrowars/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+Legacy game.
+
+**[CAbsMouse](cabsmouse/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [mouse](mouse.md), [legacy](legacy.md)
+
+'Mouse utilities for text mode. Written by TFM 9/11/94 'Uses INT 33 to use a Microsoft Compatable...
+
 **[Double Pendulum](double-pendulum/index.md)**
 
 [🐝 *missing*](author-missing.md) 🔗 [physics](physics.md), [pendulum](pendulum.md)
@@ -49,6 +61,12 @@ Screensaver with rocket-like particles.
 [🐝 *missing*](author-missing.md) 🔗 [game](game.md), [shooter](shooter.md)
 
 1945-style shooter.
+
+**[Sierpinski Fractal](sierpinski-fractal/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [fractal](fractal.md), [triangle](triangle.md), [legacy](legacy.md)
+
+The legendary fractal.
 
 **[Sine Wave Explorer](sine-wave-explorer/index.md)**
 

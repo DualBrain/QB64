@@ -2,7 +2,7 @@
 
 ## SAMPLES BY RICHARD FROST
 
-**[Chess](chess/index.md)**
+**[Chess RF](chess-rf/index.md)**
 
 [🐝 Richard Frost](richard-frost.md) 🔗 [game](game.md), [chess](chess.md)
 

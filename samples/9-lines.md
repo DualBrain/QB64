@@ -2,6 +2,18 @@
 
 ## SAMPLES: 9 LINES
 
+**[3D Balls](3d-balls/index.md)**
+
+[🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [9 lines](9-lines.md)
+
+'balls by Antoni Gual    agual@eic.ictnet.es 'for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003...
+
+**[Cube Rotator](cube-rotator/index.md)**
+
+[🐝 Entropy](entropy.md) 🔗 [3d](3d.md), [9 lines](9-lines.md), [legacy](legacy.md)
+
+' cube rotator in 11 lines. From a 19 liner by Entropy, shrinked by Antoni Gual 'for Rel's 9 LINE...
+
 **[Lissajous Screensaver](lissajous-screensaver/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [screensaver](screensaver.md), [9 lines](9-lines.md)
