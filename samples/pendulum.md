@@ -1,4 +1,4 @@
-[Home](https://qb64.com) • [News](../news.md) • [GitHub](../github.md) • [Wiki](../wiki.md) • [Samples](../samples.md) • [Media](../media.md) • [Community](../community.md) • [Rolodex](../rolodex.md) • [More...](../more.md)
+[Home](https://qb64.com) • [News](../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../samples.md) • [Community](../community.md) • [Inform](../inform.md) • [GX](../gx.md) • [QBjs](../qbjs.md) • [More...](../more.md)
 
 ## SAMPLES: PENDULUM
 
@@ -7,6 +7,12 @@
 [🐝 *missing*](author-missing.md) 🔗 [physics](physics.md), [pendulum](pendulum.md)
 
 Simulated double pendulum with damping.
+
+**[LineSwing](lineswing/index.md)**
+
+[🐝 PMG](pmg.md) 🔗 [pendulum](pendulum.md), [legacy](legacy.md)
+
+'************************************************ '* '*  This program simulates a swinging motion...
 
 **[Pendulum Game](pendulum-game/index.md)**
 

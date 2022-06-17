@@ -1,4 +1,4 @@
-[Home](https://qb64.com) • [News](../news.md) • [GitHub](../github.md) • [Wiki](../wiki.md) • [Samples](../samples.md) • [Media](../media.md) • [Community](../community.md) • [Rolodex](../rolodex.md) • [More...](../more.md)
+[Home](https://qb64.com) • [News](../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../samples.md) • [Community](../community.md) • [Inform](../inform.md) • [GX](../gx.md) • [QBjs](../qbjs.md) • [More...](../more.md)
 
 ## SAMPLES: GRAPHICS
 
@@ -7,6 +7,12 @@
 [🐝 Vince](vince.md) 🔗 [2d](2d.md), [graphics](graphics.md), [qbjs](qbjs.md)
 
 Waving American Flag demo by Vince.
+
+**[Deedlines Sax](deedlines-sax/index.md)**
+
+[🐝 Michael Kargas](michael-kargas.md) 🔗 [graphics](graphics.md), [legacy](legacy.md)
+
+Deedlines Sax...  A pure Qbasic demo done by connecting various older or newer sources..  Featuri...
 
 **[Fire 13](fire-13/index.md)**
 
@@ -43,6 +49,12 @@ Floormaper by Antoni Gual  for Rel's 9 LINER contest at QBASICNEWS.COM  1/2003
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [graphics](graphics.md), [trigonometry](trigonometry.md)
 
 Graphical Lissajou's Figures.  For added eye-candy-ness, I've changed the plot line to paint usin...
+
+**[MakeBig](makebig/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [graphics](graphics.md), [legacy](legacy.md)
+
+'MakeBig.bas: 'This program reads data statements and uses pset to draw the 'pixel color they rep...
 
 **[PixelPlus](pixelplus/index.md)**
 

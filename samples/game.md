@@ -1,4 +1,4 @@
-[Home](https://qb64.com) • [News](../news.md) • [GitHub](../github.md) • [Wiki](../wiki.md) • [Samples](../samples.md) • [Media](../media.md) • [Community](../community.md) • [Rolodex](../rolodex.md) • [More...](../more.md)
+[Home](https://qb64.com) • [News](../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../samples.md) • [Community](../community.md) • [Inform](../inform.md) • [GX](../gx.md) • [QBjs](../qbjs.md) • [More...](../more.md)
 
 ## SAMPLES: GAME
 
@@ -7,6 +7,12 @@
 [🐝 Richard C Garriott](richard-c-garriott.md) 🔗 [game](game.md), [legacy](legacy.md)
 
 Description:	"Akalabeth: World of Doom" is the predecessor of the Ultima series of role playing g...
+
+**[Alyman](alyman/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+Use ascii man to avoid traps.
 
 **[Amongst](amongst/index.md)**
 
@@ -50,11 +56,23 @@ Legacy game.
 
 '** '** Program Name: Bad Boxes '** Version     : 1.0 '** Author      : Terry Ritchie '** Date   ...
 
+**[Battleship](battleship/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [game](game.md), [battleship](battleship.md), [legacy](legacy.md)
+
+Battleship game.
+
 **[Beatdown](beatdown/index.md)**
 
 [🐝 Brian Murphy](brian-murphy.md) 🔗 [game](game.md), [legacy](legacy.md)
 
 '                                   Beat Down '                                1998 MicroTrip '  ...
+
+**[BlackJack](blackjack/index.md)**
+
+[🐝 M-AZN](m-azn.md) 🔗 [game](game.md), [blackjack](blackjack.md), [legacy](legacy.md)
+
+REM M-AZN BLACKJACK REM May 27, 2005 REM by M-AZN REM REM dealer hits on 16, stands on 17. REM be...
 
 **[Blockout](blockout/index.md)**
 
@@ -80,11 +98,23 @@ Rem Rem Rem             REALiTY Software Rem Rem         BOOGER and the Martians
 
 Breakout game.
 
+**[Bush Bomber](bush-bomber/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [game](game.md), [ascii](ascii.md), [legacy](legacy.md)
+
+Drop ascii bombs on target.
+
 **[Cant Contain Me](cant-contain-me/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md)
 
 Can't Contain Me is a game developed in QB64.  The pieces are trying to escape your screen and th...
+
+**[Car Racing E](car-racing-e/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+Race & avoid obstacles.
 
 **[Castle](castle/index.md)**
 
@@ -122,6 +152,12 @@ A clone of 'Shades' which was originally developed by UOVO.
 
 'CRAM! '   by Hardin Brothers ' '   Copyright (C) 1993 DOS Resource Guide '   Published in Issue ...
 
+**[Cricket Manager](cricket-manager/index.md)**
+
+[🐝 Alex Beighton](alex-beighton.md) 🔗 [game](game.md), [cricket](cricket.md), [legacy](legacy.md)
+
+NATIONAL LEAGUE CRICKET MANAGER 2006 - an entertaining cricket manager game based on England's do...
+
 **[Darpong](darpong/index.md)**
 
 [🐝 darokin](darokin.md) 🔗 [game](game.md), [pong](pong.md), [legacy](legacy.md)
@@ -134,6 +170,12 @@ Darpong 	author: darokin   -  Adrien Rebuzzi    e-mail : darokin@infonie.fr  Dar
 
 '                      Diamond Pong '                           by '                     John Wol...
 
+**[Diceit](diceit/index.md)**
+
+[🐝 John Mendoza](john-mendoza.md) 🔗 [game](game.md), [dice](dice.md), [legacy](legacy.md)
+
+'This is a very simple dice game. I am still new at Qb so please humor me. 'Also, Thank You for d...
+
 **[Didris](didris/index.md)**
 
 [🐝 Dietmar Moritz](dietmar-moritz.md) 🔗 [game](game.md), [tetris](tetris.md)
@@ -145,6 +187,12 @@ Darpong 	author: darokin   -  Adrien Rebuzzi    e-mail : darokin@infonie.fr  Dar
 [🐝 Cobalt](cobalt.md) 🔗 [game](game.md), [rpg](rpg.md)
 
 QB64 version of Nintendo Dragon Quest (Dragon Warrior).  The time has come to go on your quest to...
+
+**[Drug3D](drug3d/index.md)**
+
+[🐝 Kevin B. Kohler](kevin-b.-kohler.md) 🔗 [game](game.md), [3d](3d.md), [legacy](legacy.md)
+
+PRINT "      Canibal Gopher inc. presents " PRINT "          Drug Runner 3d demo" PRINT "        ...
 
 **[Four Player Pong](four-player-pong/index.md)**
 
@@ -236,11 +284,29 @@ Maze hunter game by Microsoft.
 
 'Maze of Misery 'By Steve M. (c),May 5,01 '****************  'Please visit my web page at:  www.a...
 
+**[Monopoly](monopoly/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [game](game.md), [monopoly](monopoly.md), [legacy](legacy.md)
+
+A text-graphics monopoly board with some functionality.
+
+**[Monopoly Custom](monopoly-custom/index.md)**
+
+[🐝 grahambhg](grahambhg.md) 🔗 [game](game.md), [monopoly](monopoly.md), [legacy](legacy.md)
+
+This version of monopoly allows several house rules:(y/n choice for each) free parking jackpot , ...
+
 **[Moon Lander](moon-lander/index.md)**
 
 [🐝 Richard Frost](richard-frost.md) 🔗 [game](game.md), [lander](lander.md)
 
 Lunar Lander based on a 1974 program running on a DEC PDP/11 with GT40 vector display terminal at...
+
+**[Mooncrap](mooncrap/index.md)**
+
+[🐝 Daniel Kupfer](daniel-kupfer.md) 🔗 [game](game.md), [space invaders](space-invaders.md), [legacy](legacy.md)
+
+- - - Mooncrap 1999 - - - - - written by Daniel Kupfer - Runs in Qbasic / QUICK BASIC 4.5 -   Con...
 
 **[MyCraft](mycraft/index.md)**
 
@@ -277,6 +343,12 @@ My attempt at creating something drawing inspiration from Fire Rides by Voodoo. 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [platform](platform.md)
 
 # Platform  What does a 2D platform game take?  Made with QB64.
+
+**[Pong Tennis](pong-tennis/index.md)**
+
+[🐝 Alex Beighton](alex-beighton.md) 🔗 [game](game.md), [pong](pong.md), [legacy](legacy.md)
+
+
 
 **[QB Tank Commander](qb-tank-commander/index.md)**
 
@@ -332,6 +404,12 @@ Star Trek-like game by Philipp Strathausen.
 
 Snake clone by Bob Seguin.
 
+**[Rectong](rectong/index.md)**
+
+[🐝 Mike Chambers](mike-chambers.md) 🔗 [game](game.md), [pong](pong.md), [legacy](legacy.md)
+
+Rectong v1.0 by Mike Chambers =-=-=-=-=-=-=-=-=-=-=-=-=-=-=  Just a fun little game I wrote in Qu...
+
 **[Reversi](reversi/index.md)**
 
 [🐝 Microsoft](microsoft.md) 🔗 [game](game.md)
@@ -355,6 +433,18 @@ A hot game. Let's make Adele proud.
 [🐝 *missing*](author-missing.md) 🔗 [game](game.md), [shooter](shooter.md)
 
 1945-style shooter.
+
+**[ShootUp](shootup/index.md)**
+
+[🐝 Nixon](nixon.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+Title:   Shoot Up V2 Author:  Nixon Genre:   Arcade / 2 player year:    2004  Game help it's in t...
+
+**[Simpire](simpire/index.md)**
+
+[🐝 Pyrus](pyrus.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+' ²±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±² ' ² Simpire Beta                    ² ' ²±±±±±±±±±±±±±±±±±±...
 
 **[Snake Basic](snake-basic/index.md)**
 
@@ -415,6 +505,12 @@ Tic Tac Toe Rings by Fellippe Heitor.
 [🐝 *missing*](author-missing.md) 🔗 [game](game.md), [tower](tower.md)
 
 Print "The TOWER OF HANOI is a mathematical game or puzzle. It consists" Print "of three pegs and...
+
+**[Wetspot](wetspot/index.md)**
+
+[🐝 Angelo Mottola](angelo-mottola.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+' WETSPOT v0.9 ' by Angelo Mottola (C) 1996 ' ' -------------------------------------------------...
 
 **[Wheel O](wheel-o/index.md)**
 

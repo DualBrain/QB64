@@ -1,4 +1,4 @@
-[Home](https://qb64.com) • [News](../news.md) • [GitHub](../github.md) • [Wiki](../wiki.md) • [Samples](../samples.md) • [Media](../media.md) • [Community](../community.md) • [Rolodex](../rolodex.md) • [More...](../more.md)
+[Home](https://qb64.com) • [News](../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../samples.md) • [Community](../community.md) • [Inform](../inform.md) • [GX](../gx.md) • [QBjs](../qbjs.md) • [More...](../more.md)
 
 ## SAMPLES: LEGACY
 
@@ -20,11 +20,23 @@
 
 Description:	"Akalabeth: World of Doom" is the predecessor of the Ultima series of role playing g...
 
+**[Alyman](alyman/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+Use ascii man to avoid traps.
+
 **[Analog Calculator](analog-calculator/index.md)**
 
 [🐝 qbguy](qbguy.md) 🔗 [trigonometry](trigonometry.md), [legacy](legacy.md)
 
 Analog calculator.
+
+**[Ascii Conversion](ascii-conversion/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [utility](utility.md), [ascii](ascii.md), [legacy](legacy.md)
+
+Converts between ASCII value and character.
 
 **[AsciiPong](asciipong/index.md)**
 
@@ -38,11 +50,29 @@ Analog calculator.
 
 Legacy game.
 
+**[Averager](averager/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [math](math.md), [legacy](legacy.md)
+
+Averages 5 test scores.
+
+**[Battleship](battleship/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [game](game.md), [battleship](battleship.md), [legacy](legacy.md)
+
+Battleship game.
+
 **[Beatdown](beatdown/index.md)**
 
 [🐝 Brian Murphy](brian-murphy.md) 🔗 [game](game.md), [legacy](legacy.md)
 
 '                                   Beat Down '                                1998 MicroTrip '  ...
+
+**[BlackJack](blackjack/index.md)**
+
+[🐝 M-AZN](m-azn.md) 🔗 [game](game.md), [blackjack](blackjack.md), [legacy](legacy.md)
+
+REM M-AZN BLACKJACK REM May 27, 2005 REM by M-AZN REM REM dealer hits on 16, stands on 17. REM be...
 
 **[Booger](booger/index.md)**
 
@@ -50,11 +80,23 @@ Legacy game.
 
 Rem Rem Rem             REALiTY Software Rem Rem         BOOGER and the Martians Rem Rem Rem     ...
 
+**[Bush Bomber](bush-bomber/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [game](game.md), [ascii](ascii.md), [legacy](legacy.md)
+
+Drop ascii bombs on target.
+
 **[CAbsMouse](cabsmouse/index.md)**
 
 [🐝 *missing*](author-missing.md) 🔗 [mouse](mouse.md), [legacy](legacy.md)
 
 'Mouse utilities for text mode. Written by TFM 9/11/94 'Uses INT 33 to use a Microsoft Compatable...
+
+**[Car Racing E](car-racing-e/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+Race & avoid obstacles.
 
 **[Carols](carols/index.md)**
 
@@ -74,6 +116,18 @@ Rem Rem Rem             REALiTY Software Rem Rem         BOOGER and the Martians
 
 Chess, against a computer opponent with AI!  PRINT "QBASIC CHESS" PRINT PRINT "    CHESS is a gam...
 
+**[Coolscr](coolscr/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [screensaver](screensaver.md), [legacy](legacy.md)
+
+Simple effect using circles.
+
+**[Cricket Manager](cricket-manager/index.md)**
+
+[🐝 Alex Beighton](alex-beighton.md) 🔗 [game](game.md), [cricket](cricket.md), [legacy](legacy.md)
+
+NATIONAL LEAGUE CRICKET MANAGER 2006 - an entertaining cricket manager game based on England's do...
+
 **[Cube Rotator](cube-rotator/index.md)**
 
 [🐝 Entropy](entropy.md) 🔗 [3d](3d.md), [9 lines](9-lines.md), [legacy](legacy.md)
@@ -86,11 +140,41 @@ Chess, against a computer opponent with AI!  PRINT "QBASIC CHESS" PRINT PRINT " 
 
 Darpong 	author: darokin   -  Adrien Rebuzzi    e-mail : darokin@infonie.fr  Darpong is a simple ...
 
+**[Deedlines Sax](deedlines-sax/index.md)**
+
+[🐝 Michael Kargas](michael-kargas.md) 🔗 [graphics](graphics.md), [legacy](legacy.md)
+
+Deedlines Sax...  A pure Qbasic demo done by connecting various older or newer sources..  Featuri...
+
+**[Diceit](diceit/index.md)**
+
+[🐝 John Mendoza](john-mendoza.md) 🔗 [game](game.md), [dice](dice.md), [legacy](legacy.md)
+
+'This is a very simple dice game. I am still new at Qb so please humor me. 'Also, Thank You for d...
+
+**[Drug3D](drug3d/index.md)**
+
+[🐝 Kevin B. Kohler](kevin-b.-kohler.md) 🔗 [game](game.md), [3d](3d.md), [legacy](legacy.md)
+
+PRINT "      Canibal Gopher inc. presents " PRINT "          Drug Runner 3d demo" PRINT "        ...
+
+**[Fight](fight/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [legacy](legacy.md)
+
+Small fighting game.
+
 **[Forest](forest/index.md)**
 
 [🐝 Antoni Gual](antoni-gual.md) 🔗 [data manipulation](data-manipulation.md), [7 lines](7-lines.md), [legacy](legacy.md)
 
 A forest scene with rippling reflecting water  'FOREST.BAS by Antoni Gual 'For the Future Softwar...
+
+**[Gravity](gravity/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [physics](physics.md), [legacy](legacy.md)
+
+Ball bounces realistically.
 
 **[Hegemony](hegemony/index.md)**
 
@@ -104,14 +188,86 @@ A forest scene with rippling reflecting water  'FOREST.BAS by Antoni Gual 'For t
 
 The HTML file is saved in C:\name_you_specified.html  The modern Windows version for the file may...
 
+**[KbdParse](kbdparse/index.md)**
+
+[🐝 William W. Sindel](william-w.-sindel.md) 🔗 [utility](utility.md), [legacy](legacy.md)
+
+'*************************************************************************** '* '*  Keyboard inpu...
+
+**[LineSwing](lineswing/index.md)**
+
+[🐝 PMG](pmg.md) 🔗 [pendulum](pendulum.md), [legacy](legacy.md)
+
+'************************************************ '* '*  This program simulates a swinging motion...
+
+**[MakeBig](makebig/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [graphics](graphics.md), [legacy](legacy.md)
+
+'MakeBig.bas: 'This program reads data statements and uses pset to draw the 'pixel color they rep...
+
+**[Monopoly](monopoly/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [game](game.md), [monopoly](monopoly.md), [legacy](legacy.md)
+
+A text-graphics monopoly board with some functionality.
+
+**[Monopoly Custom](monopoly-custom/index.md)**
+
+[🐝 grahambhg](grahambhg.md) 🔗 [game](game.md), [monopoly](monopoly.md), [legacy](legacy.md)
+
+This version of monopoly allows several house rules:(y/n choice for each) free parking jackpot , ...
+
+**[Mooncrap](mooncrap/index.md)**
+
+[🐝 Daniel Kupfer](daniel-kupfer.md) 🔗 [game](game.md), [space invaders](space-invaders.md), [legacy](legacy.md)
+
+- - - Mooncrap 1999 - - - - - written by Daniel Kupfer - Runs in Qbasic / QUICK BASIC 4.5 -   Con...
+
+**[Pong Tennis](pong-tennis/index.md)**
+
+[🐝 Alex Beighton](alex-beighton.md) 🔗 [game](game.md), [pong](pong.md), [legacy](legacy.md)
+
+
+
+**[Rectong](rectong/index.md)**
+
+[🐝 Mike Chambers](mike-chambers.md) 🔗 [game](game.md), [pong](pong.md), [legacy](legacy.md)
+
+Rectong v1.0 by Mike Chambers =-=-=-=-=-=-=-=-=-=-=-=-=-=-=  Just a fun little game I wrote in Qu...
+
+**[ShootUp](shootup/index.md)**
+
+[🐝 Nixon](nixon.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+Title:   Shoot Up V2 Author:  Nixon Genre:   Arcade / 2 player year:    2004  Game help it's in t...
+
 **[Sierpinski Fractal](sierpinski-fractal/index.md)**
 
 [🐝 *missing*](author-missing.md) 🔗 [fractal](fractal.md), [triangle](triangle.md), [legacy](legacy.md)
 
 The legendary fractal.
 
+**[Simpire](simpire/index.md)**
+
+[🐝 Pyrus](pyrus.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+' ²±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±² ' ² Simpire Beta                    ² ' ²±±±±±±±±±±±±±±±±±±...
+
 **[Space Invaders](space-invaders/index.md)**
 
 [🐝 anarky](anarky.md) 🔗 [game](game.md), [space invaders](space-invaders.md), [legacy](legacy.md)
 
 Taito's Space Invaders       ##     The Invaders march ...    ####      Bom bom bom bom ...   ###...
+
+**[Temperature Conversion](temperature-conversion/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [science](science.md), [legacy](legacy.md)
+
+REM This is a program that converts Fahrenheit temperatures to Celsius REM temperatures.
+
+**[Wetspot](wetspot/index.md)**
+
+[🐝 Angelo Mottola](angelo-mottola.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+' WETSPOT v0.9 ' by Angelo Mottola (C) 1996 ' ' -------------------------------------------------...

@@ -1,4 +1,4 @@
-[Home](https://qb64.com) • [News](../news.md) • [GitHub](../github.md) • [Wiki](../wiki.md) • [Samples](../samples.md) • [Media](../media.md) • [Community](../community.md) • [Rolodex](../rolodex.md) • [More...](../more.md)
+[Home](https://qb64.com) • [News](../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../samples.md) • [Community](../community.md) • [Inform](../inform.md) • [GX](../gx.md) • [QBjs](../qbjs.md) • [More...](../more.md)
 
 ## SAMPLES: PONG
 
@@ -25,3 +25,15 @@ Darpong 	author: darokin   -  Adrien Rebuzzi    e-mail : darokin@infonie.fr  Dar
 [🐝 Matthew](matthew.md) 🔗 [game](game.md), [pong](pong.md)
 
 Four-player pong game.
+
+**[Pong Tennis](pong-tennis/index.md)**
+
+[🐝 Alex Beighton](alex-beighton.md) 🔗 [game](game.md), [pong](pong.md), [legacy](legacy.md)
+
+
+
+**[Rectong](rectong/index.md)**
+
+[🐝 Mike Chambers](mike-chambers.md) 🔗 [game](game.md), [pong](pong.md), [legacy](legacy.md)
+
+Rectong v1.0 by Mike Chambers =-=-=-=-=-=-=-=-=-=-=-=-=-=-=  Just a fun little game I wrote in Qu...
