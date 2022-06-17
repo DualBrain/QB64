@@ -57,6 +57,8 @@ Interested in extending your QB64 reach to the web?  Check out [GX](gx.md).
 
 ### What is QBjs?
 
+[![QBjs](images/qbjs.png)](https://qbjs.org)
+
 [QBjs](qbjs.md) can be considered a sort of *sister* project of QB64. It is heavily inspired by folks that have a huge appreciation for QB64 and the main developer that is working on this is "simply" continuing forward on a project that originally grew out of a pet project of his for QB64. This (previous) project, written in QB64, allows you to write your code in QB64 and then "convert" it to Javascript. The [QBjs](qbjs.md) project is taking this further by providing the necessary tools to write your code in the browser directly.
 
 Interested in playing with QBasic/QB64 in the browser?  Check out [QBjs](qbjs.md).
