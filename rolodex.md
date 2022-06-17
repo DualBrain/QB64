@@ -23,7 +23,7 @@ This page is dedicated to those individuals who have contributed in the past to 
 - Lynn Stricklan: [GitHub](https://github.com/lstricklan)
 - Scott Williams: [GitHub](https://github.com/vwbusguy/) • [QBSH](https://qbsh.org)
 - "bartman081523": [GitHub](https://github.com/bartman081523)
-- "boxgaming": [GitHub](https://github.com/boxgaming) • [GX Game Engine for QB64 (GitHub)](https://github.com/boxgaming/gx) • [QBJS (GitHub)](https://github.com/boxgaming/qbjs)
+- "boxgaming": [GitHub](https://github.com/boxgaming) • [GX Game Engine for QB64 (GitHub)](https://github.com/boxgaming/gx) • [QBjs (GitHub)](https://github.com/boxgaming/qbjs)
 - "Family\\\\'": [GitHub](https://github.com/familygw)
 - "johnkharvey": [GitHub](https://github.com/johnkharvey)
 - "KindOne": [GitHub](https://github.com/RealKindOne)

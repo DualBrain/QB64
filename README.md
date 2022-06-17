@@ -35,22 +35,31 @@ For some of the early history of QB64, check out [these interviews](galleon.md).
 There are several people in the community with projects that serve to compliment QB64; extending the reach and capability of the QB64 developer.
 
 - [InForm](inform.md): Rapid Application Development (GUI) for QB64.
-- [QBJS](qbjs.md): An implementation of the BASIC programming language for the web, with multimedia support and easy sharing of programs that aims compatibility with QBasic, QB4.5 and QB64.
+- [GX](gx.md): A game engine for QB64 that also allows you to extend your reach to the web.
+- [QBjs](qbjs.md): An implementation of the BASIC programming language for the web, with multimedia support and easy sharing of programs that aims compatibility with QBasic, QB4.5 and QB64.
 - [QB64 Interpreter](https://github.com/FellippeHeitor/QB64-interpreter): Run QB64 commands on the fly or load a file and run it, no compilation required - written in QB64.
 - [L-BASIC](https://github.com/flukiluke/L-BASIC): The L-BASIC compiler and interpreter implemented in QB64.  There is also this [forum thread](https://qb64forum.alephc.xyz/index.php?topic=2778.0) for some interesting background on the project.
 - [Roslyn](https://github.com/dotnet/roslyn): Open-source MIT-licensed implementation of latest direct *"commercial"* decendant of QBasic/QB4.5 that targets the [.NET](https://dotnet.microsoft.com/) platform.
 
 ### What is InForm?
 
+![InForm1](images/inform1.png)
+
 [InForm](inform.md) is a Rapid Application Development tool for QB64. It consists of a library of graphical routines and a WYSIWYG editor that allows you to design forms and export the resulting code to generate an event-driven QB64 program.
 
 Want to build graphical UI applications across Windows, Linux and/or Mac? Check out [InForm](inform.md)!
 
+### What is GX?
+
+[GX](gx.md) is a basic game engine... literally. This is a Game(G) Engine(X) built with and for QB64, a QBasic/QuickBASIC IDE and compiler with modern extensions. [GX](gx.md) supports basic 2D gaming: platformer, top-down, etc.; you know, classic NES/SNES type games.
+
+Interested in extending your QB64 reach to the web?  Check out [GX](gx.md).
+
 ### What is QBjs?
 
-[QBJS](qbjs.md) can be considered a sort of *sister* project of QB64. It is heavily inspired by folks that have a huge appreciation for QB64 and the main developer that is working on this is "simply" continuing forward on a project that originally grew out of a pet project of his for QB64. This (previous) project, written in QB64, allows you to write your code in QB64 and then "convert" it to Javascript. The [QBJS](qbjs.md) project is taking this further by providing the necessary tools to write your code in the browser directly.
+[QBjs](qbjs.md) can be considered a sort of *sister* project of QB64. It is heavily inspired by folks that have a huge appreciation for QB64 and the main developer that is working on this is "simply" continuing forward on a project that originally grew out of a pet project of his for QB64. This (previous) project, written in QB64, allows you to write your code in QB64 and then "convert" it to Javascript. The [QBjs](qbjs.md) project is taking this further by providing the necessary tools to write your code in the browser directly.
 
-Interested in playing with QBasic/QB64 in the browser?  Check out [QBJS](qbjs.md).
+Interested in playing with QBasic/QB64 in the browser?  Check out [QBjs](qbjs.md).
 
 ### What is QB64 Interpreter?
 
