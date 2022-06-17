@@ -1,4 +1,4 @@
-[Home](https://qb64.com) • [News](news.md) • [GitHub](github.md) • [Wiki](wiki.md) • [Samples](samples.md) • [Media](media.md) • [Community](community.md) • [Rolodex](rolodex.md) • [More...](more.md)
+[Home](https://qb64.com) • [News](news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](samples.md) • [Community](community.md) • [Inform](inform.md) • [GX](gx.md) • [QBjs](qbjs.md) • [More...](more.md)
 
 ## Community
 
@@ -8,7 +8,7 @@ A note regarding the below entries labeled as "QB64 Team"; the events of early 2
 
 > Discord is a VoIP and instant messaging platform.  Users have the ability to commuicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers".  A server is a collection of persistent chat rooms and voice chat channels which can be accessed via invite links.  
 
-To fill the void considering the loss of the "QB64 Team", a new Discord server has been launched. This new server will initially adopt the same *Code of Conduct* as that utilized by the [.NET Foundation Contributor Covenant Code of Conduct](https://dotnetfoundation.org/about/code-of-conduct).
+To fill the void considering the loss of the "QB64 Team", a new Discord server has been launched. This new server will follows a published [Code of Conduct](conduct.md).
 
 - [QB64 Official](https://discord.gg/A3HmUe2mv8)
 
@@ -18,7 +18,7 @@ The following Discord servers are spun up without thought to how the community (
 - [QB64FR](https://discord.com/channels/953279107699994624/953279107699994627)
 - [~~QB64 Team~~](https://discord.gg/S5CdJXQKAd)
 
-The following Discord server isn't specific to QB64, but does have a room/channel dedicated to QB64:
+The following Discord server isn't specific to QB64, but does have a room/channel dedicated to QB64 (it also adheres to a similar [Code of Conduct](conduct.md)):
 
 - [QB64 (GotBASIC.com)](https://discord.gg/NP3wbjAWk5)
 
@@ -62,6 +62,18 @@ At one time there was a very active forum dedicated to QB64, but it was shutdown
 - [@qb64@oldbytes.space]("https://oldbytes.space/@qb64")
 - [Scott Williams](https://mastodon.online/@vwbusguy)
 
+### Podcast
+
+See [Podcast](podcast.md).
+
 ### Reddit
 
 - [~~QB64 Team~~](https://www.reddit.com/r/qb64): A subreddit to discuss all things QB64. QB64 uses the simplicity of QBasic, but with a slew of newer commands, not to mention massively expanded capabilities. It's designed to be 100% backwards compatible with your old QBasic programs Too!
+
+### Rolodex
+
+See [rolodex.md].
+
+### YouTube
+
+See [YouTube](youtube.md).
