@@ -40,6 +40,7 @@ There are several people in the community with projects that serve to compliment
 - [QB64 Interpreter](https://github.com/FellippeHeitor/QB64-interpreter): Run QB64 commands on the fly or load a file and run it, no compilation required - written in QB64.
 - [L-BASIC](https://github.com/flukiluke/L-BASIC): The L-BASIC compiler and interpreter implemented in QB64.  There is also this [forum thread](https://qb64forum.alephc.xyz/index.php?topic=2778.0) for some interesting background on the project.
 - [Roslyn](https://github.com/dotnet/roslyn): Open-source MIT-licensed implementation of latest direct *"commercial"* decendant of QBasic/QB4.5 that targets the [.NET](https://dotnet.microsoft.com/) platform.
+- [PC-BASIC](https://robhagemans.github.io/pcbasic/): Free, cross-platform emulator for the GW-BASIC family of interpreters.
 
 ### What is InForm?
 
@@ -74,6 +75,10 @@ Run QB64 commands on the fly or load a file and run it, no compilation required.
 ### What is Roslyn?
 
 Although a bit controversial to include this on this list, [Roslyn](https://github.com/dotnet/roslyn) notably includes self-hosting versions of the Visual Basic for [.NET](https://dotnet.microsoft.com/) compiler – a compiler written in the language itself. The compiler is available via the traditional command-line programs but also as APIs available natively from within [.NET](https://dotnet.microsoft.com/) code. [Roslyn](https://github.com/dotnet/roslyn) exposes modules for syntactic (lexical) analysis of code, semantic analysis, dynamic compilation to CIL, and code emission. This project was started in 2010, made open source in 2014 (Apache License 2.0) and released first version in Visual Studio 2015. At some point the license was transitioned to use the same license as [.NET](https://dotnet.microsoft.com/) (MIT-licensed). You can either work with this directly from command-line tools via [.NET](https://dotnet.microsoft.com/) or by installing the *Community Edition* (Free) of [Visual Studio](https://visualstudio.microsoft.com/). It is included in this list as a lot of the skills / foundation gained by working in QB64 can easily applied to VB and the scope of what can be done with [.NET](https://dotnet.microsoft.com/) is pretty impressive.
+
+### What is PC-BASIC?
+
+[PC-BASIC](https://robhagemans.github.io/pcbasic/): Free, cross-platform emulator for the GW-BASIC family of interpreters that allows you to run classic games and legacy BASIC applications designed for MS-DOS systems, IBM PC, PCjr or Tandy 1000. [PC-BASIC](https://robhagemans.github.io/pcbasic/) aims for "bug-for-bug compatibility with Microsoft GW-BASIC". In other words, it has a very similar mission to QB64, but instead of QBasic and/or QB4.5 compatibility [PC-BASIC](https://robhagemans.github.io/pcbasic/) is focused on the BASIC that was prior to QBasic/QB4.5 ([GW-BASIC](https://gw-basic.com/)) and is an excellent alternative/replacement to [GW-BASIC](https://gw-basic.com/) on modern platforms. Because of this, it might be able to execute *line-number* BASIC programs that aren't compatible with QBasic, QB4.5 and QB64.
 
 ## FAQ
 
