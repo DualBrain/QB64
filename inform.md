@@ -102,9 +102,29 @@ There are several great videos that Fellippe created that are online:
 
 ### Samples
 
+[Word Clock](https://github.com/FellippeHeitor/InForm-demos/tree/master/WordClock)
+
+[![Word Clock](images/inform_wordclock.png)](https://github.com/FellippeHeitor/InForm-demos/tree/master/WordClock)
+
+[Stopwatch](https://github.com/FellippeHeitor/InForm-demos/tree/master/Stopwatch)
+
+[![Stopwatch](images/inform_stopwatch.png)](https://github.com/FellippeHeitor/InForm-demos/tree/master/Stopwatch)
+
+[Simple Tic Tac Toe Game](https://github.com/FellippeHeitor/InForm-demos/tree/master/InformTicTacToe)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L9FmJBN4_SQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Improved Tic Tac Toe Game](https://github.com/FellippeHeitor/InForm-demos/tree/master/InformTicTacToe2)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8_D5YQj6XI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Fireworks Simulation with Visual Controls](https://github.com/FellippeHeitor/InForm-demos/tree/master/Fireworks2Inform)
+
+[![Fireworks](images/inform_fireworks.png)](https://github.com/FellippeHeitor/InForm-demos/tree/master/Fireworks2Inform)
+
 [InForm Calculator by Terry Ritchie](downloads/calculator.zip)
 
-[![Calculator](images/calculator.jpg)](downloads/calculator.zip)
+[![Calculator](images/inform_calculator.jpg)](downloads/calculator.zip)
 
 ### Blog
 
