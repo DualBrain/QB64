@@ -1,4 +1,4 @@
-[Home](https://qb64.com) • [News](../../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../../samples.md) • [Inform](../../inform.md) • [GX](../../gx.md) • [QBjs](../../qbjs.md) • [Community](../../community.md) • [More...](../../more.md)
+[Home](https://qb64.com) • [News](../../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../../samples.md) • [InForm](../../inform.md) • [GX](../../gx.md) • [QBjs](../../qbjs.md) • [Community](../../community.md) • [More...](../../more.md)
 
 ## SAMPLE: RIPPLES
 
@@ -34,6 +34,7 @@
 
 * [ripples.bas](src/ripples.bas)
 * [ripples.zip](src/ripples.zip)
+* [ripples_orig.bas](src/ripples_orig.bas)
 * [twolf.pcx](src/twolf.pcx)
 
 🔗 [image processing](../image-processing.md), [ripple](../ripple.md)

@@ -1,4 +1,4 @@
-[Home](https://qb64.com) • [News](../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../samples.md) • [Inform](../inform.md) • [GX](../gx.md) • [QBjs](../qbjs.md) • [Community](../community.md) • [More...](../more.md)
+[Home](https://qb64.com) • [News](../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../samples.md) • [InForm](../inform.md) • [GX](../gx.md) • [QBjs](../qbjs.md) • [Community](../community.md) • [More...](../more.md)
 
 ## SAMPLES: GEOMETRY
 
@@ -26,8 +26,32 @@ This is an interactive (mouse-driven) demo that calculates the intersection of a
 
 Line segments intersecting.
 
+**[RightTriangle](righttriangle/index.md)**
+
+[🐝 T.A. Giles](t.a.-giles.md) 🔗 [geometry](geometry.md), [legacy](legacy.md)
+
+'Program (c) T.A.Giles - Mar 2001 'Right Angle Triangle Solver v 1.1 '640 x 480 graphics resolution
+
+**[Rotate](rotate/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [geometry](geometry.md), [legacy](legacy.md)
+
+Rotating circles.
+
 **[Torus Demo](torus-demo/index.md)**
 
 [🐝 Microsoft](microsoft.md) 🔗 [geometry](geometry.md), [torus](torus.md)
 
 '------------------------------------------------------------------------------------------------...
+
+**[Vektor](vektor/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [geometry](geometry.md), [legacy](legacy.md)
+
+Fly around a plane of dots.  PRINT "Welcome to my second go at displaying" PRINT "points in a thr...
+
+**[VSphere](vsphere/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [geometry](geometry.md), [legacy](legacy.md)
+
+'This is a program that calculates the volume of a sphere.

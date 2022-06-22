@@ -1,4 +1,4 @@
-[Home](https://qb64.com) • [News](../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../samples.md) • [Inform](../inform.md) • [GX](../gx.md) • [QBjs](../qbjs.md) • [Community](../community.md) • [More...](../more.md)
+[Home](https://qb64.com) • [News](../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../samples.md) • [InForm](../inform.md) • [GX](../gx.md) • [QBjs](../qbjs.md) • [Community](../community.md) • [More...](../more.md)
 
 ## SAMPLES: LEGACY
 
@@ -188,11 +188,23 @@ Ball bounces realistically.
 
 The HTML file is saved in C:\name_you_specified.html  The modern Windows version for the file may...
 
+**[Intrprtr](intrprtr/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [interpreter](interpreter.md), [legacy](legacy.md)
+
+Misc. interpreter.
+
 **[KbdParse](kbdparse/index.md)**
 
 [🐝 William W. Sindel](william-w.-sindel.md) 🔗 [utility](utility.md), [legacy](legacy.md)
 
 '*************************************************************************** '* '*  Keyboard inpu...
+
+**[Kite](kite/index.md)**
+
+[🐝 mennonite](mennonite.md) 🔗 [legacy](legacy.md)
+
+Flying kite demo.  '2007 mennonite 'public domain
 
 **[LineSwing](lineswing/index.md)**
 
@@ -224,6 +236,30 @@ This version of monopoly allows several house rules:(y/n choice for each) free p
 
 - - - Mooncrap 1999 - - - - - written by Daniel Kupfer - Runs in Qbasic / QUICK BASIC 4.5 -   Con...
 
+**[Move](move/index.md)**
+
+[🐝 mxmm](mxmm.md) 🔗 [game](game.md), [ascii](ascii.md), [legacy](legacy.md)
+
+PRINT "Welcome to the ultimate ASCII-player game: MOVE!" PRINT "v.1.0                       by mxmm"
+
+**[MrGuessIt](mrguessit/index.md)**
+
+[🐝 John Mendoza](john-mendoza.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+PRINT "This is a guessing game between the numbers 0 and 50." PRINT "I will tell you if you are h...
+
+**[NightSky](nightsky/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [graphics](graphics.md), [legacy](legacy.md)
+
+Simple night sky & moon.
+
+**[Pong BJ](pong-bj/index.md)**
+
+[🐝 bj mccann](bj-mccann.md) 🔗 [game](game.md), [pong](pong.md), [legacy](legacy.md)
+
+PRINT "PONG CLONE" PRINT " " PRINT "                            programed by bj mccann"
+
 **[Pong Tennis](pong-tennis/index.md)**
 
 [🐝 Alex Beighton](alex-beighton.md) 🔗 [game](game.md), [pong](pong.md), [legacy](legacy.md)
@@ -235,6 +271,36 @@ This version of monopoly allows several house rules:(y/n choice for each) free p
 [🐝 Mike Chambers](mike-chambers.md) 🔗 [game](game.md), [pong](pong.md), [legacy](legacy.md)
 
 Rectong v1.0 by Mike Chambers =-=-=-=-=-=-=-=-=-=-=-=-=-=-=  Just a fun little game I wrote in Qu...
+
+**[RightTriangle](righttriangle/index.md)**
+
+[🐝 T.A. Giles](t.a.-giles.md) 🔗 [geometry](geometry.md), [legacy](legacy.md)
+
+'Program (c) T.A.Giles - Mar 2001 'Right Angle Triangle Solver v 1.1 '640 x 480 graphics resolution
+
+**[Rotate](rotate/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [geometry](geometry.md), [legacy](legacy.md)
+
+Rotating circles.
+
+**[Rug](rug/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [graphics](graphics.md), [ascii](ascii.md), [legacy](legacy.md)
+
+Simple coloured ascii smilies.
+
+**[Scramble](scramble/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+PRINT "Instructions:" PRINT STRING$(13, 196) PRINT " "; CHR$(254); " The object of the game is to...
+
+**[Screen Tester](screen-tester/index.md)**
+
+[🐝 patz2009](patz2009.md) 🔗 [graphics](graphics.md), [utility](utility.md), [legacy](legacy.md)
+
+' PQBC Screen Tester '-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-...
 
 **[ShootUp](shootup/index.md)**
 
@@ -254,11 +320,47 @@ The legendary fractal.
 
 ' ²±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±² ' ² Simpire Beta                    ² ' ²±±±±±±±±±±±±±±±±±±...
 
+**[SkyDiver](skydiver/index.md)**
+
+[🐝 Jeremy Ruten](jeremy-ruten.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+PRINT "Welcome to Skydiver!" PRINT "The object of the game is to" PRINT "jump out of your airplan...
+
 **[Space Invaders](space-invaders/index.md)**
 
 [🐝 anarky](anarky.md) 🔗 [game](game.md), [space invaders](space-invaders.md), [legacy](legacy.md)
 
 Taito's Space Invaders       ##     The Invaders march ...    ####      Bom bom bom bom ...   ###...
+
+**[Square Counter](square-counter/index.md)**
+
+[🐝 Paulunknown](paulunknown.md) 🔗 [legacy](legacy.md)
+
+PRINT "    This is a program used to count squares or rectangles for" PRINT " people who don't wa...
+
+**[SSaver](ssaver/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [screensaver](screensaver.md), [legacy](legacy.md)
+
+Filled circle screensaver.
+
+**[Star Battles](star-battles/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [game](game.md), [2 player](2-player.md), [legacy](legacy.md)
+
+Two players battle in starships.
+
+**[Stones](stones/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+
+
+**[Sudoku](sudoku/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [legacy](legacy.md)
+
+Sudoku solver.
 
 **[Temperature Conversion](temperature-conversion/index.md)**
 
@@ -266,8 +368,56 @@ Taito's Space Invaders       ##     The Invaders march ...    ####      Bom bom 
 
 REM This is a program that converts Fahrenheit temperatures to Celsius REM temperatures.
 
+**[Temple](temple/index.md)**
+
+[🐝 John Belew](john-belew.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+710 REM    **************************************************** 720 REM    *  WRITTEN BY JOHN BEL...
+
+**[Time](time/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [clock](clock.md), [legacy](legacy.md)
+
+Simple date/time program.
+
+**[Torneo NDC](torneo-ndc/index.md)**
+
+[🐝 FGR SOFTWARE](fgr-software.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+Ascii-based spaceship game with music.  ' '                               FGR SOFTWARE '         ...
+
+**[Vektor](vektor/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [geometry](geometry.md), [legacy](legacy.md)
+
+Fly around a plane of dots.  PRINT "Welcome to my second go at displaying" PRINT "points in a thr...
+
+**[VSphere](vsphere/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [geometry](geometry.md), [legacy](legacy.md)
+
+'This is a program that calculates the volume of a sphere.
+
 **[Wetspot](wetspot/index.md)**
 
 [🐝 Angelo Mottola](angelo-mottola.md) 🔗 [game](game.md), [legacy](legacy.md)
 
 ' WETSPOT v0.9 ' by Angelo Mottola (C) 1996 ' ' -------------------------------------------------...
+
+**[Wumpus](wumpus/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+375 REM *** INSTRUCTIONS *** PRINT "WELCOME TO 'HUNT THE WUMPUS'" PRINT " THE WUMPUS LIVES IN A C...
+
+**[X-Wing](x-wing/index.md)**
+
+[🐝 DATATECH](datatech.md) 🔗 [game](game.md), [star wars](star-wars.md), [legacy](legacy.md)
+
+PRINT "ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿" PRINT "³ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿³"...
+
+**[Zodiac](zodiac/index.md)**
+
+[🐝 Paulunknown](paulunknown.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+PRINT "Game created by Paulunknown" PRINT "Thanks for playing. Please give me some comments on th...

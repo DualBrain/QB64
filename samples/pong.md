@@ -1,4 +1,4 @@
-[Home](https://qb64.com) • [News](../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../samples.md) • [Inform](../inform.md) • [GX](../gx.md) • [QBjs](../qbjs.md) • [Community](../community.md) • [More...](../more.md)
+[Home](https://qb64.com) • [News](../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../samples.md) • [InForm](../inform.md) • [GX](../gx.md) • [QBjs](../qbjs.md) • [Community](../community.md) • [More...](../more.md)
 
 ## SAMPLES: PONG
 
@@ -25,6 +25,12 @@ Darpong 	author: darokin   -  Adrien Rebuzzi    e-mail : darokin@infonie.fr  Dar
 [🐝 Matthew](matthew.md) 🔗 [game](game.md), [pong](pong.md)
 
 Four-player pong game.
+
+**[Pong BJ](pong-bj/index.md)**
+
+[🐝 bj mccann](bj-mccann.md) 🔗 [game](game.md), [pong](pong.md), [legacy](legacy.md)
+
+PRINT "PONG CLONE" PRINT " " PRINT "                            programed by bj mccann"
 
 **[Pong Tennis](pong-tennis/index.md)**
 

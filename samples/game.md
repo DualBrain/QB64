@@ -1,4 +1,4 @@
-[Home](https://qb64.com) • [News](../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../samples.md) • [Inform](../inform.md) • [GX](../gx.md) • [QBjs](../qbjs.md) • [Community](../community.md) • [More...](../more.md)
+[Home](https://qb64.com) • [News](../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../samples.md) • [InForm](../inform.md) • [GX](../gx.md) • [QBjs](../qbjs.md) • [Community](../community.md) • [More...](../more.md)
 
 ## SAMPLES: GAME
 
@@ -278,7 +278,13 @@ Maze hunter game by Microsoft.
 
 *****************************************************************************     MADNESS.BAS    ...
 
-**[Mazes of Misery](mazes-of-misery/index.md)**
+**[Maryann](maryann/index.md)**
+
+[🐝 Donald Foster](donald-foster.md) 🔗 [game](game.md)
+
+Maryann is a board game I designed and named it after my wife. I put together a board game that c...
+
+**[Maze of Misery](maze-of-misery/index.md)**
 
 [🐝 Steve M.](steve-m..md) 🔗 [game](game.md), [maze](maze.md)
 
@@ -308,6 +314,18 @@ Lunar Lander based on a 1974 program running on a DEC PDP/11 with GT40 vector di
 
 - - - Mooncrap 1999 - - - - - written by Daniel Kupfer - Runs in Qbasic / QUICK BASIC 4.5 -   Con...
 
+**[Move](move/index.md)**
+
+[🐝 mxmm](mxmm.md) 🔗 [game](game.md), [ascii](ascii.md), [legacy](legacy.md)
+
+PRINT "Welcome to the ultimate ASCII-player game: MOVE!" PRINT "v.1.0                       by mxmm"
+
+**[MrGuessIt](mrguessit/index.md)**
+
+[🐝 John Mendoza](john-mendoza.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+PRINT "This is a guessing game between the numbers 0 and 50." PRINT "I will tell you if you are h...
+
 **[MyCraft](mycraft/index.md)**
 
 [🐝 Galleon](galleon.md) 🔗 [game](game.md), [minecraft](minecraft.md)
@@ -326,6 +344,12 @@ Snake clone by Microsoft.
 
 ' NUMBER BLASTER/BLASTER.BAS ' R. K. Fink  9/14/94 ' Copyright (C) 1994 DOS World Magazine ' Publ...
 
+**[Outwit](outwit/index.md)**
+
+[🐝 Donald Foster](donald-foster.md) 🔗 [game](game.md)
+
+I've complete another game I wrote on the Tandy 2000 about 30 years ago. Outwit is a 2 player boa...
+
 **[Pendulum Game](pendulum-game/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [pendulum](pendulum.md)
@@ -343,6 +367,12 @@ My attempt at creating something drawing inspiration from Fire Rides by Voodoo. 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [platform](platform.md)
 
 # Platform  What does a 2D platform game take?  Made with QB64.
+
+**[Pong BJ](pong-bj/index.md)**
+
+[🐝 bj mccann](bj-mccann.md) 🔗 [game](game.md), [pong](pong.md), [legacy](legacy.md)
+
+PRINT "PONG CLONE" PRINT " " PRINT "                            programed by bj mccann"
 
 **[Pong Tennis](pong-tennis/index.md)**
 
@@ -422,6 +452,12 @@ Reversi game by Microsoft.
 
 ****RoboRaider****                            ****README.TXT****                  Robo Raider is ...
 
+**[Scramble](scramble/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+PRINT "Instructions:" PRINT STRING$(13, 196) PRINT " "; CHR$(254); " The object of the game is to...
+
 **[Set Fire to Rain](set-fire-to-rain/index.md)**
 
 [🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [game](game.md), [zen](zen.md)
@@ -445,6 +481,12 @@ Title:   Shoot Up V2 Author:  Nixon Genre:   Arcade / 2 player year:    2004  Ga
 [🐝 Pyrus](pyrus.md) 🔗 [game](game.md), [legacy](legacy.md)
 
 ' ²±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±² ' ² Simpire Beta                    ² ' ²±±±±±±±±±±±±±±±±±±...
+
+**[SkyDiver](skydiver/index.md)**
+
+[🐝 Jeremy Ruten](jeremy-ruten.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+PRINT "Welcome to Skydiver!" PRINT "The object of the game is to" PRINT "jump out of your airplan...
 
 **[Snake Basic](snake-basic/index.md)**
 
@@ -476,11 +518,29 @@ Taito's Space Invaders       ##     The Invaders march ...    ####      Bom bom 
 
 Fly across the universe on a quest for survival against alien enemy forces. Made with QB64.
 
+**[Star Battles](star-battles/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [game](game.md), [2 player](2-player.md), [legacy](legacy.md)
+
+Two players battle in starships.
+
+**[Stones](stones/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+
+
 **[Super Mario Jump](super-mario-jump/index.md)**
 
 [🐝 Terry Ritchie](terry-ritchie.md) 🔗 [game](game.md), [mario](mario.md)
 
 Super Mario Jump!
+
+**[Temple](temple/index.md)**
+
+[🐝 John Belew](john-belew.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+710 REM    **************************************************** 720 REM    *  WRITTEN BY JOHN BEL...
 
 **[Tic Tac Toe](tic-tac-toe/index.md)**
 
@@ -500,6 +560,12 @@ The goal is to get four in a row while preventing the computer from doing the sa
 
 Tic Tac Toe Rings by Fellippe Heitor.
 
+**[Torneo NDC](torneo-ndc/index.md)**
+
+[🐝 FGR SOFTWARE](fgr-software.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+Ascii-based spaceship game with music.  ' '                               FGR SOFTWARE '         ...
+
 **[Tower of Hanoi](tower-of-hanoi/index.md)**
 
 [🐝 *missing*](author-missing.md) 🔗 [game](game.md), [tower](tower.md)
@@ -517,3 +583,21 @@ Print "The TOWER OF HANOI is a mathematical game or puzzle. It consists" Print "
 [🐝 Tom Sales](tom-sales.md) 🔗 [game](game.md), [dos world](dos-world.md), [254 chars](254-chars.md)
 
 Copyright (C) 1994-95 DOS Resource Guide/DOS World  Published in Issue #17, September 1994, page ...
+
+**[Wumpus](wumpus/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+375 REM *** INSTRUCTIONS *** PRINT "WELCOME TO 'HUNT THE WUMPUS'" PRINT " THE WUMPUS LIVES IN A C...
+
+**[X-Wing](x-wing/index.md)**
+
+[🐝 DATATECH](datatech.md) 🔗 [game](game.md), [star wars](star-wars.md), [legacy](legacy.md)
+
+PRINT "ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿" PRINT "³ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿³"...
+
+**[Zodiac](zodiac/index.md)**
+
+[🐝 Paulunknown](paulunknown.md) 🔗 [game](game.md), [legacy](legacy.md)
+
+PRINT "Game created by Paulunknown" PRINT "Thanks for playing. Please give me some comments on th...

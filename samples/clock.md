@@ -1,4 +1,4 @@
-[Home](https://qb64.com) • [News](../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../samples.md) • [Inform](../inform.md) • [GX](../gx.md) • [QBjs](../qbjs.md) • [Community](../community.md) • [More...](../more.md)
+[Home](https://qb64.com) • [News](../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../samples.md) • [InForm](../inform.md) • [GX](../gx.md) • [QBjs](../qbjs.md) • [Community](../community.md) • [More...](../more.md)
 
 ## SAMPLES: CLOCK
 
@@ -19,3 +19,9 @@
 [🐝 Alan Zeichick](alan-zeichick.md) 🔗 [clock](clock.md)
 
 ' Analog Clock for QBasic ' by Alan Zeichick copyright (c) 1986, 1992 ' Copyright (C) 1992 DOS Re...
+
+**[Time](time/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [clock](clock.md), [legacy](legacy.md)
+
+Simple date/time program.

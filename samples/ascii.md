@@ -1,4 +1,4 @@
-[Home](https://qb64.com) • [News](../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../samples.md) • [Inform](../inform.md) • [GX](../gx.md) • [QBjs](../qbjs.md) • [Community](../community.md) • [More...](../more.md)
+[Home](https://qb64.com) • [News](../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../samples.md) • [InForm](../inform.md) • [GX](../gx.md) • [QBjs](../qbjs.md) • [Community](../community.md) • [More...](../more.md)
 
 ## SAMPLES: ASCII
 
@@ -20,8 +20,20 @@ Drop ascii bombs on target.
 
 If you look close, it spells F-e-l-l-i-p-p-e.
 
+**[Move](move/index.md)**
+
+[🐝 mxmm](mxmm.md) 🔗 [game](game.md), [ascii](ascii.md), [legacy](legacy.md)
+
+PRINT "Welcome to the ultimate ASCII-player game: MOVE!" PRINT "v.1.0                       by mxmm"
+
 **[QBAscii](qbascii/index.md)**
 
 [🐝 Jeremy Munn](jeremy-munn.md) 🔗 [drawing](drawing.md), [ascii](ascii.md)
 
 '***************************************************************************** ' Name:         QB...
+
+**[Rug](rug/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [graphics](graphics.md), [ascii](ascii.md), [legacy](legacy.md)
+
+Simple coloured ascii smilies.

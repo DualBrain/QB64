@@ -1,4 +1,4 @@
-[Home](https://qb64.com) • [News](../../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../../samples.md) • [Inform](../../inform.md) • [GX](../../gx.md) • [QBjs](../../qbjs.md) • [Community](../../community.md) • [More...](../../more.md)
+[Home](https://qb64.com) • [News](../../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../../samples.md) • [InForm](../../inform.md) • [GX](../../gx.md) • [QBjs](../../qbjs.md) • [Community](../../community.md) • [More...](../../more.md)
 
 ## SAMPLE: MANADLA
 
@@ -16,16 +16,9 @@
 '------------------------------------------------------------------------
 ```
 
-### QBjs
-
-> Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
-
-* [LOAD "mandala.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?src=https://qb64.com/samples/manadla/src/mandala.bas)
-* [RUN "mandala.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?mode=auto&src=https://qb64.com/samples/manadla/src/mandala.bas)
-* [PLAY "mandala.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?mode=play&src=https://qb64.com/samples/manadla/src/mandala.bas)
-
 ### File(s)
 
 * [mandala.bas](src/mandala.bas)
+* [mandala_orig.bas](src/mandala_orig.bas)
 
 🔗 [screensaver](../screensaver.md), [9 lines](../9-lines.md)

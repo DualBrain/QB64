@@ -1,4 +1,4 @@
-[Home](https://qb64.com) • [News](news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](samples.md) • [Inform](inform.md) • [GX](gx.md) • [QBjs](qbjs.md) • [Community](community.md) • [More...](more.md)
+[Home](https://qb64.com) • [News](news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](samples.md) • [InForm](inform.md) • [GX](gx.md) • [QBjs](qbjs.md) • [Community](community.md) • [More...](more.md)
 
 ## SAMPLES
 
@@ -47,7 +47,7 @@
 - **[Carols](samples/carols/index.md)** • [Greg Rismoen](samples/greg-rismoen.md) <span style="float: right;">[audio](samples/audio.md), [legacy](samples/legacy.md)</span>
 - **[Castle](samples/castle/index.md)** • [Microsoft](samples/microsoft.md) <span style="float: right;">[game](samples/game.md), [2 player](samples/2-player.md)</span>
 - **[Cave Rider](samples/cave-rider/index.md)** • [Paul Redling](samples/paul-redling.md) <span style="float: right;">[game](samples/game.md), [legacy](samples/legacy.md)</span>
-- **[Chaotic Scattering](samples/chaotic-scattering/index.md)** • [vince](samples/vince.md) <span style="float: right;">[ray tracing](samples/ray-tracing.md), [reflections](samples/reflections.md)</span>
+- **[Chaotic Scattering](samples/chaotic-scattering/index.md)** • [vince](samples/vince.md) <span style="float: right;">[ray tracing](samples/ray-tracing.md), [reflections](samples/reflections.md), [qbjs](samples/qbjs.md)</span>
 - **[Chess QBasic](samples/chess-qbasic/index.md)** • [qbguy](samples/qbguy.md) <span style="float: right;">[game](samples/game.md), [chess](samples/chess.md), [legacy](samples/legacy.md)</span>
 - **[Chess RF](samples/chess-rf/index.md)** • [Richard Frost](samples/richard-frost.md) <span style="float: right;">[game](samples/game.md), [chess](samples/chess.md)</span>
 - **[Circle Intersecting Circle](samples/circle-intersecting-circle/index.md)** • [bplus](samples/bplus.md)  • [STxAxTIC](samples/stxaxtic.md) <span style="float: right;">[geometry](samples/geometry.md), [intersections](samples/intersections.md)</span>
@@ -73,6 +73,7 @@
 - **[Diceit](samples/diceit/index.md)** • [John Mendoza](samples/john-mendoza.md) <span style="float: right;">[game](samples/game.md), [dice](samples/dice.md), [legacy](samples/legacy.md)</span>
 - **[Didris](samples/didris/index.md)** • [Dietmar Moritz](samples/dietmar-moritz.md) <span style="float: right;">[game](samples/game.md), [tetris](samples/tetris.md)</span>
 - **[Die Odds](samples/die-odds/index.md)** • [Tom Sales](samples/tom-sales.md) <span style="float: right;">[statistics](samples/statistics.md), [dos world](samples/dos-world.md), [254 chars](samples/254-chars.md)</span>
+- **[Discrete Cosine Transform](samples/discrete-cosine-transform/index.md)** • [Vince](samples/vince.md) <span style="float: right;">[image processing](samples/image-processing.md), [compression](samples/compression.md), [jpeg](samples/jpeg.md)</span>
 - **[Double Pendulum](samples/double-pendulum/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[physics](samples/physics.md), [pendulum](samples/pendulum.md)</span>
 - **[Dragon Warrior](samples/dragon-warrior/index.md)** • [Cobalt](samples/cobalt.md) <span style="float: right;">[game](samples/game.md), [rpg](samples/rpg.md)</span>
 - **[Dropping Balls](samples/dropping-balls/index.md)** • [bplus](samples/bplus.md) <span style="float: right;">[gravity](samples/gravity.md), [collisions](samples/collisions.md)</span>
@@ -80,6 +81,7 @@
 - **[Eliza](samples/eliza/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[ai](samples/ai.md), [eliza](samples/eliza.md)</span>
 - **[Ellipse Intersecting Line](samples/ellipse-intersecting-line/index.md)** • [STxAxTIC](samples/stxaxtic.md) <span style="float: right;">[geometry](samples/geometry.md), [intersections](samples/intersections.md)</span>
 - **[ESP](samples/esp/index.md)** • [Tom Sales](samples/tom-sales.md) <span style="float: right;">[statistics](samples/statistics.md), [dos world](samples/dos-world.md), [254 chars](samples/254-chars.md)</span>
+- **[Fall Foliage](samples/fall-foliage/index.md)** • [bplus](samples/bplus.md) <span style="float: right;">[zen](samples/zen.md)</span>
 - **[Fibonacci Variations](samples/fibonacci-variations/index.md)** • [STxAxTIC](samples/stxaxtic.md) <span style="float: right;">[fibonacci](samples/fibonacci.md), [spiral](samples/spiral.md)</span>
 - **[Fight](samples/fight/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[legacy](samples/legacy.md)</span>
 - **[Filled Circles and Ellipses](samples/filled-circles-and-ellipses/index.md)** • [QB64 Team 2018](samples/qb64-team-2018.md) <span style="float: right;">[filled circle](samples/filled-circle.md), [ellipse](samples/ellipse.md)</span>
@@ -111,6 +113,7 @@
 - **[Hunter](samples/hunter/index.md)** • [Microsoft](samples/microsoft.md) <span style="float: right;">[game](samples/game.md), [maze](samples/maze.md)</span>
 - **[Hunters Revenge](samples/hunters-revenge/index.md)** • [Ashish Kushwaha](samples/ashish-kushwaha.md) <span style="float: right;">[game](samples/game.md), [shooter](samples/shooter.md)</span>
 - **[Integrators](samples/integrators/index.md)** • [STxAxTIC](samples/stxaxtic.md) <span style="float: right;">[physics](samples/physics.md), [simulation](samples/simulation.md)</span>
+- **[Intrprtr](samples/intrprtr/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[interpreter](samples/interpreter.md), [legacy](samples/legacy.md)</span>
 - **[Inverse Julia Fractal Explorer](samples/inverse-julia-fractal-explorer/index.md)** • [Zom-B](samples/zom-b.md) <span style="float: right;">[fractal](samples/fractal.md), [julia set](samples/julia-set.md)</span>
 - **[InYrFace](samples/inyrface/index.md)** • [Tom Sales](samples/tom-sales.md) <span style="float: right;">[screensaver](samples/screensaver.md), [dos world](samples/dos-world.md), [254 chars](samples/254-chars.md)</span>
 - **[Jpeg Maker](samples/jpeg-maker/index.md)** • [Artelius](samples/artelius.md) <span style="float: right;">[jpeg](samples/jpeg.md), [image manipulation](samples/image-manipulation.md)</span>
@@ -120,6 +123,7 @@
 - **[Kaleidoscope Doodler](samples/kaleidoscope-doodler/index.md)** • [qbguy](samples/qbguy.md) <span style="float: right;">[art](samples/art.md), [drawing](samples/drawing.md)</span>
 - **[Kaleidoscope Mill](samples/kaleidoscope-mill/index.md)** • [Rho Sigma](samples/rho-sigma.md) <span style="float: right;">[screenblanker](samples/screenblanker.md)</span>
 - **[KbdParse](samples/kbdparse/index.md)** • [William W. Sindel](samples/william-w.-sindel.md) <span style="float: right;">[utility](samples/utility.md), [legacy](samples/legacy.md)</span>
+- **[Kite](samples/kite/index.md)** • [mennonite](samples/mennonite.md) <span style="float: right;">[legacy](samples/legacy.md)</span>
 - **[Lens Simulator](samples/lens-simulator/index.md)** • [STxAxTIC](samples/stxaxtic.md) <span style="float: right;">[2d](samples/2d.md), [ray tracer](samples/ray-tracer.md)</span>
 - **[Letter Blast](samples/letter-blast/index.md)** • [A&A De Pasquale](samples/a&a-de-pasquale.md) <span style="float: right;">[game](samples/game.md), [letter](samples/letter.md), [dos world](samples/dos-world.md)</span>
 - **[LFX](samples/lfx/index.md)** • [Jon Mark O'Connor](samples/jon-mark-o'connor.md) <span style="float: right;">[graphics](samples/graphics.md), [dos world](samples/dos-world.md)</span>
@@ -143,8 +147,10 @@
 - **[Mandelbrot Spiral](samples/mandelbrot-spiral/index.md)** • [qbguy](samples/qbguy.md) <span style="float: right;">[fractal](samples/fractal.md), [mandelbrot](samples/mandelbrot.md)</span>
 - **[Mandelbrot Zoomer](samples/mandelbrot-zoomer/index.md)** • [Tor Myklebust](samples/tor-myklebust.md) <span style="float: right;">[fractal](samples/fractal.md), [mandelbrot](samples/mandelbrot.md)</span>
 - **[Maptriangle in 3D](samples/maptriangle-in-3d/index.md)** • [Petr](samples/petr.md) <span style="float: right;">[3d](samples/3d.md), [maptriangle](samples/maptriangle.md)</span>
+- **[Maryann](samples/maryann/index.md)** • [Donald Foster](samples/donald-foster.md) <span style="float: right;">[game](samples/game.md)</span>
+- **[Matrix](samples/matrix/index.md)** • [Antoni Gual](samples/antoni-gual.md) <span style="float: right;">[martix](samples/martix.md), [9 lines](samples/9-lines.md)</span>
 - **[Matrix Effect](samples/matrix-effect/index.md)** • [TylerDarko](samples/tylerdarko.md) <span style="float: right;">[ascii](samples/ascii.md), [matrix](samples/matrix.md)</span>
-- **[Mazes of Misery](samples/mazes-of-misery/index.md)** • [Steve M.](samples/steve-m..md) <span style="float: right;">[game](samples/game.md), [maze](samples/maze.md)</span>
+- **[Maze of Misery](samples/maze-of-misery/index.md)** • [Steve M.](samples/steve-m..md) <span style="float: right;">[game](samples/game.md), [maze](samples/maze.md)</span>
 - **[Measure](samples/measure/index.md)** • [A&A De Pasquale](samples/a&a-de-pasquale.md) <span style="float: right;">[measure](samples/measure.md), [dos world](samples/dos-world.md)</span>
 - **[Mini Clock](samples/mini-clock/index.md)** • [Folker Fritz](samples/folker-fritz.md) <span style="float: right;">[clock](samples/clock.md), [desktop](samples/desktop.md)</span>
 - **[Money](samples/money/index.md)** • [Microsoft](samples/microsoft.md) <span style="float: right;">[data management](samples/data-management.md)</span>
@@ -152,14 +158,19 @@
 - **[Monopoly Custom](samples/monopoly-custom/index.md)** • [grahambhg](samples/grahambhg.md) <span style="float: right;">[game](samples/game.md), [monopoly](samples/monopoly.md), [legacy](samples/legacy.md)</span>
 - **[Moon Lander](samples/moon-lander/index.md)** • [Richard Frost](samples/richard-frost.md) <span style="float: right;">[game](samples/game.md), [lander](samples/lander.md)</span>
 - **[Mooncrap](samples/mooncrap/index.md)** • [Daniel Kupfer](samples/daniel-kupfer.md) <span style="float: right;">[game](samples/game.md), [space invaders](samples/space-invaders.md), [legacy](samples/legacy.md)</span>
+- **[Move](samples/move/index.md)** • [mxmm](samples/mxmm.md) <span style="float: right;">[game](samples/game.md), [ascii](samples/ascii.md), [legacy](samples/legacy.md)</span>
+- **[MrGuessIt](samples/mrguessit/index.md)** • [John Mendoza](samples/john-mendoza.md) <span style="float: right;">[game](samples/game.md), [legacy](samples/legacy.md)</span>
 - **[MS Phone](samples/ms-phone/index.md)** • [Microsoft](samples/microsoft.md) <span style="float: right;">[data management](samples/data-management.md)</span>
 - **[Multi-Mill](samples/multi-mill/index.md)** • [Rho Sigma](samples/rho-sigma.md) <span style="float: right;">[screenblanker](samples/screenblanker.md)</span>
 - **[MyCraft](samples/mycraft/index.md)** • [Galleon](samples/galleon.md) <span style="float: right;">[game](samples/game.md), [minecraft](samples/minecraft.md)</span>
 - **[Mystify](samples/mystify/index.md)** • [Rho Sigma](samples/rho-sigma.md) <span style="float: right;">[screenblanker](samples/screenblanker.md)</span>
 - **[Names](samples/names/index.md)** • [David Bannon](samples/david-bannon.md) <span style="float: right;">[data management](samples/data-management.md), [dos world](samples/dos-world.md)</span>
 - **[Nibbles](samples/nibbles/index.md)** • [Microsoft](samples/microsoft.md) <span style="float: right;">[game](samples/game.md), [snake](samples/snake.md)</span>
+- **[NightSky](samples/nightsky/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[graphics](samples/graphics.md), [legacy](samples/legacy.md)</span>
 - **[Number Blaster](samples/number-blaster/index.md)** • [R. K. Fink](samples/r.-k.-fink.md) <span style="float: right;">[game](samples/game.md), [dos world](samples/dos-world.md)</span>
+- **[Outwit](samples/outwit/index.md)** • [Donald Foster](samples/donald-foster.md) <span style="float: right;">[game](samples/game.md)</span>
 - **[Parabolas](samples/parabolas/index.md)** • [STxAxTIC](samples/stxaxtic.md) <span style="float: right;">[zen](samples/zen.md)</span>
+- **[ParseLine](samples/parseline/index.md)** • [Rho Sigma](samples/rho-sigma.md) <span style="float: right;">[data management](samples/data-management.md), [parsing](samples/parsing.md)</span>
 - **[Particle Fountain](samples/particle-fountain/index.md)** • [bplus](samples/bplus.md) <span style="float: right;">[particles](samples/particles.md)</span>
 - **[Pattern](samples/pattern/index.md)** • [Antoni Gual](samples/antoni-gual.md) <span style="float: right;">[screensaver](samples/screensaver.md), [9 lines](samples/9-lines.md)</span>
 - **[Pattern Editor](samples/pattern-editor/index.md)** • [Abacus](samples/abacus.md) <span style="float: right;">[art](samples/art.md), [pattern](samples/pattern.md)</span>
@@ -171,8 +182,10 @@
 - **[PixelPlus](samples/pixelplus/index.md)** • [Chris Chadwick](samples/chris-chadwick.md) <span style="float: right;">[graphics](samples/graphics.md), [bitmap](samples/bitmap.md)</span>
 - **[Plasma Effect](samples/plasma-effect/index.md)** • [Cyperium](samples/cyperium.md) <span style="float: right;">[graphics](samples/graphics.md), [plasma](samples/plasma.md)</span>
 - **[Plasma Non-Pal](samples/plasma-non-pal/index.md)** • [Relsoft](samples/relsoft.md) <span style="float: right;">[screensaver](samples/screensaver.md), [plasma](samples/plasma.md)</span>
+- **[Plasma Waves](samples/plasma-waves/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[screensaver](samples/screensaver.md), [plasma](samples/plasma.md)</span>
 - **[Platform](samples/platform/index.md)** • [Fellippe Heitor](samples/fellippe-heitor.md) <span style="float: right;">[game](samples/game.md), [platform](samples/platform.md)</span>
-- **[Plumeria](samples/plumeria/index.md)** • [Vince](samples/vince.md) <span style="float: right;">[2d](samples/2d.md), [graphics](samples/graphics.md)</span>
+- **[Plumeria](samples/plumeria/index.md)** • [Vince](samples/vince.md) <span style="float: right;">[2d](samples/2d.md), [graphics](samples/graphics.md), [qbjs](samples/qbjs.md)</span>
+- **[Pong BJ](samples/pong-bj/index.md)** • [bj mccann](samples/bj-mccann.md) <span style="float: right;">[game](samples/game.md), [pong](samples/pong.md), [legacy](samples/legacy.md)</span>
 - **[Pong Tennis](samples/pong-tennis/index.md)** • [Alex Beighton](samples/alex-beighton.md) <span style="float: right;">[game](samples/game.md), [pong](samples/pong.md), [legacy](samples/legacy.md)</span>
 - **[Pull-down Menu](samples/pull-down-menu/index.md)** • [Abacus](samples/abacus.md) <span style="float: right;">[gui](samples/gui.md), [menu](samples/menu.md)</span>
 - **[QB Clock](samples/qb-clock/index.md)** • [Alan Zeichick](samples/alan-zeichick.md) <span style="float: right;">[clock](samples/clock.md)</span>
@@ -189,18 +202,25 @@
 - **[QSpace](samples/qspace/index.md)** • [Microsoft](samples/microsoft.md) <span style="float: right;">[game](samples/game.md), [defense](samples/defense.md)</span>
 - **[QSynth](samples/qsynth/index.md)** • [Microsoft](samples/microsoft.md) <span style="float: right;">[sound](samples/sound.md), [music](samples/music.md)</span>
 - **[QTrek](samples/qtrek/index.md)** • [Philipp Strathausen](samples/philipp-strathausen.md) <span style="float: right;">[game](samples/game.md), [space shooter](samples/space-shooter.md)</span>
+- **[QuitBox](samples/quitbox/index.md)** • [eoredson](samples/eoredson.md) <span style="float: right;">[tui](samples/tui.md)</span>
 - **[Rattler](samples/rattler/index.md)** • [Bob Seguin](samples/bob-seguin.md) <span style="float: right;">[game](samples/game.md), [snake](samples/snake.md)</span>
 - **[Ray Tracer Z](samples/ray-tracer-z/index.md)** • [Zom-B](samples/zom-b.md) <span style="float: right;">[3d](samples/3d.md), [ray tracer](samples/ray-tracer.md)</span>
 - **[RayCaster](samples/raycaster/index.md)** • [Antoni Gual](samples/antoni-gual.md) <span style="float: right;">[3d](samples/3d.md), [raycaster](samples/raycaster.md)</span>
 - **[Rectong](samples/rectong/index.md)** • [Mike Chambers](samples/mike-chambers.md) <span style="float: right;">[game](samples/game.md), [pong](samples/pong.md), [legacy](samples/legacy.md)</span>
 - **[Relief 3D](samples/relief-3d/index.md)** • [Danilin](samples/danilin.md) <span style="float: right;">[graphics](samples/graphics.md), [isometric](samples/isometric.md)</span>
 - **[Reversi](samples/reversi/index.md)** • [Microsoft](samples/microsoft.md) <span style="float: right;">[game](samples/game.md)</span>
+- **[RightTriangle](samples/righttriangle/index.md)** • [T.A. Giles](samples/t.a.-giles.md) <span style="float: right;">[geometry](samples/geometry.md), [legacy](samples/legacy.md)</span>
 - **[Ripples](samples/ripples/index.md)** • [Antoni Gual](samples/antoni-gual.md) <span style="float: right;">[image processing](samples/image-processing.md), [ripple](samples/ripple.md)</span>
 - **[Robo Raider](samples/robo-raider/index.md)** • [Kevin](samples/kevin.md) <span style="float: right;">[game](samples/game.md)</span>
 - **[Rockets](samples/rockets/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[screensaver](samples/screensaver.md), [particles](samples/particles.md)</span>
+- **[Rotate](samples/rotate/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[geometry](samples/geometry.md), [legacy](samples/legacy.md)</span>
+- **[RotoZoom3](samples/rotozoom3/index.md)** • [Galleon](samples/galleon.md)  • [bplus](samples/bplus.md) <span style="float: right;">[graphics](samples/graphics.md), [rotozoom](samples/rotozoom.md)</span>
 - **[Rotozoomer](samples/rotozoomer/index.md)** • [Antoni Gual](samples/antoni-gual.md) <span style="float: right;">[screensaver](samples/screensaver.md), [9 lines](samples/9-lines.md)</span>
+- **[Rug](samples/rug/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[graphics](samples/graphics.md), [ascii](samples/ascii.md), [legacy](samples/legacy.md)</span>
 - **[Saver](samples/saver/index.md)** • [David Ferrier](samples/david-ferrier.md) <span style="float: right;">[screensaver](samples/screensaver.md), [dos world](samples/dos-world.md)</span>
 - **[Schemat](samples/schemat/index.md)** • [Leif J. Burrow](samples/leif-j.-burrow.md) <span style="float: right;">[circuits](samples/circuits.md), [schematics](samples/schematics.md)</span>
+- **[Scramble](samples/scramble/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[game](samples/game.md), [legacy](samples/legacy.md)</span>
+- **[Screen Tester](samples/screen-tester/index.md)** • [patz2009](samples/patz2009.md) <span style="float: right;">[graphics](samples/graphics.md), [utility](samples/utility.md), [legacy](samples/legacy.md)</span>
 - **[Set Fire to Rain](samples/set-fire-to-rain/index.md)** • [Fellippe Heitor](samples/fellippe-heitor.md) <span style="float: right;">[game](samples/game.md), [zen](samples/zen.md)</span>
 - **[Shooter](samples/shooter/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[game](samples/game.md), [shooter](samples/shooter.md)</span>
 - **[ShootUp](samples/shootup/index.md)** • [Nixon](samples/nixon.md) <span style="float: right;">[game](samples/game.md), [legacy](samples/legacy.md)</span>
@@ -208,6 +228,7 @@
 - **[Simpire](samples/simpire/index.md)** • [Pyrus](samples/pyrus.md) <span style="float: right;">[game](samples/game.md), [legacy](samples/legacy.md)</span>
 - **[Sine Wave Explorer](samples/sine-wave-explorer/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[trigonometry](samples/trigonometry.md)</span>
 - **[SineCube](samples/sinecube/index.md)** • [Mennonite](samples/mennonite.md) <span style="float: right;">[graphics](samples/graphics.md)</span>
+- **[SkyDiver](samples/skydiver/index.md)** • [Jeremy Ruten](samples/jeremy-ruten.md) <span style="float: right;">[game](samples/game.md), [legacy](samples/legacy.md)</span>
 - **[Slot](samples/slot/index.md)** • [Tom Sales](samples/tom-sales.md) <span style="float: right;">[money](samples/money.md), [dos world](samples/dos-world.md), [254 chars](samples/254-chars.md)</span>
 - **[Snake Basic](samples/snake-basic/index.md)** • [pcluddite](samples/pcluddite.md) <span style="float: right;">[game](samples/game.md), [snake](samples/snake.md)</span>
 - **[Sokoban](samples/sokoban/index.md)** • [David Joffe](samples/david-joffe.md) <span style="float: right;">[game](samples/game.md), [puzzle](samples/puzzle.md)</span>
@@ -217,19 +238,29 @@
 - **[Space64](samples/space64/index.md)** • [Cyperium](samples/cyperium.md) <span style="float: right;">[game](samples/game.md), [space shooter](samples/space-shooter.md)</span>
 - **[Spaceship](samples/spaceship/index.md)** • [Fellippe Heitor](samples/fellippe-heitor.md) <span style="float: right;">[game](samples/game.md), [space shooter](samples/space-shooter.md)</span>
 - **[Splines](samples/splines/index.md)** • [Rho Sigma](samples/rho-sigma.md) <span style="float: right;">[screenblanker](samples/screenblanker.md)</span>
+- **[SplitJoin](samples/splitjoin/index.md)** • [luke](samples/luke.md) <span style="float: right;">[data management](samples/data-management.md), [split](samples/split.md)</span>
+- **[Square Counter](samples/square-counter/index.md)** • [Paulunknown](samples/paulunknown.md) <span style="float: right;">[legacy](samples/legacy.md)</span>
+- **[SSaver](samples/ssaver/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[screensaver](samples/screensaver.md), [legacy](samples/legacy.md)</span>
+- **[Star Battles](samples/star-battles/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[game](samples/game.md), [2 player](samples/2-player.md), [legacy](samples/legacy.md)</span>
 - **[Starfield](samples/starfield/index.md)** • [Antoni Gual](samples/antoni-gual.md) <span style="float: right;">[starfield](samples/starfield.md), [9 lines](samples/9-lines.md)</span>
 - **[Starfield Torus](samples/starfield-torus/index.md)** • [JKC](samples/jkc.md) <span style="float: right;">[starfield](samples/starfield.md)</span>
 - **[Stock Watcher](samples/stock-watcher/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[money](samples/money.md), [stocks](samples/stocks.md)</span>
+- **[Stones](samples/stones/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[game](samples/game.md), [legacy](samples/legacy.md)</span>
+- **[Sudoku](samples/sudoku/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[legacy](samples/legacy.md)</span>
 - **[Super Mario Jump](samples/super-mario-jump/index.md)** • [Terry Ritchie](samples/terry-ritchie.md) <span style="float: right;">[game](samples/game.md), [mario](samples/mario.md)</span>
 - **[Temperature Conversion](samples/temperature-conversion/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[science](samples/science.md), [legacy](samples/legacy.md)</span>
 - **[Template DW](samples/template-dw/index.md)** • [Tim Syrop](samples/tim-syrop.md) <span style="float: right;">[tui](samples/tui.md), [dos world](samples/dos-world.md)</span>
+- **[Temple](samples/temple/index.md)** • [John Belew](samples/john-belew.md) <span style="float: right;">[game](samples/game.md), [legacy](samples/legacy.md)</span>
 - **[Texel Raytracer](samples/texel-raytracer/index.md)** • [Antoni Gual](samples/antoni-gual.md) <span style="float: right;">[3d](samples/3d.md), [ray tracing](samples/ray-tracing.md)</span>
+- **[Thick Lines](samples/thick-lines/index.md)** • [Fellippe Heitor](samples/fellippe-heitor.md) <span style="float: right;">[graphics](samples/graphics.md), [line](samples/line.md)</span>
 - **[Tic Tac Toe](samples/tic-tac-toe/index.md)** • [Paul Meyer](samples/paul-meyer.md) <span style="float: right;">[game](samples/game.md), [tic tac toe](samples/tic-tac-toe.md)</span>
 - **[Tic Tac Toe 3D](samples/tic-tac-toe-3d/index.md)** • [qbguy](samples/qbguy.md) <span style="float: right;">[game](samples/game.md), [tic tac toe](samples/tic-tac-toe.md)</span>
 - **[Tic Tac Toe Rings](samples/tic-tac-toe-rings/index.md)** • [Fellippe Heitor](samples/fellippe-heitor.md) <span style="float: right;">[game](samples/game.md), [tic tac toe rings](samples/tic-tac-toe-rings.md)</span>
 - **[Tile Demo](samples/tile-demo/index.md)** • [Greg Ennen](samples/greg-ennen.md) <span style="float: right;">[tile](samples/tile.md), [dos world](samples/dos-world.md), [qbjs](samples/qbjs.md)</span>
 - **[Tile Engine Test](samples/tile-engine-test/index.md)** • [Abacus](samples/abacus.md) <span style="float: right;">[art](samples/art.md), [tile](samples/tile.md)</span>
 - **[Tile Experiment](samples/tile-experiment/index.md)** • [Greg Ennen](samples/greg-ennen.md) <span style="float: right;">[tile](samples/tile.md), [dos world](samples/dos-world.md)</span>
+- **[Time](samples/time/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[clock](samples/clock.md), [legacy](samples/legacy.md)</span>
+- **[Torneo NDC](samples/torneo-ndc/index.md)** • [FGR SOFTWARE](samples/fgr-software.md) <span style="float: right;">[game](samples/game.md), [legacy](samples/legacy.md)</span>
 - **[Torus Demo](samples/torus-demo/index.md)** • [Microsoft](samples/microsoft.md) <span style="float: right;">[geometry](samples/geometry.md), [torus](samples/torus.md)</span>
 - **[Tower of Hanoi](samples/tower-of-hanoi/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[game](samples/game.md), [tower](samples/tower.md)</span>
 - **[Trig Demo](samples/trig-demo/index.md)** • [STxAxTIC](samples/stxaxtic.md) <span style="float: right;">[trigonometry](samples/trigonometry.md)</span>
@@ -237,9 +268,14 @@
 - **[Turtle Graphics](samples/turtle-graphics/index.md)** • [triggered](samples/triggered.md) <span style="float: right;">[fractal](samples/fractal.md), [turtle graphics](samples/turtle-graphics.md), [qbjs](samples/qbjs.md)</span>
 - **[Twirl](samples/twirl/index.md)** • [Antoni Gual](samples/antoni-gual.md) <span style="float: right;">[screensaver](samples/screensaver.md), [9 lines](samples/9-lines.md)</span>
 - **[Vector Field](samples/vector-field/index.md)** • [STxAxTIC](samples/stxaxtic.md) <span style="float: right;">[2d](samples/2d.md), [vectors](samples/vectors.md)</span>
+- **[Vektor](samples/vektor/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[geometry](samples/geometry.md), [legacy](samples/legacy.md)</span>
 - **[Vortex](samples/vortex/index.md)** • [Antoni Gual](samples/antoni-gual.md) <span style="float: right;">[screensaver](samples/screensaver.md), [9 lines](samples/9-lines.md)</span>
+- **[VSphere](samples/vsphere/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[geometry](samples/geometry.md), [legacy](samples/legacy.md)</span>
 - **[Water](samples/water/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[wave motion](samples/wave-motion.md)</span>
 - **[Wetspot](samples/wetspot/index.md)** • [Angelo Mottola](samples/angelo-mottola.md) <span style="float: right;">[game](samples/game.md), [legacy](samples/legacy.md)</span>
 - **[Wheel O](samples/wheel-o/index.md)** • [Tom Sales](samples/tom-sales.md) <span style="float: right;">[game](samples/game.md), [dos world](samples/dos-world.md), [254 chars](samples/254-chars.md)</span>
 - **[Worms](samples/worms/index.md)** • [Rho Sigma](samples/rho-sigma.md) <span style="float: right;">[screenblanker](samples/screenblanker.md)</span>
+- **[Wumpus](samples/wumpus/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[game](samples/game.md), [legacy](samples/legacy.md)</span>
+- **[X-Wing](samples/x-wing/index.md)** • [DATATECH](samples/datatech.md) <span style="float: right;">[game](samples/game.md), [star wars](samples/star-wars.md), [legacy](samples/legacy.md)</span>
 - **[XE Hex Editor](samples/xe-hex-editor/index.md)** • [Dav](samples/dav.md) <span style="float: right;">[editor](samples/editor.md), [hex](samples/hex.md)</span>
+- **[Zodiac](samples/zodiac/index.md)** • [Paulunknown](samples/paulunknown.md) <span style="float: right;">[game](samples/game.md), [legacy](samples/legacy.md)</span>

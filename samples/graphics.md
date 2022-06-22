@@ -1,4 +1,4 @@
-[Home](https://qb64.com) • [News](../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../samples.md) • [Inform](../inform.md) • [GX](../gx.md) • [QBjs](../qbjs.md) • [Community](../community.md) • [More...](../more.md)
+[Home](https://qb64.com) • [News](../news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](../samples.md) • [InForm](../inform.md) • [GX](../gx.md) • [QBjs](../qbjs.md) • [Community](../community.md) • [More...](../more.md)
 
 ## SAMPLES: GRAPHICS
 
@@ -56,6 +56,12 @@ Graphical Lissajou's Figures.  For added eye-candy-ness, I've changed the plot l
 
 'MakeBig.bas: 'This program reads data statements and uses pset to draw the 'pixel color they rep...
 
+**[NightSky](nightsky/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [graphics](graphics.md), [legacy](legacy.md)
+
+Simple night sky & moon.
+
 **[PixelPlus](pixelplus/index.md)**
 
 [🐝 Chris Chadwick](chris-chadwick.md) 🔗 [graphics](graphics.md), [bitmap](bitmap.md)
@@ -70,7 +76,7 @@ Use the left mousebutton to draw a line, change color with the right mousebutton
 
 **[Plumeria](plumeria/index.md)**
 
-[🐝 Vince](vince.md) 🔗 [2d](2d.md), [graphics](graphics.md)
+[🐝 Vince](vince.md) 🔗 [2d](2d.md), [graphics](graphics.md), [qbjs](qbjs.md)
 
 Plumeria demo by Vince.
 
@@ -80,8 +86,32 @@ Plumeria demo by Vince.
 
 Isometric 3D demo.
 
+**[RotoZoom3](rotozoom3/index.md)**
+
+[🐝 Galleon](galleon.md) [🐝 bplus](bplus.md) 🔗 [graphics](graphics.md), [rotozoom](rotozoom.md)
+
+A modification of Galleon's RotoZoom in Wiki that both scales and rotates an image, this version ...
+
+**[Rug](rug/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [graphics](graphics.md), [ascii](ascii.md), [legacy](legacy.md)
+
+Simple coloured ascii smilies.
+
+**[Screen Tester](screen-tester/index.md)**
+
+[🐝 patz2009](patz2009.md) 🔗 [graphics](graphics.md), [utility](utility.md), [legacy](legacy.md)
+
+' PQBC Screen Tester '-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-...
+
 **[SineCube](sinecube/index.md)**
 
 [🐝 Mennonite](mennonite.md) 🔗 [graphics](graphics.md)
 
 'sinecube 2006 mennonite 'public domain
+
+**[Thick Lines](thick-lines/index.md)**
+
+[🐝 Fellippe Heitor](fellippe-heitor.md) 🔗 [graphics](graphics.md), [line](line.md)
+
+This can be used to draw a line with a specified lineWidth.
