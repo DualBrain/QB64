@@ -42,9 +42,9 @@ Sorry, I've no idea how to do it on MacOS or Linux, any info about it from peopl
 
 > Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
 
-* [LOAD "splines.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?src=https://qb64.com/samples/splines/src/splines.bas)
-* [RUN "splines.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?mode=auto&src=https://qb64.com/samples/splines/src/splines.bas)
-* [PLAY "splines.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?mode=play&src=https://qb64.com/samples/splines/src/splines.bas)
+* [LOAD "splines.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?src=https://qb64.com/samples/splines/src/splines.bas)
+* [RUN "splines.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=auto&src=https://qb64.com/samples/splines/src/splines.bas)
+* [PLAY "splines.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=play&src=https://qb64.com/samples/splines/src/splines.bas)
 
 ### File(s)
 

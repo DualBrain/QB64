@@ -61,9 +61,9 @@ September 1993, page 49).
 
 > Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
 
-* [LOAD "amort.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?src=https://qb64.com/samples/loan-amortization/src/amort.bas)
-* [RUN "amort.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?mode=auto&src=https://qb64.com/samples/loan-amortization/src/amort.bas)
-* [PLAY "amort.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?mode=play&src=https://qb64.com/samples/loan-amortization/src/amort.bas)
+* [LOAD "amort.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?src=https://qb64.com/samples/loan-amortization/src/amort.bas)
+* [RUN "amort.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=auto&src=https://qb64.com/samples/loan-amortization/src/amort.bas)
+* [PLAY "amort.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=play&src=https://qb64.com/samples/loan-amortization/src/amort.bas)
 
 ### File(s)
 

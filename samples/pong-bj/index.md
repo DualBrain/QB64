@@ -20,9 +20,9 @@ PRINT "                            programed by bj mccann"
 
 > Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
 
-* [LOAD "pongsource.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?src=https://qb64.com/samples/pong-bj/src/pongsource.bas)
-* [RUN "pongsource.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?mode=auto&src=https://qb64.com/samples/pong-bj/src/pongsource.bas)
-* [PLAY "pongsource.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?mode=play&src=https://qb64.com/samples/pong-bj/src/pongsource.bas)
+* [LOAD "pongsource.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?src=https://qb64.com/samples/pong-bj/src/pongsource.bas)
+* [RUN "pongsource.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=auto&src=https://qb64.com/samples/pong-bj/src/pongsource.bas)
+* [PLAY "pongsource.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=play&src=https://qb64.com/samples/pong-bj/src/pongsource.bas)
 
 ### File(s)
 
