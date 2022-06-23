@@ -22,9 +22,9 @@ Glen Jeh, 8/12/1994, William Yu (05-28-96)
 
 > Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
 
-* [LOAD "globe.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?src=https://qb64.com/samples/globe/src/globe.bas)
-* [RUN "globe.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?mode=auto&src=https://qb64.com/samples/globe/src/globe.bas)
-* [PLAY "globe.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/5963335/index.html?mode=play&src=https://qb64.com/samples/globe/src/globe.bas)
+* [LOAD "globe.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?src=https://qb64.com/samples/globe/src/globe.bas)
+* [RUN "globe.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=auto&src=https://qb64.com/samples/globe/src/globe.bas)
+* [PLAY "globe.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=play&src=https://qb64.com/samples/globe/src/globe.bas)
 
 ### File(s)
 
