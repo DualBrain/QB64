@@ -20,9 +20,9 @@ The game is played on an 8x8 checkered board with 8 round discs lined up on each
 
 > Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
 
-* [LOAD "maryann.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?src=https://qb64.com/samples/maryann/src/maryann.bas)
-* [RUN "maryann.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=auto&src=https://qb64.com/samples/maryann/src/maryann.bas)
-* [PLAY "maryann.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=play&src=https://qb64.com/samples/maryann/src/maryann.bas)
+* [LOAD "maryann.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?src=https://qb64.com/samples/maryann/src/maryann.bas)
+* [RUN "maryann.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=auto&src=https://qb64.com/samples/maryann/src/maryann.bas)
+* [PLAY "maryann.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=play&src=https://qb64.com/samples/maryann/src/maryann.bas)
 
 ### File(s)
 

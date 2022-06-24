@@ -23,9 +23,9 @@ The chips are setup in the middle of the board at start. Each player plays alter
 
 > Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
 
-* [LOAD "outwit.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?src=https://qb64.com/samples/outwit/src/outwit.bas)
-* [RUN "outwit.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=auto&src=https://qb64.com/samples/outwit/src/outwit.bas)
-* [PLAY "outwit.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=play&src=https://qb64.com/samples/outwit/src/outwit.bas)
+* [LOAD "outwit.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?src=https://qb64.com/samples/outwit/src/outwit.bas)
+* [RUN "outwit.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=auto&src=https://qb64.com/samples/outwit/src/outwit.bas)
+* [PLAY "outwit.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=play&src=https://qb64.com/samples/outwit/src/outwit.bas)
 
 ### File(s)
 

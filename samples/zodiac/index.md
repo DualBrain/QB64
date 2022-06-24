@@ -25,9 +25,9 @@ PRINT "probably my first game."
 
 > Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
 
-* [LOAD "zodiac4.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?src=https://qb64.com/samples/zodiac/src/zodiac4.bas)
-* [RUN "zodiac4.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=auto&src=https://qb64.com/samples/zodiac/src/zodiac4.bas)
-* [PLAY "zodiac4.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=play&src=https://qb64.com/samples/zodiac/src/zodiac4.bas)
+* [LOAD "zodiac4.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?src=https://qb64.com/samples/zodiac/src/zodiac4.bas)
+* [RUN "zodiac4.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=auto&src=https://qb64.com/samples/zodiac/src/zodiac4.bas)
+* [PLAY "zodiac4.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=play&src=https://qb64.com/samples/zodiac/src/zodiac4.bas)
 
 ### File(s)
 

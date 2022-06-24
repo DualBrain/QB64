@@ -18,9 +18,9 @@ Basic "turtle graphics" setup. Draws a Koch snowflake by default.
 
 > Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
 
-* [LOAD "turtle.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?src=https://qb64.com/samples/turtle-graphics/src/turtle.bas)
-* [RUN "turtle.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=auto&src=https://qb64.com/samples/turtle-graphics/src/turtle.bas)
-* [PLAY "turtle.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=play&src=https://qb64.com/samples/turtle-graphics/src/turtle.bas)
+* [LOAD "turtle.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?src=https://qb64.com/samples/turtle-graphics/src/turtle.bas)
+* [RUN "turtle.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=auto&src=https://qb64.com/samples/turtle-graphics/src/turtle.bas)
+* [PLAY "turtle.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=play&src=https://qb64.com/samples/turtle-graphics/src/turtle.bas)
 
 ### File(s)
 

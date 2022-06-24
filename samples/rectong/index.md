@@ -30,9 +30,9 @@ P.S. QuickBasic source is included.
 
 > Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
 
-* [LOAD "rectong.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?src=https://qb64.com/samples/rectong/src/rectong.bas)
-* [RUN "rectong.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=auto&src=https://qb64.com/samples/rectong/src/rectong.bas)
-* [PLAY "rectong.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=play&src=https://qb64.com/samples/rectong/src/rectong.bas)
+* [LOAD "rectong.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?src=https://qb64.com/samples/rectong/src/rectong.bas)
+* [RUN "rectong.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=auto&src=https://qb64.com/samples/rectong/src/rectong.bas)
+* [PLAY "rectong.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=play&src=https://qb64.com/samples/rectong/src/rectong.bas)
 
 ### File(s)
 

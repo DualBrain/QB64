@@ -18,9 +18,9 @@ The goal is to get four in a row while preventing the computer from doing the sa
 
 > Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
 
-* [LOAD "tictactoe3d.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?src=https://qb64.com/samples/tic-tac-toe-3d/src/tictactoe3d.bas)
-* [RUN "tictactoe3d.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=auto&src=https://qb64.com/samples/tic-tac-toe-3d/src/tictactoe3d.bas)
-* [PLAY "tictactoe3d.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=play&src=https://qb64.com/samples/tic-tac-toe-3d/src/tictactoe3d.bas)
+* [LOAD "tictactoe3d.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?src=https://qb64.com/samples/tic-tac-toe-3d/src/tictactoe3d.bas)
+* [RUN "tictactoe3d.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=auto&src=https://qb64.com/samples/tic-tac-toe-3d/src/tictactoe3d.bas)
+* [PLAY "tictactoe3d.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=play&src=https://qb64.com/samples/tic-tac-toe-3d/src/tictactoe3d.bas)
 
 ### File(s)
 

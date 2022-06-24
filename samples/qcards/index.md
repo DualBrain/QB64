@@ -18,9 +18,9 @@ A simple database using a cardfile user interface by Microsoft.
 
 > Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
 
-* [LOAD "qcards.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?src=https://qb64.com/samples/qcards/src/qcards.bas)
-* [RUN "qcards.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=auto&src=https://qb64.com/samples/qcards/src/qcards.bas)
-* [PLAY "qcards.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=play&src=https://qb64.com/samples/qcards/src/qcards.bas)
+* [LOAD "qcards.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?src=https://qb64.com/samples/qcards/src/qcards.bas)
+* [RUN "qcards.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=auto&src=https://qb64.com/samples/qcards/src/qcards.bas)
+* [PLAY "qcards.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=play&src=https://qb64.com/samples/qcards/src/qcards.bas)
 
 ### File(s)
 

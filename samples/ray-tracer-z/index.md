@@ -18,9 +18,9 @@ This is a ray tracer I've been working on for the past 6 years. Well, on and off
 
 > Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
 
-* [LOAD "ray-tracer-zomb.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?src=https://qb64.com/samples/ray-tracer-z/src/ray-tracer-zomb.bas)
-* [RUN "ray-tracer-zomb.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=auto&src=https://qb64.com/samples/ray-tracer-z/src/ray-tracer-zomb.bas)
-* [PLAY "ray-tracer-zomb.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6022890/index.html?mode=play&src=https://qb64.com/samples/ray-tracer-z/src/ray-tracer-zomb.bas)
+* [LOAD "ray-tracer-zomb.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?src=https://qb64.com/samples/ray-tracer-z/src/ray-tracer-zomb.bas)
+* [RUN "ray-tracer-zomb.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=auto&src=https://qb64.com/samples/ray-tracer-z/src/ray-tracer-zomb.bas)
+* [PLAY "ray-tracer-zomb.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=play&src=https://qb64.com/samples/ray-tracer-z/src/ray-tracer-zomb.bas)
 
 ### File(s)
 
