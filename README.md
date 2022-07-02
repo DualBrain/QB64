@@ -44,7 +44,7 @@ There are several people in the community with projects that serve to compliment
 
 ### What is InForm?
 
-![InForm1](images/inform1.png)
+![InForm1](images/inform_designer_v1_3.png)
 
 [InForm](inform.md) is a Rapid Application Development tool for QB64. It consists of a library of graphical routines and a WYSIWYG editor that allows you to design forms and export the resulting code to generate an event-driven QB64 program.
 
