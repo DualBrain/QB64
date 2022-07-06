@@ -18,9 +18,9 @@ Frogger game by Matt Bross.
 
 > Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
 
-* [LOAD "frog.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?src=https://qb64.com/samples/frogger/src/frog.bas)
-* [RUN "frog.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=auto&src=https://qb64.com/samples/frogger/src/frog.bas)
-* [PLAY "frog.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=play&src=https://qb64.com/samples/frogger/src/frog.bas)
+* [LOAD "frog.bas"](https://qbjs.org/index.html?src=https://qb64.com/samples/frogger/src/frog.bas)
+* [RUN "frog.bas"](https://qbjs.org/index.html?mode=auto&src=https://qb64.com/samples/frogger/src/frog.bas)
+* [PLAY "frog.bas"](https://qbjs.org/index.html?mode=play&src=https://qb64.com/samples/frogger/src/frog.bas)
 
 ### File(s)
 

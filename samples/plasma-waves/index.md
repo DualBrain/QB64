@@ -18,9 +18,9 @@ Oh, I guess I was experimenting with circle drawing here too.
 
 > Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
 
-* [LOAD "plasmawaves.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?src=https://qb64.com/samples/plasma-waves/src/plasmawaves.bas)
-* [RUN "plasmawaves.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=auto&src=https://qb64.com/samples/plasma-waves/src/plasmawaves.bas)
-* [PLAY "plasmawaves.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=play&src=https://qb64.com/samples/plasma-waves/src/plasmawaves.bas)
+* [LOAD "plasmawaves.bas"](https://qbjs.org/index.html?src=https://qb64.com/samples/plasma-waves/src/plasmawaves.bas)
+* [RUN "plasmawaves.bas"](https://qbjs.org/index.html?mode=auto&src=https://qb64.com/samples/plasma-waves/src/plasmawaves.bas)
+* [PLAY "plasmawaves.bas"](https://qbjs.org/index.html?mode=play&src=https://qb64.com/samples/plasma-waves/src/plasmawaves.bas)
 
 ### File(s)
 

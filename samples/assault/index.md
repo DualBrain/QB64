@@ -18,9 +18,9 @@ This is a game of weapons and destruction that relies upon the properties of phy
 
 > Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
 
-* [LOAD "assault.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?src=https://qb64.com/samples/assault/src/assault.bas)
-* [RUN "assault.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=auto&src=https://qb64.com/samples/assault/src/assault.bas)
-* [PLAY "assault.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=play&src=https://qb64.com/samples/assault/src/assault.bas)
+* [LOAD "assault.bas"](https://qbjs.org/index.html?src=https://qb64.com/samples/assault/src/assault.bas)
+* [RUN "assault.bas"](https://qbjs.org/index.html?mode=auto&src=https://qb64.com/samples/assault/src/assault.bas)
+* [PLAY "assault.bas"](https://qbjs.org/index.html?mode=play&src=https://qb64.com/samples/assault/src/assault.bas)
 
 ### File(s)
 

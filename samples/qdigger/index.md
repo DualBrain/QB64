@@ -18,9 +18,9 @@ A DIGGER game clone by RETROQB45.
 
 > Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
 
-* [LOAD "qdigger.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?src=https://qb64.com/samples/qdigger/src/qdigger.bas)
-* [RUN "qdigger.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=auto&src=https://qb64.com/samples/qdigger/src/qdigger.bas)
-* [PLAY "qdigger.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=play&src=https://qb64.com/samples/qdigger/src/qdigger.bas)
+* [LOAD "qdigger.bas"](https://qbjs.org/index.html?src=https://qb64.com/samples/qdigger/src/qdigger.bas)
+* [RUN "qdigger.bas"](https://qbjs.org/index.html?mode=auto&src=https://qb64.com/samples/qdigger/src/qdigger.bas)
+* [PLAY "qdigger.bas"](https://qbjs.org/index.html?mode=play&src=https://qb64.com/samples/qdigger/src/qdigger.bas)
 
 ### File(s)
 

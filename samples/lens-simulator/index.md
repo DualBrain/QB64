@@ -18,9 +18,9 @@ This program simulates light rays passing through a lens with a given index of r
 
 > Please note that QBjs is still in early development and support for these examples is extremely experimental (meaning will most likely not work). With that out of the way, give it a try!
 
-* [LOAD "lens-simulator.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?src=https://qb64.com/samples/lens-simulator/src/lens-simulator.bas)
-* [RUN "lens-simulator.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=auto&src=https://qb64.com/samples/lens-simulator/src/lens-simulator.bas)
-* [PLAY "lens-simulator.bas"](https://v6p9d9t4.ssl.hwcdn.net/html/6029471/index.html?mode=play&src=https://qb64.com/samples/lens-simulator/src/lens-simulator.bas)
+* [LOAD "lens-simulator.bas"](https://qbjs.org/index.html?src=https://qb64.com/samples/lens-simulator/src/lens-simulator.bas)
+* [RUN "lens-simulator.bas"](https://qbjs.org/index.html?mode=auto&src=https://qb64.com/samples/lens-simulator/src/lens-simulator.bas)
+* [PLAY "lens-simulator.bas"](https://qbjs.org/index.html?mode=play&src=https://qb64.com/samples/lens-simulator/src/lens-simulator.bas)
 
 ### File(s)
 
