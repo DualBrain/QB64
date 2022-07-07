@@ -26,4 +26,4 @@ Vector field demonstration.
 
 * [vector-field.bas](src/vector-field.bas)
 
-🔗 [2d](../2d.md), [vectors](../vectors.md)
+🔗 [2d](../2d.md), [vectors](../vectors.md), [qbjs](../qbjs.md)

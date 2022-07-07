@@ -22,4 +22,4 @@
 
 * [vsphere.bas](src/vsphere.bas)
 
-🔗 [geometry](../geometry.md), [legacy](../legacy.md)
+🔗 [geometry](../geometry.md), [legacy](../legacy.md), [qbjs](../qbjs.md)

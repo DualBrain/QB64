@@ -70,6 +70,6 @@ Trivial trigonometry demo.
 
 **[Vector Field](vector-field/index.md)**
 
-[🐝 STxAxTIC](stxaxtic.md) 🔗 [2d](2d.md), [vectors](vectors.md)
+[🐝 STxAxTIC](stxaxtic.md) 🔗 [2d](2d.md), [vectors](vectors.md), [qbjs](qbjs.md)
 
 Vector field demonstration.

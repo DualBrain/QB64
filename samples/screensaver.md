@@ -112,7 +112,7 @@ Screensaver with rocket-like particles.
 
 **[SSaver](ssaver/index.md)**
 
-[🐝 *missing*](author-missing.md) 🔗 [screensaver](screensaver.md), [legacy](legacy.md)
+[🐝 *missing*](author-missing.md) 🔗 [screensaver](screensaver.md), [legacy](legacy.md), [qbjs](qbjs.md)
 
 Filled circle screensaver.
 

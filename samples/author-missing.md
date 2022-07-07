@@ -166,7 +166,7 @@ PRINT "Instructions:" PRINT STRING$(13, 196) PRINT " "; CHR$(254); " The object 
 
 **[Sierpinski Fractal](sierpinski-fractal/index.md)**
 
-[🐝 *missing*](author-missing.md) 🔗 [fractal](fractal.md), [triangle](triangle.md), [legacy](legacy.md)
+[🐝 *missing*](author-missing.md) 🔗 [fractal](fractal.md), [triangle](triangle.md), [legacy](legacy.md), [qbjs](qbjs.md)
 
 The legendary fractal.
 
@@ -178,7 +178,7 @@ Sine Wave Explorer
 
 **[SSaver](ssaver/index.md)**
 
-[🐝 *missing*](author-missing.md) 🔗 [screensaver](screensaver.md), [legacy](legacy.md)
+[🐝 *missing*](author-missing.md) 🔗 [screensaver](screensaver.md), [legacy](legacy.md), [qbjs](qbjs.md)
 
 Filled circle screensaver.
 
@@ -232,7 +232,7 @@ Fly around a plane of dots.  PRINT "Welcome to my second go at displaying" PRINT
 
 **[VSphere](vsphere/index.md)**
 
-[🐝 *missing*](author-missing.md) 🔗 [geometry](geometry.md), [legacy](legacy.md)
+[🐝 *missing*](author-missing.md) 🔗 [geometry](geometry.md), [legacy](legacy.md), [qbjs](qbjs.md)
 
 'This is a program that calculates the volume of a sphere.
 

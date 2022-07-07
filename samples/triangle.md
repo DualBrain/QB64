@@ -4,6 +4,6 @@
 
 **[Sierpinski Fractal](sierpinski-fractal/index.md)**
 
-[🐝 *missing*](author-missing.md) 🔗 [fractal](fractal.md), [triangle](triangle.md), [legacy](legacy.md)
+[🐝 *missing*](author-missing.md) 🔗 [fractal](fractal.md), [triangle](triangle.md), [legacy](legacy.md), [qbjs](qbjs.md)
 
 The legendary fractal.

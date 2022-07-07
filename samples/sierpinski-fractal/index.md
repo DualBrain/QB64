@@ -22,4 +22,4 @@ The legendary fractal.
 
 * [frac1.bas](src/frac1.bas)
 
-🔗 [fractal](../fractal.md), [triangle](../triangle.md), [legacy](../legacy.md)
+🔗 [fractal](../fractal.md), [triangle](../triangle.md), [legacy](../legacy.md), [qbjs](../qbjs.md)

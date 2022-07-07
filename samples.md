@@ -224,7 +224,7 @@
 - **[Set Fire to Rain](samples/set-fire-to-rain/index.md)** • [Fellippe Heitor](samples/fellippe-heitor.md) <span style="float: right;">[game](samples/game.md), [zen](samples/zen.md)</span>
 - **[Shooter](samples/shooter/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[game](samples/game.md), [shooter](samples/shooter.md)</span>
 - **[ShootUp](samples/shootup/index.md)** • [Nixon](samples/nixon.md) <span style="float: right;">[game](samples/game.md), [legacy](samples/legacy.md)</span>
-- **[Sierpinski Fractal](samples/sierpinski-fractal/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[fractal](samples/fractal.md), [triangle](samples/triangle.md), [legacy](samples/legacy.md)</span>
+- **[Sierpinski Fractal](samples/sierpinski-fractal/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[fractal](samples/fractal.md), [triangle](samples/triangle.md), [legacy](samples/legacy.md), [qbjs](samples/qbjs.md)</span>
 - **[Simpire](samples/simpire/index.md)** • [Pyrus](samples/pyrus.md) <span style="float: right;">[game](samples/game.md), [legacy](samples/legacy.md)</span>
 - **[Sine Wave Explorer](samples/sine-wave-explorer/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[trigonometry](samples/trigonometry.md)</span>
 - **[SineCube](samples/sinecube/index.md)** • [Mennonite](samples/mennonite.md) <span style="float: right;">[graphics](samples/graphics.md)</span>
@@ -240,7 +240,7 @@
 - **[Splines](samples/splines/index.md)** • [Rho Sigma](samples/rho-sigma.md) <span style="float: right;">[screenblanker](samples/screenblanker.md)</span>
 - **[SplitJoin](samples/splitjoin/index.md)** • [luke](samples/luke.md) <span style="float: right;">[data management](samples/data-management.md), [split](samples/split.md)</span>
 - **[Square Counter](samples/square-counter/index.md)** • [Paulunknown](samples/paulunknown.md) <span style="float: right;">[legacy](samples/legacy.md)</span>
-- **[SSaver](samples/ssaver/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[screensaver](samples/screensaver.md), [legacy](samples/legacy.md)</span>
+- **[SSaver](samples/ssaver/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[screensaver](samples/screensaver.md), [legacy](samples/legacy.md), [qbjs](samples/qbjs.md)</span>
 - **[Star Battles](samples/star-battles/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[game](samples/game.md), [2 player](samples/2-player.md), [legacy](samples/legacy.md)</span>
 - **[Starfield](samples/starfield/index.md)** • [Antoni Gual](samples/antoni-gual.md) <span style="float: right;">[starfield](samples/starfield.md), [9 lines](samples/9-lines.md)</span>
 - **[Starfield Torus](samples/starfield-torus/index.md)** • [JKC](samples/jkc.md) <span style="float: right;">[starfield](samples/starfield.md)</span>
@@ -267,10 +267,10 @@
 - **[TUI](samples/tui/index.md)** • [Fellippe Heitor](samples/fellippe-heitor.md) <span style="float: right;">[interface](samples/interface.md), [tui](samples/tui.md)</span>
 - **[Turtle Graphics](samples/turtle-graphics/index.md)** • [triggered](samples/triggered.md) <span style="float: right;">[fractal](samples/fractal.md), [turtle graphics](samples/turtle-graphics.md), [qbjs](samples/qbjs.md)</span>
 - **[Twirl](samples/twirl/index.md)** • [Antoni Gual](samples/antoni-gual.md) <span style="float: right;">[screensaver](samples/screensaver.md), [9 lines](samples/9-lines.md)</span>
-- **[Vector Field](samples/vector-field/index.md)** • [STxAxTIC](samples/stxaxtic.md) <span style="float: right;">[2d](samples/2d.md), [vectors](samples/vectors.md)</span>
+- **[Vector Field](samples/vector-field/index.md)** • [STxAxTIC](samples/stxaxtic.md) <span style="float: right;">[2d](samples/2d.md), [vectors](samples/vectors.md), [qbjs](samples/qbjs.md)</span>
 - **[Vektor](samples/vektor/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[geometry](samples/geometry.md), [legacy](samples/legacy.md)</span>
 - **[Vortex](samples/vortex/index.md)** • [Antoni Gual](samples/antoni-gual.md) <span style="float: right;">[screensaver](samples/screensaver.md), [9 lines](samples/9-lines.md)</span>
-- **[VSphere](samples/vsphere/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[geometry](samples/geometry.md), [legacy](samples/legacy.md)</span>
+- **[VSphere](samples/vsphere/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[geometry](samples/geometry.md), [legacy](samples/legacy.md), [qbjs](samples/qbjs.md)</span>
 - **[Water](samples/water/index.md)** • [*missing*](samples/author-missing.md) <span style="float: right;">[wave motion](samples/wave-motion.md)</span>
 - **[Wetspot](samples/wetspot/index.md)** • [Angelo Mottola](samples/angelo-mottola.md) <span style="float: right;">[game](samples/game.md), [legacy](samples/legacy.md)</span>
 - **[Wheel O](samples/wheel-o/index.md)** • [Tom Sales](samples/tom-sales.md) <span style="float: right;">[game](samples/game.md), [dos world](samples/dos-world.md), [254 chars](samples/254-chars.md)</span>

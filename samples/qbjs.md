@@ -98,6 +98,18 @@ Plumeria demo by Vince.
 
 Isometric 3D demo.
 
+**[Sierpinski Fractal](sierpinski-fractal/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [fractal](fractal.md), [triangle](triangle.md), [legacy](legacy.md), [qbjs](qbjs.md)
+
+The legendary fractal.
+
+**[SSaver](ssaver/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [screensaver](screensaver.md), [legacy](legacy.md), [qbjs](qbjs.md)
+
+Filled circle screensaver.
+
 **[Tile Demo](tile-demo/index.md)**
 
 [🐝 Greg Ennen](greg-ennen.md) 🔗 [tile](tile.md), [dos world](dos-world.md), [qbjs](qbjs.md)
@@ -109,3 +121,15 @@ Isometric 3D demo.
 [🐝 triggered](triggered.md) 🔗 [fractal](fractal.md), [turtle graphics](turtle-graphics.md), [qbjs](qbjs.md)
 
 Basic "turtle graphics" setup. Draws a Koch snowflake by default.
+
+**[Vector Field](vector-field/index.md)**
+
+[🐝 STxAxTIC](stxaxtic.md) 🔗 [2d](2d.md), [vectors](vectors.md), [qbjs](qbjs.md)
+
+Vector field demonstration.
+
+**[VSphere](vsphere/index.md)**
+
+[🐝 *missing*](author-missing.md) 🔗 [geometry](geometry.md), [legacy](legacy.md), [qbjs](qbjs.md)
+
+'This is a program that calculates the volume of a sphere.

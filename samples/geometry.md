@@ -52,6 +52,6 @@ Fly around a plane of dots.  PRINT "Welcome to my second go at displaying" PRINT
 
 **[VSphere](vsphere/index.md)**
 
-[🐝 *missing*](author-missing.md) 🔗 [geometry](geometry.md), [legacy](legacy.md)
+[🐝 *missing*](author-missing.md) 🔗 [geometry](geometry.md), [legacy](legacy.md), [qbjs](qbjs.md)
 
 'This is a program that calculates the volume of a sphere.

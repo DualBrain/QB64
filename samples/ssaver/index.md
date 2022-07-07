@@ -22,4 +22,4 @@ Filled circle screensaver.
 
 * [ssaver.bas](src/ssaver.bas)
 
-🔗 [screensaver](../screensaver.md), [legacy](../legacy.md)
+🔗 [screensaver](../screensaver.md), [legacy](../legacy.md), [qbjs](../qbjs.md)
