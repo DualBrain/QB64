@@ -20,6 +20,10 @@ Some planning has taken place and we can announce that work has begun on first f
 
 -- Cory Smith
 
+### 2022-07-06
+
+[QBjs](qbjs.md) has just [released v0.5.0-beta](https://github.com/boxgaming/qbjs/discussions/32) that adds `Data`, `Read` and `Restore`, a significant parser update, improved error reporting and 35 new keywords!
+
 ### 2022-05-18
 
 [QBjs](qbjs.md) has just [released v0.4.0-beta](https://github.com/boxgaming/qbjs/discussions/24) that adds simple sharing via url embedding, standard libraries and a host of additions, fixes and updates.
