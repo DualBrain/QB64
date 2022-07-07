@@ -36,4 +36,4 @@ When the program reaches the maximum value, it loops back to the beginning.
 
 * [inyrface.bas](src/inyrface.bas)
 
-🔗 [screensaver](../screensaver.md), [dos world](../dos-world.md), [254 chars](../254-chars.md)
+🔗 [screensaver](../screensaver.md), [dos world](../dos-world.md), [254 chars](../254-chars.md), [qbjs](../qbjs.md)

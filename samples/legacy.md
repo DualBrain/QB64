@@ -148,7 +148,7 @@ Deedlines Sax...  A pure Qbasic demo done by connecting various older or newer s
 
 **[Diceit](diceit/index.md)**
 
-[🐝 John Mendoza](john-mendoza.md) 🔗 [game](game.md), [dice](dice.md), [legacy](legacy.md)
+[🐝 John Mendoza](john-mendoza.md) 🔗 [game](game.md), [dice](dice.md), [legacy](legacy.md), [qbjs](qbjs.md)
 
 'This is a very simple dice game. I am still new at Qb so please humor me. 'Also, Thank You for d...
 
@@ -214,7 +214,7 @@ Flying kite demo.  '2007 mennonite 'public domain
 
 **[MakeBig](makebig/index.md)**
 
-[🐝 *missing*](author-missing.md) 🔗 [graphics](graphics.md), [legacy](legacy.md)
+[🐝 *missing*](author-missing.md) 🔗 [graphics](graphics.md), [legacy](legacy.md), [qbjs](qbjs.md)
 
 'MakeBig.bas: 'This program reads data statements and uses pset to draw the 'pixel color they rep...
 

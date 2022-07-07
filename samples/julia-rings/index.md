@@ -26,7 +26,7 @@ Automated Julia set explorer.
 
 * [juliarings.bas](src/juliarings.bas)
 
-🔗 [fractal](../fractal.md), [julia set](../julia-set.md)
+🔗 [fractal](../fractal.md), [julia set](../julia-set.md), [qbjs](../qbjs.md)
 
 
 <sub>Reference: [qb64forum](https://qb64forum.alephc.xyz/index.php?topic=1045.0) </sub>

@@ -60,4 +60,4 @@ page 45).
 
 * [dec_frac.bas](src/dec_frac.bas)
 
-🔗 [math](../math.md), [dos world](../dos-world.md)
+🔗 [math](../math.md), [dos world](../dos-world.md), [qbjs](../qbjs.md)

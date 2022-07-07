@@ -10,6 +10,6 @@ The longer you hold your mouse at one position, the more it starts to glow.
 
 **[Julia Rings](julia-rings/index.md)**
 
-[🐝 Relsoft](relsoft.md) 🔗 [fractal](fractal.md), [julia set](julia-set.md)
+[🐝 Relsoft](relsoft.md) 🔗 [fractal](fractal.md), [julia set](julia-set.md), [qbjs](qbjs.md)
 
 Automated Julia set explorer.

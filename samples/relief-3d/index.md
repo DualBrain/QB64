@@ -26,4 +26,4 @@ Isometric 3D demo.
 
 * [relief3d.bas](src/relief3d.bas)
 
-🔗 [graphics](../graphics.md), [isometric](../isometric.md)
+🔗 [graphics](../graphics.md), [isometric](../isometric.md), [qbjs](../qbjs.md)

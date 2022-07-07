@@ -22,7 +22,7 @@
 
 **[Bubbles](bubbles/index.md)**
 
-[🐝 Tom Sales](tom-sales.md) 🔗 [screensaver](screensaver.md), [dos world](dos-world.md), [254 chars](254-chars.md)
+[🐝 Tom Sales](tom-sales.md) 🔗 [screensaver](screensaver.md), [dos world](dos-world.md), [254 chars](254-chars.md), [qbjs](qbjs.md)
 
 Copyright (C) 1994-95 DOS Resource Guide/DOS World  Published in Issue #17, September 1994, page ...
 
@@ -52,7 +52,7 @@ Copyright (C) 1994-95 DOS Resource Guide/DOS World  Published in Issue #17, Sept
 
 **[Dec to Frac](dec-to-frac/index.md)**
 
-[🐝 A&A De Pasquale](a&a-de-pasquale.md) 🔗 [math](math.md), [dos world](dos-world.md)
+[🐝 A&A De Pasquale](a&a-de-pasquale.md) 🔗 [math](math.md), [dos world](dos-world.md), [qbjs](qbjs.md)
 
 '  DEC_FRAC.BAS - Fraction/Decimal conversion functions '                and sample program  '  b...
 
@@ -88,13 +88,13 @@ Copyright (C) 1994-95 DOS Resource Guide/DOS World  Published in Issue #17, Sept
 
 **[Globs 0](globs-0/index.md)**
 
-[🐝 Tom Sales](tom-sales.md) 🔗 [screensaver](screensaver.md), [dos world](dos-world.md), [254 chars](254-chars.md)
+[🐝 Tom Sales](tom-sales.md) 🔗 [screensaver](screensaver.md), [dos world](dos-world.md), [254 chars](254-chars.md), [qbjs](qbjs.md)
 
 Copyright (C) 1994-95 DOS Resource Guide/DOS World  Published in Issue #17, September 1994, page ...
 
 **[Globs 1](globs-1/index.md)**
 
-[🐝 Rick Ellis](rick-ellis.md) 🔗 [screensaver](screensaver.md), [dos world](dos-world.md), [254 chars](254-chars.md)
+[🐝 Rick Ellis](rick-ellis.md) 🔗 [screensaver](screensaver.md), [dos world](dos-world.md), [254 chars](254-chars.md), [qbjs](qbjs.md)
 
 Copyright (C) 1994-95 DOS Resource Guide/DOS World  Published in Issue #17, September 1994, page ...
 
@@ -106,7 +106,7 @@ Copyright (C) 1994-95 DOS Resource Guide/DOS World  Published in Issue #17, Sept
 
 **[InYrFace](inyrface/index.md)**
 
-[🐝 Tom Sales](tom-sales.md) 🔗 [screensaver](screensaver.md), [dos world](dos-world.md), [254 chars](254-chars.md)
+[🐝 Tom Sales](tom-sales.md) 🔗 [screensaver](screensaver.md), [dos world](dos-world.md), [254 chars](254-chars.md), [qbjs](qbjs.md)
 
 Copyright (C) 1994-95 DOS Resource Guide/DOS World  Published in Issue #17, September 1994, page ...
 

@@ -29,4 +29,4 @@ REM Created 8/27/04
 
 * [diceit.bas](src/diceit.bas)
 
-🔗 [game](../game.md), [dice](../dice.md), [legacy](../legacy.md)
+🔗 [game](../game.md), [dice](../dice.md), [legacy](../legacy.md), [qbjs](../qbjs.md)

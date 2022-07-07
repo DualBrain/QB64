@@ -4,7 +4,7 @@
 
 **[Circle Intersecting Circle](circle-intersecting-circle/index.md)**
 
-[🐝 bplus](bplus.md) [🐝 STxAxTIC](stxaxtic.md) 🔗 [geometry](geometry.md), [intersections](intersections.md)
+[🐝 bplus](bplus.md) [🐝 STxAxTIC](stxaxtic.md) 🔗 [geometry](geometry.md), [intersections](intersections.md), [qbjs](qbjs.md)
 
 Here we present two (equivalent) methods for calculating the intersection points between any two ...
 

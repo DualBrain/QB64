@@ -26,7 +26,7 @@ Line segments intersecting.
 
 * [linesegments.bas](src/linesegments.bas)
 
-🔗 [geometry](../geometry.md), [intersections](../intersections.md)
+🔗 [geometry](../geometry.md), [intersections](../intersections.md), [qbjs](../qbjs.md)
 
 
 <sub>Reference: [qb64forum](https://qb64forum.alephc.xyz/index.php?topic=2342.0) </sub>

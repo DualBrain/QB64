@@ -34,4 +34,4 @@ GLOBS.BAS displays ever-changing monochrome "globs" on your screen.
 
 * [globs.bas](src/globs.bas)
 
-🔗 [screensaver](../screensaver.md), [dos world](../dos-world.md), [254 chars](../254-chars.md)
+🔗 [screensaver](../screensaver.md), [dos world](../dos-world.md), [254 chars](../254-chars.md), [qbjs](../qbjs.md)

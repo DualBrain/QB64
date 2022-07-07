@@ -52,7 +52,7 @@ Graphical Lissajou's Figures.  For added eye-candy-ness, I've changed the plot l
 
 **[MakeBig](makebig/index.md)**
 
-[🐝 *missing*](author-missing.md) 🔗 [graphics](graphics.md), [legacy](legacy.md)
+[🐝 *missing*](author-missing.md) 🔗 [graphics](graphics.md), [legacy](legacy.md), [qbjs](qbjs.md)
 
 'MakeBig.bas: 'This program reads data statements and uses pset to draw the 'pixel color they rep...
 
@@ -82,7 +82,7 @@ Plumeria demo by Vince.
 
 **[Relief 3D](relief-3d/index.md)**
 
-[🐝 Danilin](danilin.md) 🔗 [graphics](graphics.md), [isometric](isometric.md)
+[🐝 Danilin](danilin.md) 🔗 [graphics](graphics.md), [isometric](isometric.md), [qbjs](qbjs.md)
 
 Isometric 3D demo.
 

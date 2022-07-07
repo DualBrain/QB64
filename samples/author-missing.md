@@ -106,7 +106,7 @@ Misc. interpreter.
 
 **[MakeBig](makebig/index.md)**
 
-[🐝 *missing*](author-missing.md) 🔗 [graphics](graphics.md), [legacy](legacy.md)
+[🐝 *missing*](author-missing.md) 🔗 [graphics](graphics.md), [legacy](legacy.md), [qbjs](qbjs.md)
 
 'MakeBig.bas: 'This program reads data statements and uses pset to draw the 'pixel color they rep...
 

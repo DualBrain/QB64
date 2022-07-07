@@ -16,7 +16,7 @@ Various experiments in software 3D graphics. Warning: Uses no functions or subs!
 
 **[Circle Intersecting Circle](circle-intersecting-circle/index.md)**
 
-[🐝 bplus](bplus.md) [🐝 STxAxTIC](stxaxtic.md) 🔗 [geometry](geometry.md), [intersections](intersections.md)
+[🐝 bplus](bplus.md) [🐝 STxAxTIC](stxaxtic.md) 🔗 [geometry](geometry.md), [intersections](intersections.md), [qbjs](qbjs.md)
 
 Here we present two (equivalent) methods for calculating the intersection points between any two ...
 
@@ -28,7 +28,7 @@ This program demonstrates (i) linear interpolation to create a curve between poi
 
 **[Ellipse Intersecting Line](ellipse-intersecting-line/index.md)**
 
-[🐝 STxAxTIC](stxaxtic.md) 🔗 [geometry](geometry.md), [intersections](intersections.md)
+[🐝 STxAxTIC](stxaxtic.md) 🔗 [geometry](geometry.md), [intersections](intersections.md), [qbjs](qbjs.md)
 
 ... all I could think is "why stop at circles when you can do ellipses?"
 
@@ -52,7 +52,7 @@ This program simulates light rays passing through a lens with a given index of r
 
 **[Lines Intersecting](lines-intersecting/index.md)**
 
-[🐝 STxAxTIC](stxaxtic.md) 🔗 [geometry](geometry.md), [intersections](intersections.md)
+[🐝 STxAxTIC](stxaxtic.md) 🔗 [geometry](geometry.md), [intersections](intersections.md), [qbjs](qbjs.md)
 
 Line segments intersecting.
 

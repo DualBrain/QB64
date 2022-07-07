@@ -34,4 +34,4 @@ GLOBS1.BAS is an improved version that makes the globs look more "glob-like."
 
 * [globs1.bas](src/globs1.bas)
 
-🔗 [screensaver](../screensaver.md), [dos world](../dos-world.md), [254 chars](../254-chars.md)
+🔗 [screensaver](../screensaver.md), [dos world](../dos-world.md), [254 chars](../254-chars.md), [qbjs](../qbjs.md)

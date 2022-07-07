@@ -26,7 +26,7 @@ Here we present two (equivalent) methods for calculating the intersection points
 
 * [circleintersectcircle.bas](src/circleintersectcircle.bas)
 
-🔗 [geometry](../geometry.md), [intersections](../intersections.md)
+🔗 [geometry](../geometry.md), [intersections](../intersections.md), [qbjs](../qbjs.md)
 
 
 <sub>Reference: [qb64forum](https://qb64forum.alephc.xyz/index.php?topic=2299.0) </sub>

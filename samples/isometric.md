@@ -4,6 +4,6 @@
 
 **[Relief 3D](relief-3d/index.md)**
 
-[🐝 Danilin](danilin.md) 🔗 [graphics](graphics.md), [isometric](isometric.md)
+[🐝 Danilin](danilin.md) 🔗 [graphics](graphics.md), [isometric](isometric.md), [qbjs](qbjs.md)
 
 Isometric 3D demo.

@@ -10,7 +10,7 @@
 
 **[Julia Rings](julia-rings/index.md)**
 
-[🐝 Relsoft](relsoft.md) 🔗 [fractal](fractal.md), [julia set](julia-set.md)
+[🐝 Relsoft](relsoft.md) 🔗 [fractal](fractal.md), [julia set](julia-set.md), [qbjs](qbjs.md)
 
 Automated Julia set explorer.
 

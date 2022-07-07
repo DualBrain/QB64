@@ -32,4 +32,4 @@
 
 * [binarycounter.bas](src/binarycounter.bas)
 
-🔗 [binary](../binary.md), [counter](../counter.md)
+🔗 [binary](../binary.md), [counter](../counter.md), [qbjs](../qbjs.md)

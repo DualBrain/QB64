@@ -10,6 +10,6 @@ Averages 5 test scores.
 
 **[Dec to Frac](dec-to-frac/index.md)**
 
-[🐝 A&A De Pasquale](a&a-de-pasquale.md) 🔗 [math](math.md), [dos world](dos-world.md)
+[🐝 A&A De Pasquale](a&a-de-pasquale.md) 🔗 [math](math.md), [dos world](dos-world.md), [qbjs](qbjs.md)
 
 '  DEC_FRAC.BAS - Fraction/Decimal conversion functions '                and sample program  '  b...

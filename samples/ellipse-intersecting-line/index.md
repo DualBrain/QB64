@@ -26,7 +26,7 @@
 
 * [ellipse-intersect-line.bas](src/ellipse-intersect-line.bas)
 
-🔗 [geometry](../geometry.md), [intersections](../intersections.md)
+🔗 [geometry](../geometry.md), [intersections](../intersections.md), [qbjs](../qbjs.md)
 
 
 <sub>Reference: [qb64forum](https://qb64forum.alephc.xyz/index.php?topic=2302.0) </sub>

@@ -4,6 +4,6 @@
 
 **[Binary Counter](binary-counter/index.md)**
 
-[🐝 rpgfan3233](rpgfan3233.md) 🔗 [binary](binary.md), [counter](counter.md)
+[🐝 rpgfan3233](rpgfan3233.md) 🔗 [binary](binary.md), [counter](counter.md), [qbjs](qbjs.md)
 
 ' This program is a 12-bit Binary counter, displayed using a 3x4 grid. ' It was created in the ho...

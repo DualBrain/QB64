@@ -25,4 +25,4 @@
 
 * [makebig.bas](src/makebig.bas)
 
-🔗 [graphics](../graphics.md), [legacy](../legacy.md)
+🔗 [graphics](../graphics.md), [legacy](../legacy.md), [qbjs](../qbjs.md)
