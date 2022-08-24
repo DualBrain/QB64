@@ -10,6 +10,13 @@ If you would like to contribute a missing artifact, please reach out to us.
 
 This section is certainly incomplete, but it does provide a good start to review the overall evolution of QB64 over the years.
 
+#### Samples
+
+Here are several options for downloading the /programs/samples/ folder included with the QB64 download until 2018.
+
+[samples.zip](downloads/samples.zip)
+[samples.7z](downloads/samples.7z)
+
 #### OpenGL
 
 - Version 2.0.2 see [releases](https://github.com/QB64Team/qb64/releases/tag/v2.0.2)
