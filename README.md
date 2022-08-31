@@ -4,13 +4,18 @@
 
 ## Get QB64
 
-- [Download QB64](https://github.com/QB64Team/qb64/releases/tag/v2.0.2)
-- [Development build(s)](dev.md) 
-- [Source Code](github.md)
+Please select the correct package for your OS.
 
-> A brief note regarding the current released version (v2.0.2, November 2021); it is still available via the now "disbanded" QB64Team repo; a new release is still the in the process awaiting for the dust to settle after the April 2022 "incident".  The 2.0.2 version is currently working except for the built in help system as that was being pulled from the now MIA qb64.org. 
+### Version 2.0.2
 
-> Work is taking place on restoring not only the project bits but on the overall structure/foundation of the QB64 project to protect against the incident around the negative actions of "RCCola" ever happening again - once these tasks are completed, a new release will be made; until then the latest official version of QB64 is v2.0.2.
+- [Download for Windows x64](https://github.com/QB64Team/qb64/releases/download/v2.0.2/qb64_2021-11-07-02-59-30_4d85302_win-x64.zip)
+- [Download for Windows x32](https://github.com/QB64Team/qb64/releases/download/v2.0.2/qb64_2021-11-07-03-00-00_4d85302_win-x86.zip)
+- [Download for Linux](https://github.com/QB64Team/qb64/releases/download/v2.0.2/qb64_2021-11-07-02-59-19_4d85302_lnx.tar.gz)
+- [Download for macOS 'OSX'](https://github.com/QB64Team/qb64/releases/download/v2.0.2/qb64_2021-11-07-02-58-38_4d85302_osx.tar.gz)
+
+> NOTE: It is a known issue that the *wiki* related features in v2.0.2 is no longer functioning; this is being addressed in the next release (v2.1.0). If you wish to preview these changes, be sure to check out the [source repo](github.md).
+
+## Introduction
 
 **How BASIC made its way into the 21st century**
 
@@ -84,4 +89,4 @@ Although a bit controversial to include this on this list, [Roslyn](https://gith
 
 ### What about the qb64.net website/domain?
 
-Please make note that the .net domain for QB64 is highly suspect. Apparently the story goes that someone forgot to renew the domain name and it was snipped by a questionable party that subsequently mirrored the previous websites information and spammed it with dubious advertising. At this point it has nothing to do with QB64 and, ultimately, should be completely avoided given that the content could contain suspect binaries potentially containing malware. Additionally, it's been stated in the community has potentially having malware as part of the site - potentially infecting your machine by simply browsing to it. So, in the end, if you do venture there be sure to excercise caution.
+Please make note that the .net domain for QB64 is highly suspect. Apparently the story goes that someone forgot to renew the domain name and it was snipped by a questionable party that subsequently mirrored the previous websites information and spammed it with dubious advertising. At this point it has nothing to do with QB64 and, ultimately, should be completely avoided given that the content could contain suspect binaries potentially containing malware. Additionally, it's been stated in the community has potentially having malware as part of the site - potentially infecting your machine by simply browsing to it. So, in the end, if you do venture there be sure to exercise caution.
