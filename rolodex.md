@@ -42,7 +42,7 @@ Names are in alphabetical / real-name order.
 
 ### Past Patreon Supporters
 
-We'd like to take a moment to thanks the following individuals for thier willingness to contribute financially to the project.
+We'd like to take a moment to thanks the following individuals for their willingness to contribute financially to the project.
 
 - Garry Chike
 - Jessee G. Donat
