@@ -6,14 +6,18 @@
 
 Please select the correct package for your OS.
 
-### Version 2.0.2
+### Version 2.1
 
-- [Download for Windows x64](https://github.com/QB64Team/qb64/releases/download/v2.0.2/qb64_2021-11-07-02-59-30_4d85302_win-x64.zip)
-- [Download for Windows x32](https://github.com/QB64Team/qb64/releases/download/v2.0.2/qb64_2021-11-07-03-00-00_4d85302_win-x86.zip)
-- [Download for Linux](https://github.com/QB64Team/qb64/releases/download/v2.0.2/qb64_2021-11-07-02-59-19_4d85302_lnx.tar.gz)
-- [Download for macOS 'OSX'](https://github.com/QB64Team/qb64/releases/download/v2.0.2/qb64_2021-11-07-02-58-38_4d85302_osx.tar.gz)
+Please download the correct package for your operating system.
 
-> NOTE: It is a known issue that the *wiki* related features in v2.0.2 is no longer functioning; this is being addressed in the next release (v2.1.0). If you wish to preview these changes, be sure to check out the [source repo](github.md).
+| Operating System | Package |
+| - | - |
+| Windows 64-bit | [Download](https://github.com/QB64Official/qb64/releases/download/v2.1/qb64_dev_2022-09-08-07-14-00_47f5044_win-x64.7z) |
+| Windows 32-bit | [Download](https://github.com/QB64Official/qb64/releases/download/v2.1/qb64_dev_2022-09-08-07-14-00_47f5044_win-x86.7z) |
+| Linux | [Download](https://github.com/QB64Official/qb64/releases/download/v2.1/qb64_dev_2022-09-08-07-14-00_47f5044_lnx.tar.gz) |
+| macOS | [Download](https://github.com/QB64Official/qb64/releases/download/v2.1/qb64_dev_2022-09-08-07-14-00_47f5044_osx.tar.gz) |
+
+> NOTE: For additional instructions on how to setup/configure, please visit the [source repo](github.md).
 
 ## Introduction
 
