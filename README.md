@@ -13,7 +13,7 @@ Please download the correct package for your operating system.
 | Operating System | Package |
 | - | - |
 | Windows 64-bit | [Download](https://github.com/QB64Official/qb64/releases/download/v2.1/qb64_dev_2022-09-08-07-14-00_47f5044_win-x64.7z) |
-| Windows 32-bit | [Download](https://github.com/QB64Official/qb64/releases/download/v2.1/qb64_dev_2022-09-08-07-14-00_47f5044_win-x86.7z) |
+| Windows 32-bit | Coming soon. |
 | Linux | [Download](https://github.com/QB64Official/qb64/releases/download/v2.1/qb64_dev_2022-09-08-07-14-00_47f5044_lnx.tar.gz) |
 | macOS | [Download](https://github.com/QB64Official/qb64/releases/download/v2.1/qb64_dev_2022-09-08-07-14-00_47f5044_osx.tar.gz) |
 
