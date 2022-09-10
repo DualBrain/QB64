@@ -12,9 +12,12 @@ Please download the correct package for your operating system.
 
 | Operating System | Package |
 | - | - |
-| Windows | [Download](https://github.com/QB64Official/qb64/releases/download/v2.1/qb64_dev_2022-09-08-07-14-00_47f5044_win-x64.7z) |
+| Windows x64 | [Download](https://github.com/QB64Official/qb64/releases/download/v2.1/qb64_dev_2022-09-08-07-14-00_47f5044_win-x64.7z) |
+| Windows x86/32-bit | *See below.* |
 | Linux | [Download](https://github.com/QB64Official/qb64/releases/download/v2.1/qb64_dev_2022-09-08-07-14-00_47f5044_lnx.tar.gz) |
 | macOS | [Download](https://github.com/QB64Official/qb64/releases/download/v2.1/qb64_dev_2022-09-08-07-14-00_47f5044_osx.tar.gz) |
+
+*Windows x86/32-bit: Due to an error during the build process, the 32-bit build of QB64 v2.1 is not available; however, this issue is confirmed to be fixed with the next release (v2.1.1). We apologize for the inconvenience this may have caused and ask for your understanding as we continue to iron out the finer details related to the overall release process.*
 
 > NOTE: For additional instructions on how to setup/configure, please visit the [source repo](github.md).
 
