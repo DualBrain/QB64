@@ -6,7 +6,7 @@ A note regarding the below entries labeled as "QB64 Team"; the events of early 2
 
 ### Discord
 
-> Discord is a VoIP and instant messaging platform.  Users have the ability to commuicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers".  A server is a collection of persistent chat rooms and voice chat channels which can be accessed via invite links.  
+> Discord is a VoIP and instant messaging platform.  Users have the ability to communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers".  A server is a collection of persistent chat rooms and voice chat channels which can be accessed via invite links.  
 
 To fill the void considering the loss of the "QB64 Team", a new Discord server has been launched. This new server will follows a published [Code of Conduct](conduct.md).
 
@@ -24,9 +24,9 @@ The following Discord server isn't specific to QB64, but does have a room/channe
 
 ### Facebook
 
-> If you are on Facebook, you can connect with people who share your interests. Meet new poeple, share knowledge or get support.
+> If you are on Facebook, you can connect with people who share your interests. Meet new people, share knowledge or get support.
 
-Regarding *Code of Conduct* on Facebook groups, there are fundamental / basic enforcable guidelines in place for all of Facebook that will carry through to Facebook groups - above and beyone these fundamental guidelines, the rest is up to each individual group. When participating in these groups be sure to review any pinned messages and/or description for specifics.
+Regarding *Code of Conduct* on Facebook groups, there are fundamental / basic enforceable guidelines in place for all of Facebook that will carry through to Facebook groups - above and beyond these fundamental guidelines, the rest is up to each individual group. When participating in these groups be sure to review any pinned messages and/or description for specifics.
 
 Groups...
 
@@ -38,13 +38,12 @@ Pages...
 
 ### Forum
 
-> Going with a more "old-school" approach to online communities, forums provide a great way to get to know people, share knowledge and find help.
+> Going with a more "old-school" approach to on-line communities, forums provide a great way to get to know people, share knowledge and find help.
 
 Unfortunately there aren't any *official* forums for QB64; but with that said there are several forums available that may be of interest.
 
 Although following sites host forums that cater to many dialects of BASIC, each of them have an area dedicated specifically for QB64.
 
-- [The QBasic (and QB64) Forum](https://www.tapatalk.com/groups/qbasic/)
 - [Friends of Basic](https://friends-of-basic.freeforums.net/board/6/qb64)
 - [The Retro Dev](https://www.theretrodev.com/forum/forumdisplay.php?fid=48)
 
@@ -53,7 +52,7 @@ The following forums aren't specific to QB64, but may be of interest...
 - [Basic 4 All](http://basic4all.epizy.com/)
 - [SyntaxBomb](https://www.syntaxbomb.com/)
 
-At one time there was a very active forum dedicated to QB64, but it was shutdown by it's owner (re: "events of early 2022"); thankfully a community member has managed to restore an backup copy and made it available in readonly/archival format.
+At one time there was a very active forum dedicated to QB64, but it was shutdown by it's owner (re: "events of early 2022"); thankfully a community member has managed to restore an backup copy and made it available in read-only/archival format.
 
 - [QB64 Team / QB64.org Forum (Archive/Read-Only)](https://qb64forum.alephc.xyz/index.php)
 
@@ -72,7 +71,7 @@ See [Podcast](podcast.md).
 
 ### Rolodex
 
-See [rolodex.md].
+See [Rolodex](rolodex.md).
 
 ### YouTube
 

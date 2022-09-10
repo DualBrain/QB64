@@ -1,5 +1,37 @@
 [Home](https://qb64.com) • [News](news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](samples.md) • [InForm](inform.md) • [GX](gx.md) • [QBjs](qbjs.md) • [Community](community.md) • [More...](more.md)
 
+### 2022-09-09
+
+*BETA* Release 0.7.0 of [QB64 Extension for Visual Studio Code](https://github.com/QB64Official/vscode/tree/development/releases) available. This thing just keeps getting better and better!
+
+### 2022-09-08
+
+**QB64 releases v2.1!** See details [here](https://github.com/QB64Official/qb64/releases/tag/v2.1). Note that this release is marked as *Pre-release* due to the significant changes related to the build/release process.
+
+### 2022-09-07
+
+Congratulations to @dbox for capturing **SILVER** (second) in the [Jam For All Basic Dialects #3](https://itch.io/jam/jam-for-all-basic-dialects-3/results) representing QB64 and his GX game engine!
+
+### 2022-09-05
+
+*BETA* [QB64 for NP++ v0.2.0](https://github.com/QB64Official/notepadplusplus/releases) released!
+
+### 2022-09-04
+
+*BETA* Things are becoming more polished and functional with the release 0.6.2 of [QB64 Extension for Visual Studio Code](https://github.com/QB64Official/vscode/tree/development/releases). (Note: This is only available in the development branch.)
+
+### 2022-08-26
+
+*BETA* Although still very much a beta, the 0.5.0 build of [QB64 Extension for Visual Studio Code](https://github.com/QB64Official/vscode/tree/main/releases) is really starting to take shape.
+
+### 2022-08-15
+
+*BETA* Use Notepad++, then you should really check out [QB64 for NP++ v0.1.0](https://github.com/QB64Official/notepadplusplus/releases).
+
+### 2022-08-11
+
+*BETA* The first, very early, release of [QB64 Extension for Visual Studio Code](https://github.com/QB64Official/vscode/tree/main/releases) is now available through a manual install (not available in the VSCode Marketplace at this time).
+
 ### 2022-06-09
 
 The [Jam For All Basic Dialects #3](https://itch.io/jam/jam-for-all-basic-dialects-3) contest has been announced!

@@ -2,7 +2,7 @@
 
 ## ROLODEX
 
-This page is dedicated to those individuals who have contributed in the past to the QB64 community either by contribs to the project, sharing information / tutorials / etc. and/or simply have a lot of QB64 content / samples / tips and tricks.
+This page is dedicated to those individuals who have contributed in the past to the QB64 community either by contributions to the project, sharing information / tutorials / etc. and/or simply have a lot of QB64 content / samples / tips and tricks.
 
 ### Contributors
 
@@ -19,6 +19,7 @@ This page is dedicated to those individuals who have contributed in the past to 
 - Ashish Kushwaha: [GitHub](https://github.com/ashishkingdom)
 - Steve McNeill: [GitHub](https://github.com/SteveMcNeill)
 - Alex Myczko: [GitHub](https://github.com/alexmyczko)  
+- Cory Smith: [GitHub](https://github.com/dualbrain)
 - Zachary Spriggs (SpriggsySpriggs): [GitHub](https://github.com/SpriggsySpriggs)
 - Lynn Stricklan: [GitHub](https://github.com/lstricklan)
 - Scott Williams: [GitHub](https://github.com/vwbusguy/) • [QBSH](https://qbsh.org)
