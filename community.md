@@ -14,7 +14,7 @@ The official Discord server follows the published [Code of Conduct](conduct.md).
 
 The following Discord servers are spun up without thought to how the community (which is mostly anonymous) will be managed; meaning no defined *Code of Conduct* or, if some rules do exist, they are very relaxed in being enforced.  Due to this, if you don't "fit in" (*click*) with the existing manager(s) of the server; you could easily be *mistreated* and/or *banned*.  To say this another way, the following have **NO** clearly defined *Code of Conduct* - so experience varies widely and subject to individual tastes.
 
-- [Dark Theme Logic (QB64 and QBjs)](https://discord.com/channels/917123975816052817/917123976336138312)
+- [Dark Theme Logic (QB64 and QBjs)](https://discord.gg/4As4g5tEtd)
 - [QB64FR](https://discord.com/channels/953279107699994624/953279107699994627)
 
 The following Discord server isn't specific to QB64, but does have a channel dedicated to QB64 (it also adheres to a similar [Code of Conduct](conduct.md)):
