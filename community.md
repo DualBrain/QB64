@@ -1,8 +1,25 @@
-[Home](https://qb64.com) • [News](news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](samples.md) • [InForm](inform.md) • [GX](gx.md) • [QBjs](qbjs.md) • [Community](community.md) • [More...](more.md)
+[Home](https://qb64.com) • [Forums](https://qb64.boards.net/) • [News](news.md) • [GitHub](https://github.com/QB64Official/qb64) • [Wiki](https://github.com/QB64Official/qb64/wiki) • [Samples](samples.md) • [InForm](inform.md) • [GX](gx.md) • [QBjs](qbjs.md) • [Community](community.md) • [More...](more.md)
 
 ## Community
 
 There are many ways to connect and interact with other QB64 community members.
+
+### Forum
+
+> Going with a more "traditional" approach to on-line communities, forums provide a great way to get to know people, share knowledge and find help.
+
+- [QB64 Official](https://qb64.boards.net/)
+
+Although the following forums aren't specific to QB64, they may be of interest...
+
+- [SyntaxBomb](https://www.syntaxbomb.com/)
+- [Friends of Basic](https://friends-of-basic.freeforums.net/board/6/qb64)
+- [The Retro Dev](https://www.theretrodev.com/forum/forumdisplay.php?fid=48)
+- [Basic 4 All](http://basic4all.epizy.com/)
+
+There was a previous forum (during the QB64.org era), but it was shutdown by it's owner (re: "events of early 2022"); thankfully a community member has managed to restore an backup copy and made it available in read-only/archival format.
+
+- [Old QB64.org Forum (Archive/Read-Only)](https://qb64forum.alephc.xyz/index.php)
 
 ### Discord
 
@@ -34,26 +51,6 @@ Groups...
 Pages...
 
 - [QB64 In Australia](https://www.facebook.com/QB64-In-Australia-303464540396064)
-
-### Forum
-
-> Going with a more "old-school" approach to on-line communities, forums provide a great way to get to know people, share knowledge and find help.
-
-Unfortunately there isn't currently any *official* forums for QB64; but with that said there are several forums available that may be of interest.
-
-Although following sites host forums that cater to many dialects of BASIC, each of them have an area dedicated specifically for QB64.
-
-- [Friends of Basic](https://friends-of-basic.freeforums.net/board/6/qb64)
-- [The Retro Dev](https://www.theretrodev.com/forum/forumdisplay.php?fid=48)
-
-The following forums aren't specific to QB64, but may be of interest...
-
-- [Basic 4 All](http://basic4all.epizy.com/)
-- [SyntaxBomb](https://www.syntaxbomb.com/)
-
-At one time there was a very active forum dedicated to QB64, but it was shutdown by it's owner (re: "events of early 2022"); thankfully a community member has managed to restore an backup copy and made it available in read-only/archival format.
-
-- [Old QB64.org Forum (Archive/Read-Only)](https://qb64forum.alephc.xyz/index.php)
 
 ### Mastadon
 
