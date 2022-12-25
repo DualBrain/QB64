@@ -1,0 +1,30 @@
+The [EXIT](EXIT) statement is used to exit certain QBasic procedures.
+
+## Syntax
+
+> [EXIT](EXIT) {DO|WHILE|FOR|SUB|FUNCTION|SELECT|CASE}
+
+## Description
+
+* [EXIT](EXIT) leaves any of the following procedures immediately.
+  * [EXIT](EXIT) DO exits a [DO...LOOP](DO...LOOP).
+  * [EXIT](EXIT) WHILE exits a [WHILE...WEND](WHILE...WEND) loop.
+  * [EXIT](EXIT) FOR exits a [FOR...NEXT](FOR...NEXT) counter loop.
+  * [EXIT](EXIT) SUB exits a [SUB](SUB) procedure before it ends. Use before any [GOSUB](GOSUB) procedures using [RETURN](RETURN).
+  * [EXIT](EXIT) FUNCTION exits a [FUNCTION](FUNCTION) procedure before it ends. The value passed by the function's name should be defined.
+  * [EXIT](EXIT) SELECT exits a [SELECT CASE](SELECT-CASE) block.
+  * [EXIT](EXIT) CASE does the same as EXIT SELECT unless when used in a **SELECT EVERYCASE** block; in such case, execution proceeds to the next CASE evaluation.
+* EXIT statements normally use an [IF...THEN](IF...THEN) statement to evaluate a program condition that would require the EXIT.
+* To exit a program and allow the last program screen to be displayed with the message "Press any key to continue...", use [END](END).
+* To exit the program immediately, use [SYSTEM](SYSTEM).
+
+## Availability
+
+* **EXIT SELECT/CASE** available with version 1.5.
+* All other variants available in all versions of QB64.
+
+## See Also
+
+* [_EXIT (function)](_EXIT-(function))
+* [END](END), [SYSTEM](SYSTEM)
+* [STOP](STOP)

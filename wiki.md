@@ -3,6 +3,7 @@
 ## Wiki
 
 - **[PRINT](wiki/PRINT.md)**
+- **[VIEW](wiki/VIEW.md)**
 
 Although you can find several copies of the QB64 wiki on the internet, many of these exist as *backup copies* due to the past instability issues around QB64 .org and .net websites and (most likely) aren't currently maintained.
 
