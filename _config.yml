@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 title: QB64.com
 description: QB64 is a modern extended BASIC programming language that retains QBasic/QuickBASIC 4.5 compatibility and compiles native binaries for Windows, Linux, and macOS.
+
 include: 
   - wiki/*
-keep_files:
-  - wiki/*
+  - wiki/_ASIN.md
