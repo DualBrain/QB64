@@ -4,5 +4,4 @@ description: QB64 is a modern extended BASIC programming language that retains Q
 
 include: 
   - _mem.md
-  - _ACOS.md
-  - "wiki/_*.md"
+  - "_*.md"
