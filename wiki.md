@@ -733,12 +733,8 @@ Links to other QBasic Sites:
 
 ---
 
-Although you can find several copies of the QB64 wiki on the internet, many of these exist as *backup copies* due to the past instability issues around QB64 .org and .net websites and (most likely) aren't currently maintained.
+This wiki content is a mirror of the [QB64 Wiki on GitHub](https://github.com/QB64Official/qb64/wiki) integrated into QB64.com with a primary purpose of providing search landing for the QB64 language when using a web browser to find help. This mirror is an ongoing work in progress - as is the wiki that it is based. You can find the most up to date version of this content utilized by this mirror by jumping over to [QB64 Wiki on GitHub](https://github.com/QB64Official/qb64/wiki).
 
-To remedy this, a recent project was begun to transition the wiki so that it is managed in the same way as the source code; meaning it is now directly managed and hosted within the [github repo](https://github.com/QB64Official/qb64). You can find this official wiki at:
-
-- [QB64 Wiki on GitHub](https://github.com/QB64Official/qb64/wiki)
-
-Archive / Backup:
+Old Archive / Backup:
 
 - [Studio Pond](http://www.studiopond.uk/qb64wiki/index.html)
