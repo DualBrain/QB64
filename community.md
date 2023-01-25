@@ -6,9 +6,11 @@ There are many ways to connect and interact with other QB64 community members.
 
 ### Forum
 
-> Going with a more "traditional" approach to on-line communities, forums provide a great way to get to know people, share knowledge and find help.
+> Forums provide a great way to get to know people, share knowledge and find help.
 
-- [QB64 Official](https://qb64.boards.net/)
+- [QB64 Forum](https://qb64.boards.net/)
+
+Please note that the QB64 Forum follows the published [Code of Conduct](conduct.md).
 
 Although the following forums aren't specific to QB64, they may be of interest...
 
@@ -25,18 +27,9 @@ There was a previous forum (during the QB64.org era), but it was shutdown by it'
 
 > Discord is a VoIP and instant messaging platform.  Users have the ability to communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers".  A server is a collection of persistent chat rooms and voice chat channels which can be accessed via invite links.  
 
-The official Discord server follows the published [Code of Conduct](conduct.md).
+- [QB64 Discord Server](https://discord.gg/A3HmUe2mv8)
 
-- [QB64 Official](https://discord.gg/A3HmUe2mv8)
-
-The following Discord servers are spun up without thought to how the community (which is mostly anonymous) will be managed; meaning no defined *Code of Conduct* or, if some rules do exist, they are very relaxed in being enforced.  Due to this, if you don't "fit in" (*click*) with the existing manager(s) of the server; you could easily be *mistreated* and/or *banned*.  To say this another way, the following have **NO** clearly defined *Code of Conduct* - so experience varies widely and subject to individual tastes.
-
-- [Dark Theme Logic (QB64 and QBjs)](https://discord.gg/4As4g5tEtd)
-- [QB64FR](https://discord.com/channels/953279107699994624/953279107699994627)
-
-The following Discord server isn't specific to QB64, but does have a channel dedicated to QB64 (it also adheres to a similar [Code of Conduct](conduct.md)):
-
-- [QB64 (GotBASIC.com)](https://discord.gg/NP3wbjAWk5)
+Please note that the QB64 Discord server follows the published [Code of Conduct](conduct.md).
 
 ### Facebook
 
