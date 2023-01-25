@@ -48,7 +48,6 @@ Pages...
 ### Mastadon
 
 - [@qb64@oldbytes.space]("https://oldbytes.space/@qb64")
-- [Scott Williams](https://mastodon.online/@vwbusguy)
 
 ### Podcast
 
