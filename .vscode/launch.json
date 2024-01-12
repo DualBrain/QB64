@@ -1,0 +1,26 @@
+{
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "QB64 Build and Run",
+				"type": "QB64",
+				"request": "launch",
+				"command": "${config:qb64.installPath}/qb64.exe -c -x \"${fileDirname}\\${fileBasename}\" -o \"${fileDirname}\\${fileBasenameNoExtension}.exe\"  -x; if ($?) { cd \"${fileDirname}\"; start \"${fileDirname}\\${fileBasenameNoExtension}.exe\"}",	
+				"terminalName": "QB64",
+				"terminalIndex": -1, 
+				"showTerminal": true,
+				"linux": {
+					"name": "QB64 Build and Run",
+					"type": "QB64",
+					"request": "launch",					
+					"command": "${config:qb64.installPath}/qb64 '${fileDirname}/${fileBasename}' -c -x -o '${fileDirname}/${fileBasenameNoExtension}' && '${fileDirname}/${fileBasenameNoExtension}'",
+				},
+				"osx": {
+					"name": "QB64 Build and Run",
+					"type": "QB64",
+					"request": "launch",
+					"command": "${config:qb64.installPath}/qb64 '${fileDirname}/${fileBasename}' -c -x -o '${fileDirname}/${fileBasenameNoExtension}'; mv '${fileDirname}/${fileBasenameNoExtension}' '${fileDirname}/${fileBasenameNoExtension}.run'; '${fileDirname}/${fileBasenameNoExtension}.run'",
+				}
+			} 
+		]
+	}
