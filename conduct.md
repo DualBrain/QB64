@@ -11,4 +11,4 @@ This document provides community guidelines for a safe, respectful, productive, 
 
 ## Attribution
 
-Special thanks to the [Ruby](https://www.ruby-lang.org/) community for creating a wonderfully crafted set [guidelines](https://www.ruby-lang.org/en/conduct/).
+Special thanks to the [Ruby](https://www.ruby-lang.org/) community for creating such a wonderfully crafted set of [guidelines](https://www.ruby-lang.org/en/conduct/).
