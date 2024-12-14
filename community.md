@@ -10,7 +10,7 @@ There are many ways to connect and interact with other QB64 community members.
 
 - [QB64 Forum](https://qb64.boards.net/)
 
-Please note that the QB64 Forum follows the published [Code of Conduct](conduct.md).
+Please note that the QB64 Forum follows the published [Community Conduct Guidelines](conduct.md).
 
 Although the following forums aren't specific to QB64, they may be of interest...
 
@@ -29,13 +29,13 @@ There was a previous forum (during the QB64.org era), but it was shutdown by it'
 
 - [QB64 Discord Server](https://discord.gg/A3HmUe2mv8)
 
-Please note that the QB64 Discord server follows the published [Code of Conduct](conduct.md).
+Please note that the QB64 Discord server follows the published [Community Conduct Guidelines](conduct.md).
 
 ### Facebook
 
 > If you are on Facebook, you can connect with people who share your interests. Meet new people, share knowledge or get support.
 
-Regarding *Code of Conduct* on Facebook groups, there are fundamental / basic enforceable guidelines in place for all of Facebook that will carry through to Facebook groups - above and beyond these fundamental guidelines, the rest is up to each individual group. When participating in these groups be sure to review any pinned messages and/or description for specifics.
+Regarding *Community Conduct Guidelines* on Facebook groups, there are fundamental / basic enforceable guidelines in place for all of Facebook that will carry through to Facebook groups - above and beyond these fundamental guidelines, the rest is up to each individual group. When participating in these groups be sure to review any pinned messages and/or description for specifics.
 
 Groups...
 
